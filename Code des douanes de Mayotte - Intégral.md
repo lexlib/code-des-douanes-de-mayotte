@@ -1,126 +1,221 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2003-03-19
+Version Consolidée au 2004-10-29
 ## Contenu: 
   - [Partie législative (art. 1 à 321)](#1)
     - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 22)](#2)
       - [Chapitre Ier : Généralités. (art. 1 à 3)](#3)
-      - [Chapitre II : Tarif des douanes. (art. 4)](#4)
-      - [Chapitre III : Pouvoirs généraux du Gouvernement, de son représentant et du conseil général (art. 7 à 11)](#5)
-        - [Section 2 : Contrôle du commerce extérieur et prohibitions (art. 7)](#6)
+      - [Chapitre II : Tarif des douanes. (art. 4 à 5)](#4)
+      - [Chapitre III : Pouvoirs généraux du Gouvernement, de son représentant et du conseil général (art. 7 à 12)](#5)
+        - [Section 2 : Contrôle du commerce extérieur et prohibitions (art. 7 à 9)](#6)
           - [Paragraphe 1 : Dispositions communes à l'importation et à l'exportation. (art. 7)](#7)
-        - [Section 4 : Octroi de la clause transitoire. (art. 11)](#8)
-      - [Chapitre IV : Conditions d'application de la loi tarifaire (art. 14 à 17)](#9)
-        - [Section 2 : Espèce des marchandises (art. 14)](#10)
-          - [Paragraphe 1 : Définition, assimilation et classement. (art. 14)](#11)
-        - [Section 4 : Valeur des marchandises (art. 17)](#12)
-          - [Paragraphe 2 : A l'exportation. (art. 17)](#13)
-      - [Chapitre V : Prohibitions (art. 19 à 21)](#14)
-        - [Section 1 : Généralités. (art. 19)](#15)
-        - [Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine. (art. 20 à 21)](#16)
-      - [Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger. (art. 22)](#17)
-    - [Titre II : Organisation et fonctionnement du service des douanes (art. 23 à 45)](#18)
-      - [Chapitre Ier : Champ d'action du service des douanes. (art. 23 à 24)](#19)
-      - [Chapitre II : Organisation des bureaux et des brigades de douane (art. 27)](#20)
-        - [Section 3 : Dispositions communes aux bureaux et aux brigades de douane. (art. 27)](#21)
-      - [Chapitre III : Immunités, sauvegarde et obligations des agents de douanes. (art. 28 à 34)](#22)
-      - [Chapitre IV : Pouvoirs des agents des douanes (art. 35 à 45)](#23)
-        - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 35 à 40)](#24)
-        - [Section 2 : Visites domiciliaires. (art. 41)](#25)
-        - [Section 3 : Droit de communication (art. 42 à 43)](#26)
-          - [Paragraphe 1 : Droit de communication de l'administration des finances. (art. 42)](#27)
-          - [Paragraphe 2 : Droit de communication particulier à l'administration des douanes. (art. 43)](#28)
-        - [Section 4 : Contrôle douanier des envois par la poste. (art. 44)](#29)
-        - [Section 5 : Présentation des passeports. (art. 45)](#30)
-    - [Titre III : Conduite des marchandises en douane (art. 47 à 63)](#31)
-      - [Chapitre Ier : Importation (art. 47 à 57)](#32)
-        - [Section 1 : Transports par mer. (art. 47 à 51)](#33)
-        - [Section 2 : Transports par la voie aérienne. (art. 53 à 57)](#34)
-      - [Chapitre II : Magasins et aires de dédouanement. (art. 59 à 61)](#35)
-      - [Chapitre III : Exportation. (art. 63)](#36)
-    - [Titre IV : Opérations de dédouanement (art. 64 à 96)](#37)
-      - [Chapitre Ier : Déclaration en détail (art. 64 à 79)](#38)
-        - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 64)](#39)
-        - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 66 à 71)](#40)
-        - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 74 à 79)](#41)
-      - [Chapitre II : Vérification des marchandises (art. 81 à 85)](#42)
-        - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 81 à 83)](#43)
-        - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 84)](#44)
-        - [Section 3 : Application des résultats de la vérification. (art. 85)](#45)
-      - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 86 à 90)](#46)
-        - [Section 1 : Liquidation des droits et taxes. (art. 86 à 87)](#47)
-        - [Section 2 : Paiement au comptant. (art. 88 à 89)](#48)
-        - [Section 3 : Crédit des droits et taxes. (art. 90)](#49)
-      - [Chapitre IV : Enlèvement des marchandises (art. 91 à 96)](#50)
-        - [Section 1 : Règles générales. (art. 91)](#51)
-        - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 93 à 96)](#52)
-    - [Titre V : Régimes douaniers suspensifs, exportation temporaire (art. 97 à 145)](#53)
-      - [Chapitre Ier : Régime général des acquits-à-caution. (art. 97 à 101)](#54)
-      - [Chapitre II : Transit. (art. 102 à 107)](#55)
-      - [Chapitre III : Entrepôt de douane (entrepôt de stockage) (art. 109 à 127)](#56)
-        - [Section 1 : Définition et effets de l'entrepôt. (art. 109)](#57)
-        - [Section 3 : L'entrepôt public (art. 115 à 116)](#58)
-          - [Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises. (art. 115 à 116)](#59)
-        - [Section 4 : L'entrepôt privé (art. 118)](#60)
-          - [Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises. (art. 118)](#61)
-        - [Section 6 : Dispositions applicables à tous les entrepôts de stockage. (art. 121 à 127)](#62)
-      - [Chapitre IV : Entrepôt de douane (entrepôt industriel). (art. 129 à 133)](#63)
-      - [Chapitre V : Usines exercées par la douane. (art. 135)](#64)
-      - [Chapitre VI : Admission temporaire. (art. 138 à 145)](#65)
-    - [Titre VI : Dépôt de douane (art. 148 à 154)](#66)
-      - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 148 à 151)](#67)
-      - [Chapitre II : Vente des marchandises en dépôt. (art. 152 à 154)](#68)
-    - [Titre VII : Opérations privilégiées (art. 156 à 160)](#69)
-      - [Chapitre II : Avitaillement des navires et des aéronefs (art. 156 à 160)](#70)
-        - [Section 1 : Dispositions spéciales aux navires. (art. 156 à 159)](#71)
-        - [Section 2 : Dispositions spéciales aux aéronefs. (art. 160)](#72)
-    - [Titre IX : Navigation (art. 164 à 190)](#73)
-      - [Chapitre Ier : Régime administratif des navires (art. 164 à 185)](#74)
-        - [Section 1 : Champ d'application. (art. 164)](#75)
-        - [Section 2 : Francisation des navires (art. 165 à 170)](#76)
-          - [Paragraphe 1 : Généralités. (art. 165)](#77)
-          - [Paragraphe 2 : Jaugeage des navires. (art. 166)](#78)
-          - [Paragraphe 3 : Droit de francisation et de navigation. (art. 169)](#79)
-          - [Paragraphe 4 : Réparations de navires français hors du territoire douanier. (art. 170)](#80)
-        - [Section 3 : Congés. (art. 171 à 172)](#81)
-        - [Section 4 : Passeports. (art. 173)](#82)
-        - [Section 5 : Hypothèques maritimes (art. 174 à 185)](#83)
-          - [Paragraphe 1 : Constitution de l'hypothèque. (art. 174 à 178)](#84)
-          - [Paragraphe 2 : Effets de l'hypothèque. (art. 179 à 182)](#85)
-          - [Paragraphe 3 : Radiations. (art. 183)](#86)
-          - [Paragraphe 4 : Etat des inscriptions, saisie. (art. 184)](#87)
-          - [Paragraphe 5 : Ventes. (art. 185)](#88)
-      - [Chapitre II : Relâches forcées. (art. 187 à 188)](#89)
-      - [Chapitre III : Marchandises sauvées des naufrages, épaves. (art. 189 à 190)](#90)
-    - [Titre X : Zones franches. (art. 191)](#91)
-    - [Titre XI : Contentieux (art. 194 à 283)](#92)
-      - [Chapitre Ier : Constatation des infractions douanières (art. 194)](#93)
-        - [Section 1 : Constatation par procès-verbal de saisie (art. 194)](#94)
-          - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 194)](#95)
-      - [Chapitre II : Poursuites (art. 217 à 227)](#96)
-        - [Section 2 : Poursuite par voie de contrainte (art. 217 à 220)](#97)
-          - [Paragraphe 1 : Emploi de la contrainte. (art. 217 à 218)](#98)
-          - [Paragraphe 2 : Titres. (art. 219 à 220)](#99)
-        - [Section 3 : Extinction des droits de poursuite et de répression (art. 226 à 227)](#100)
-          - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 226 à 227)](#101)
-            - [B. - Prescription contre l'administration. (art. 226)](#102)
-            - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 227)](#103)
-      - [Chapitre III : Procédure devant les tribunaux (art. 230)](#104)
-        - [Section 1 : Tribunaux compétents en matière de douane. (art. 230)](#105)
-      - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 245 à 256)](#106)
-        - [Section 1 : Sûretés garantissant l'exécution (art. 245 à 248)](#107)
-          - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 245 à 248)](#108)
-        - [Section 2 : Voie d'exécution (art. 256)](#109)
-          - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 256)](#110)
-      - [Chapitre VI : Dispositions répressives (art. 282 à 283)](#111)
-        - [Section 1 : Classification des infractions douanières et peines principales (art. 282 à 283)](#112)
-          - [Paragraphe 3 : Délits douaniers (art. 282 à 283)](#113)
-            - [A. - Première classe. (art. 282)](#114)
-            - [B. - Deuxième classe. (art. 283)](#115)
-    - [Titre XII : La commission de conciliation et d'expertise douanière. (art. 306 à 312)](#116)
-    - [Titre XIII : Contentieux des relations financières avec l'étranger (art. 314 à 321)](#117)
-      - [Chapitre Ier : Dispositions communes. (art. 314)](#118)
-      - [Chapitre II : Constatation des infractions. (art. 315 à 319)](#119)
-      - [Chapitre IV : Dispositions répressives. (art. 321)](#120)
+          - [Paragraphe 2 : Dispositions spéciales à l'exportation. (art. 8)](#8)
+          - [Paragraphe 3 : Dispositions spéciales à l'importation. (art. 9)](#9)
+        - [Section 3 : Restrictions d'entrée, de sortie, de tonnage et de conditionnement. (art. 10)](#10)
+        - [Section 4 : Octroi de la clause transitoire. (art. 11)](#11)
+        - [Section 5 : Règlements généraux des douanes. (art. 12)](#12)
+      - [Chapitre IV : Conditions d'application de la loi tarifaire (art. 13 à 18)](#13)
+        - [Section 1 : Généralités. (art. 13)](#14)
+        - [Section 2 : Espèce des marchandises (art. 14)](#15)
+          - [Paragraphe 1 : Définition, assimilation et classement. (art. 14)](#16)
+        - [Section 3 : Origine des marchandises. (art. 15)](#17)
+        - [Section 4 : Valeur des marchandises (art. 16 à 17)](#18)
+          - [Paragraphe 1 : A l'importation. (art. 16)](#19)
+          - [Paragraphe 2 : A l'exportation. (art. 17)](#20)
+        - [Section 5 : Poids des marchandises. (art. 18)](#21)
+      - [Chapitre V : Prohibitions (art. 19 à 21)](#22)
+        - [Section 1 : Généralités. (art. 19)](#23)
+        - [Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine. (art. 20 à 21)](#24)
+      - [Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger. (art. 22)](#25)
+    - [Titre II : Organisation et fonctionnement du service des douanes (art. 23 à 46)](#26)
+      - [Chapitre Ier : Champ d'action du service des douanes. (art. 23 à 24)](#27)
+      - [Chapitre II : Organisation des bureaux et des brigades de douane (art. 25 à 27)](#28)
+        - [Section 1 : Etablissement des bureaux de douane. (art. 25)](#29)
+        - [Section 2 : Etablissement des brigades de douane. (art. 26)](#30)
+        - [Section 3 : Dispositions communes aux bureaux et aux brigades de douane. (art. 27)](#31)
+      - [Chapitre III : Immunités, sauvegarde et obligations des agents de douanes. (art. 28 à 34)](#32)
+      - [Chapitre IV : Pouvoirs des agents des douanes (art. 35 à 46)](#33)
+        - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 35 à 40)](#34)
+        - [Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires. (art. 40 bis à 41)](#35)
+        - [Section 3 : Droit de communication (art. 42 à 43)](#36)
+          - [Paragraphe 1 : Droit de communication de l'administration des finances. (art. 42 à 42 bis)](#37)
+          - [Paragraphe 2 : Droit de communication particulier à l'administration des douanes. (art. 43)](#38)
+        - [Section 4 : Contrôle douanier des envois par la poste. (art. 44)](#39)
+        - [Section 5 : Présentation des passeports. (art. 45)](#40)
+        - [Section 6 : Livraisons surveillées. (art. 46)](#41)
+    - [Titre III : Conduite des marchandises en douane (art. 47 à 63)](#42)
+      - [Chapitre Ier : Importation (art. 47 à 57)](#43)
+        - [Section 1 : Transports par mer. (art. 47 à 52)](#44)
+        - [Section 2 : Transports par la voie aérienne. (art. 53 à 57)](#45)
+      - [Chapitre II : Magasins et aires de dédouanement. (art. 58 à 62)](#46)
+      - [Chapitre III : Exportation. (art. 63)](#47)
+    - [Titre IV : Opérations de dédouanement (art. 64 à 96)](#48)
+      - [Chapitre Ier : Déclaration en détail (art. 64 à 80)](#49)
+        - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 64 à 65)](#50)
+        - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 66 à 72)](#51)
+        - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 73 à 80)](#52)
+      - [Chapitre II : Vérification des marchandises (art. 81 à 85)](#53)
+        - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 81 à 83)](#54)
+        - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 84)](#55)
+        - [Section 3 : Application des résultats de la vérification. (art. 85)](#56)
+      - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 86 à 90)](#57)
+        - [Section 1 : Liquidation des droits et taxes. (art. 86 à 87)](#58)
+        - [Section 2 : Paiement au comptant. (art. 88 à 89)](#59)
+        - [Section 3 : Crédit des droits et taxes. (art. 90)](#60)
+      - [Chapitre IV : Enlèvement des marchandises (art. 91 à 96)](#61)
+        - [Section 1 : Règles générales. (art. 91)](#62)
+        - [Section 2 : Crédit d'enlèvement. (art. 92)](#63)
+        - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 93 à 96)](#64)
+    - [Titre V : Régimes douaniers suspensifs, exportation temporaire (art. 97 à 147)](#65)
+      - [Chapitre Ier : Régime général des acquits-à-caution. (art. 97 à 101)](#66)
+      - [Chapitre II : Transit. (art. 102 à 108)](#67)
+      - [Chapitre III : Entrepôt de douane (entrepôt de stockage) (art. 109 à 128)](#68)
+        - [Section 1 : Définition et effets de l'entrepôt. (art. 109)](#69)
+        - [Section 2 : Marchandises exclues, marchandises admissibles, restrictions de stockage (art. 110 à 113)](#70)
+          - [Paragraphe 1 : Marchandises exclues. (art. 110)](#71)
+          - [Paragraphe 2 : Marchandises admissibles. (art. 111)](#72)
+          - [Paragraphe 3 : Restrictions de stockage. (art. 112 à 113)](#73)
+        - [Section 3 : L'entrepôt public (art. 114 à 116)](#74)
+          - [Paragraphe 1 : Etablissement de l'entrepôt public. (art. 114)](#75)
+          - [Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises. (art. 115 à 116)](#76)
+        - [Section 4 : L'entrepôt privé (art. 117 à 118)](#77)
+          - [Paragraphe 1 : Etablissement de l'entrepôt privé. (art. 117)](#78)
+          - [Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises. (art. 118)](#79)
+        - [Section 5 : L'entrepôt spécial (art. 119 à 120)](#80)
+          - [Paragraphe 1 : Etablissement de l'entrepôt spécial. (art. 119)](#81)
+          - [Paragraphe 2 : Séjour des marchandises. (art. 120)](#82)
+        - [Section 6 : Dispositions applicables à tous les entrepôts de stockage. (art. 121 à 128)](#83)
+      - [Chapitre IV : Entrepôt de douane (entrepôt industriel). (art. 129 à 134)](#84)
+      - [Chapitre V : Usines exercées par la douane. (art. 135 à 136)](#85)
+      - [Chapitre VI : Admission temporaire. (art. 137 à 146)](#86)
+      - [Chapitre VII : Exportation temporaire. (art. 147)](#87)
+    - [Titre VI : Dépôt de douane (art. 148 à 154)](#88)
+      - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 148 à 151)](#89)
+      - [Chapitre II : Vente des marchandises en dépôt. (art. 152 à 154)](#90)
+    - [Titre VII : Opérations privilégiées (art. 155 à 162)](#91)
+      - [Chapitre Ier : Admissions en franchise. (art. 155)](#92)
+      - [Chapitre II : Avitaillement des navires et des aéronefs (art. 156 à 160)](#93)
+        - [Section 1 : Dispositions spéciales aux navires. (art. 156 à 159)](#94)
+        - [Section 2 : Dispositions spéciales aux aéronefs. (art. 160)](#95)
+      - [Chapitre III : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 161 à 162)](#96)
+    - [Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier (art. 163)](#97)
+      - [Chapitre unique : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 163)](#98)
+    - [Titre IX : Navigation (art. 164 à 190)](#99)
+      - [Chapitre Ier : Régime administratif des navires (art. 164 à 186)](#100)
+        - [Section 1 : Champ d'application. (art. 164)](#101)
+        - [Section 2 : Francisation des navires (art. 165 à 170)](#102)
+          - [Paragraphe 1 : Généralités. (art. 165)](#103)
+          - [Paragraphe 2 : Jaugeage des navires. (art. 166)](#104)
+          - [Paragraphe 3 : Droit de francisation et de navigation. (art. 167 à 169)](#105)
+          - [Paragraphe 4 : Réparations de navires français hors du territoire douanier. (art. 170)](#106)
+        - [Section 3 : Congés. (art. 171 à 172)](#107)
+        - [Section 4 : Passeports. (art. 173)](#108)
+        - [Section 5 : Hypothèques maritimes (art. 174 à 186)](#109)
+          - [Paragraphe 1 : Constitution de l'hypothèque. (art. 174 à 178)](#110)
+          - [Paragraphe 2 : Effets de l'hypothèque. (art. 179 à 182)](#111)
+          - [Paragraphe 3 : Radiations. (art. 183)](#112)
+          - [Paragraphe 4 : Etat des inscriptions, saisie. (art. 184)](#113)
+          - [Paragraphe 5 : Ventes. (art. 185 à 186)](#114)
+      - [Chapitre II : Relâches forcées. (art. 187 à 188)](#115)
+      - [Chapitre III : Marchandises sauvées des naufrages, épaves. (art. 189 à 190)](#116)
+    - [Titre X : Zones franches. (art. 191 à 192)](#117)
+    - [Titre XI : Contentieux et recouvrement (art. 193 à 304)](#118)
+      - [Chapitre Ier : Constatation des infractions douanières (art. 193 à 212)](#119)
+        - [Section 1 : Constatation par procès-verbal de saisie (art. 193 à 203)](#120)
+          - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 193)](#121)
+          - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 194 à 198)](#122)
+          - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 199 à 202)](#123)
+            - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 199)](#124)
+            - [B. - Saisies à domicile. (art. 200)](#125)
+            - [C. - Saisies sur les navires et bateaux pontés. (art. 201)](#126)
+            - [D. - Saisies en tous lieux. (art. 202)](#127)
+          - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 203)](#128)
+        - [Section 2 : Constatation par procès-verbal de constat. (art. 204)](#129)
+        - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 205 à 212)](#130)
+          - [Paragraphe 1 : Timbre et enregistrement. (art. 205)](#131)
+          - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 206 à 212)](#132)
+      - [Chapitre II : Poursuites et recouvrement (art. 213 à 227)](#133)
+        - [Section 1 : Dispositions générales. (art. 213 à 216)](#134)
+        - [Section 2 : Recouvrement (art. 217 à 220 ter)](#135)
+        - [Section 3 : Extinction des droits de poursuite et de répression (art. 221 à 227)](#136)
+          - [Paragraphe 1 : Droit de transaction. (art. 221)](#137)
+          - [Paragraphe 2 : Prescription de l'action. (art. 222)](#138)
+          - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 223 à 227)](#139)
+            - [A. - Prescription contre les redevables. (art. 223 à 225)](#140)
+            - [B. - Prescription contre l'administration. (art. 226)](#141)
+            - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 227)](#142)
+      - [Chapitre III : Procédure devant les tribunaux (art. 228 à 243)](#143)
+        - [Section 1 : Tribunaux compétents en matière de douane. (art. 228 à 230)](#144)
+        - [Section 2 : Procédure devant les juridictions civiles (art. 231 à 232)](#145)
+          - [Paragraphe 1 : Appel des jugements rendus par le juge de première instance. (art. 231)](#146)
+          - [Paragraphe 2 : Notification des jugements et autres actes de procédure. (art. 232)](#147)
+        - [Section 3 : Procédure devant les juridictions répressives. (art. 233)](#148)
+        - [Section 4 : Dispositions diverses (art. 234 à 243)](#149)
+          - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 234 à 235)](#150)
+            - [A. - Instruction et frais. (art. 234)](#151)
+            - [B. - Exploits. (art. 235)](#152)
+          - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 236 à 237)](#153)
+          - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 238 à 243)](#154)
+            - [A. - Preuves de non-contravention. (art. 238)](#155)
+            - [B. - Action en garantie. (art. 239)](#156)
+            - [C. - Confiscation des objets saisis sur inconnus et des minuties. (art. 240)](#157)
+            - [D. - Revendication des objets saisis. (art. 241)](#158)
+            - [E. - Fausses déclarations. (art. 242)](#159)
+            - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 243)](#160)
+      - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 244 à 260)](#161)
+        - [Section 1 : Sûretés garantissant l'exécution (art. 244 à 247)](#162)
+          - [Paragraphe 1 : Droit de rétention. (art. 244)](#163)
+          - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 245 à 247)](#164)
+        - [Section 2 : Voie d'exécution (art. 248 à 258)](#165)
+          - [Paragraphe 1 : Règles générales. (art. 248)](#166)
+          - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 249 à 255)](#167)
+          - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 256)](#168)
+          - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes (art. 257 à 258)](#169)
+            - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 257)](#170)
+            - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 257 bis)](#171)
+            - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 258)](#172)
+        - [Section 3 : Droit de remise. (art. 259)](#173)
+        - [Section 4 : Répartition du produit des amendes et confiscations. (art. 260)](#174)
+      - [Chapitre V : Responsabilité et solidarité (art. 261 à 275)](#175)
+        - [Section 1 : Responsabilité pénale (art. 261 à 268)](#176)
+          - [Paragraphe 1 : Détenteurs. (art. 261)](#177)
+          - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 262 à 263)](#178)
+          - [Paragraphe 3 : Déclarants. (art. 264)](#179)
+          - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 265)](#180)
+          - [Paragraphe 5 : Soumissionnaires. (art. 266)](#181)
+          - [Paragraphe 6 : Complices. (art. 267)](#182)
+          - [Paragraphe 7 : Intéressés à la fraude. (art. 268)](#183)
+        - [Section 2 : Responsabilité civile (art. 269 à 273)](#184)
+          - [Paragraphe 1 : Responsabilité de l'administration. (art. 269 à 271)](#185)
+          - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 272)](#186)
+          - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 273)](#187)
+        - [Section 3 : Solidarité. (art. 274 à 275)](#188)
+      - [Chapitre VI : Dispositions répressives (art. 276 à 304)](#189)
+        - [Section 1 : Classification des infractions douanières et peines principales (art. 276 à 291)](#190)
+          - [Paragraphe 1 : Généralités. (art. 276 à 277)](#191)
+          - [Paragraphe 2 : Contraventions douanières (art. 278 à 281)](#192)
+            - [A. - Première classe. (art. 278)](#193)
+            - [B. - Deuxième classe. (art. 279)](#194)
+            - [C. - Troisième classe. (art. 280)](#195)
+            - [D. - Quatrième classe. (art. 281)](#196)
+          - [Paragraphe 3 : Délits douaniers (art. 282 à 283)](#197)
+            - [A. - Première classe. (art. 282)](#198)
+            - [B. - Deuxième classe. (art. 283)](#199)
+          - [Paragraphe 4 : Contrebande. (art. 284 à 285)](#200)
+          - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 286 à 291)](#201)
+        - [Section 2 : Peines complémentaires (art. 292 à 296)](#202)
+          - [Paragraphe 1 : Confiscation. (art. 292)](#203)
+          - [Paragraphe 2 : Astreinte. (art. 293)](#204)
+          - [Paragraphe 3 : Peines privatives de droits. (art. 294 à 296)](#205)
+        - [Section 3 : Cas particuliers d'application des peines (art. 297 à 304)](#206)
+          - [Paragraphe 1 : Confiscation. (art. 297 à 298)](#207)
+          - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 299 à 302)](#208)
+          - [Paragraphe 3 : Concours d'infractions. (art. 303 à 304)](#209)
+    - [Titre XII : La commission de conciliation et d'expertise douanière. (art. 305 à 313)](#210)
+    - [Titre XIII : Contentieux des relations financières avec l'étranger (art. 314 à 321)](#211)
+      - [Chapitre Ier : Dispositions communes. (art. 314)](#212)
+      - [Chapitre II : Constatation des infractions. (art. 315 à 319)](#213)
+      - [Chapitre III : Poursuite des infractions. (art. 320)](#214)
+      - [Chapitre IV : Dispositions répressives. (art. 321)](#215)
 # Partie législative<a id=1></a>
 
 ## Titre Ier : Principes généraux du régime des douanes<a id=2></a>
@@ -216,6 +311,28 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
+###### Article 5
+
+Les dispositions du présent code concernant les marchandises fortement taxées ne s'appliquent qu'aux marchandises désignées
+par arrêté du représentant de l'Etat parmi celles pour lesquelles l'ensemble des droits de douanes, prélèvement et taxes
+diverses applicables à l'importation représente plus de 20 % de leur valeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
 ### Chapitre III : Pouvoirs généraux du Gouvernement, de son représentant et du conseil général<a id=5></a>
 
 #### Section 2 : Contrôle du commerce extérieur et prohibitions<a id=6></a>
@@ -249,7 +366,85 @@ _Cite_:
   - Code des douanes de Mayotte - art. 6 (MMN)
 
 
-#### Section 4 : Octroi de la clause transitoire.<a id=8></a>
+##### Paragraphe 2 : Dispositions spéciales à l'exportation.<a id=8></a>
+
+###### Article 8
+
+Des arrêtés du représentant de l'Etat peuvent provisoirement et en cas d'urgence permettre ou suspendre l'exportation de
+certains produits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+##### Paragraphe 3 : Dispositions spéciales à l'importation.<a id=9></a>
+
+###### Article 9
+
+Sous réserve de l'application des accords internationaux, l'importation des denrées, matières et produits de toute nature et
+de toutes origines, qui ne satisfont pas aux obligations législatives ou réglementaires imposées, en matière de
+commercialisation ou de vente, aux denrées, matières ou produits similaires nationaux, peut être prohibée ou réglementée par
+des arrêtés du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 3 : Restrictions d'entrée, de sortie, de tonnage et de conditionnement.<a id=10></a>
+
+###### Article 10
+
+Des arrêtés du représentant de l'Etat peuvent :
+
+1. Limiter la compétence de certains bureaux de douane et désigner ceux par lesquels devront s'effectuer obligatoirement
+certaines opérations douanières ;
+
+2. Décider que certaines marchandises ne pourront être importées ou exportées que par des navires d'un tonnage déterminé et
+fixer ce tonnage ;
+
+3. Fixer, pour certaines marchandises, des règles particulières de conditionnement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 4 : Octroi de la clause transitoire.<a id=11></a>
 
 ###### Article 11
 
@@ -282,11 +477,79 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 86 (V)
 
 
-### Chapitre IV : Conditions d'application de la loi tarifaire<a id=9></a>
+#### Section 5 : Règlements généraux des douanes.<a id=12></a>
 
-#### Section 2 : Espèce des marchandises<a id=10></a>
+###### Article 12
 
-##### Paragraphe 1 : Définition, assimilation et classement.<a id=11></a>
+Sauf dispositions contraires y contenues, les conditions d'application du présent code relatives à l'application des droits
+sont fixées par des arrêtés du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre IV : Conditions d'application de la loi tarifaire<a id=13></a>
+
+#### Section 1 : Généralités.<a id=14></a>
+
+###### Article 13
+
+1. Les produits importés ou exportés sont soumis à la loi tarifaire dans l'état où ils se trouvent au moment où celle-ci leur
+devient applicable.
+
+2. Toutefois, le service des douanes peut autoriser la séparation des marchandises qui, dans un même chargement, auraient été
+détériorées à la suite d'événements survenus avant enregistrement de la déclaration en détail ; les marchandises avariées
+doivent être soit détruites immédiatement, soit réexportées ou réexpédiées à l'intérieur suivant le cas, soit taxées selon
+leur nouvel état ;
+
+3. Les droits, taxes et surtaxes spécifiques sont perçus sans égard à la valeur relative ou au degré de conservation des
+marchandises.
+
+4. Le remboursement des droits et taxes perçus à l'entrée peut être accordé lorsqu'il est établi qu'au moment de leur
+importation les marchandises étaient défectueuses ou non conformes aux clauses du contrat en exécution duquel elles ont été
+importées.
+
+5. Le remboursement des droits et taxes est subordonné :
+
+a) Soit à la réexportation des marchandises à destination ou pour le compte du fournisseur étranger ;
+
+b) Soit à leur destruction sous les contrôles du service des douanes, avec acquittement des droits et taxes afférents aux
+résidus de cette destruction.
+
+6. Des arrêtés du représentant de l'Etat fixent les conditions d'application du présent article, et notamment le délai dans
+lequel la demande de remboursement doit être déposée après l'importation des marchandises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 2 : Espèce des marchandises<a id=15></a>
+
+##### Paragraphe 1 : Définition, assimilation et classement.<a id=16></a>
 
 ###### Article 14
 
@@ -317,9 +580,138 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 4 : Valeur des marchandises<a id=12></a>
+#### Section 3 : Origine des marchandises.<a id=17></a>
 
-##### Paragraphe 2 : A l'exportation.<a id=13></a>
+###### Article 15
+
+1. A l'importation, les droits de douane sont perçus suivant l'origine des marchandises, sauf application des dispositions
+spéciales prévues par les engagements internationaux en vigueur pour l'octroi de tarifs préférentiels.
+
+2. Les produits naturels sont originaires du pays où ils ont été extraits du sol ou récoltés.
+
+Les produits manufacturés dans un seul pays, sans apport de matières d'un autre pays, sont originaires du pays où ils ont été
+fabriqués.
+
+3. Des arrêtés du représentant de l'Etat fixent les règles à suivre pour déterminer l'origine des marchandises obtenues dans
+un pays en utilisant des produits récoltés, extraits du sol ou fabriqués dans un autre pays.
+
+4. Les produits importés ne bénéficient du traitement de faveur attribué à leur origine que s'il est régulièrement justifié
+de cette origine. Des arrêtés du représentant de l'Etat fixent les conditions dans lesquelles les justifications d'origine
+doivent être produites et les cas où celles-ci ne sont pas exigées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 4 : Valeur des marchandises<a id=18></a>
+
+##### Paragraphe 1 : A l'importation.<a id=19></a>
+
+###### Article 16
+
+1. A l'importation, la valeur en douane est le prix normal des marchandises, c'est-à-dire le prix réputé pouvoir être fait
+pour ces marchandises, au moment et dans le lieu fixé ci-après, lors d'une vente effectuée dans des conditions de pleine
+concurrence entre un acheteur et un vendeur indépendants.
+
+Lorsqu'une vente a été effectuée dans ces conditions, le prix normal pourra être déterminé à partir du prix de facture.
+
+2. Le prix normal des marchandises importées est déterminé sur les bases suivantes :
+
+a) Le moment à prendre en considération est la date d'enregistrement de la déclaration au bureau de douane ;
+
+b) Les marchandises sont réputées être livrées à l'acheteur au lieu d'introduction dans le territoire douanier ;
+
+c) Le vendeur est réputé supporter et avoir compris dans le prix les frais de transport des marchandises, ainsi que tous les
+autres frais se rapportant à la vente et à la livraison des marchandises au lieu d'introduction dans le territoire douanier ;
+
+d) Sont exclus du prix les frais afférents au transport effectué sur le territoire douanier, ainsi que les droits et taxes
+exigibles dans ce territoire.
+
+3. Une vente effectuée dans des conditions de pleine concurrence entre un acheteur et un vendeur indépendants est une vente
+effective de l'acheteur :
+
+a) Le paiement du prix de la marchandise constitue la seule prestation effective de l'acheteur ;
+
+b) Le prix convenu n'est pas influencé par des relations commerciales, financières ou autres, contractuelles ou non, qui
+pourraient exister, en dehors de celles créées par la vente elle-même, entre, d'une part, le vendeur ou une personne physique
+ou morale associée en affaires au vendeur et, d'autre part, l'acheteur ou une personne physique ou morale associée en
+affaires à l'acheteur ;
+
+c) Aucune partie du produit provenant de la vente, de la cession ultérieure ou de l'utilisation de la marchandise ne
+reviendra directement ou indirectement au vendeur ou à toute autre personne physique ou morale associée au vendeur.
+
+Deux personnes sont considérées comme associées en affaires si l'une d'elles possède un intérêt quelconque dans le commerce
+de l'autre ou si elles possèdent toutes les deux un intérêt commun dans un commerce quelconque ou si une tierce personne
+possède un intérêt dans le commerce de chacune d'elles, que ces intérêts soient directs ou indirects.
+
+4. Lorsque les marchandises à évaluer :
+
+a) Sont fabriquées selon un procédé breveté ou font l'objet d'un dessin ou d'un modèle déposés ;
+
+b) Ou sont revêtues d'une marque de fabrique ou de commerce étrangère ou sont importées pour être vendues sous une telle
+marque, la détermination du prix normal se fait en considérant que ce prix normal comprend la valeur du droit d'utilisation
+du brevet, du dessin ou du modèle déposé ou de la marque de fabrique, ou de commerce, relatifs auxdites marchandises.
+
+5. Toute déclaration doit être appuyée d'une facture.
+
+Si la marchandise est passible de droits ad valorem, la facture doit être légalisée par l'autorité diplomatique ou consulaire
+française. Des accords de réciprocité peuvent prévoir soit la substitution à cette légalisation d'un visa émanant
+d'organismes agréés par le Gouvernement français, soit la suppression de la formalité de la légalisation ou du visa.
+
+6. Le service des douanes peut exiger, en outre, la production des marchés, contrats, correspondances, etc., relatifs à
+l'opération.
+
+7. Les factures et les autres documents susvisés ne lient pas l'appréciation du service des douanes, ni celle de la
+commission de conciliation et d'expertise douanière.
+
+8. Lorsque les éléments retenus pour la détermination du prix normal sont exprimés dans une monnaie étrangère, la conversion
+doit être effectuée sur la base du taux de change officiel en vigueur à la date d'enregistrement de la déclaration.
+
+9. La valeur déterminée dans les conditions ci-dessus doit, le cas échéant, être arrondie au franc inférieur.
+
+10. Il doit être produit à l'appui de la déclaration en détail une attestation de l'importateur mentionnant les éléments
+relatifs à la détermination de la valeur en douane.
+
+Le représentant de l'Etat fixe par arrêté la forme de cette attestation, les énonciations qu'elle doit contenir et les
+documents qui doivent y être annexés.
+
+11. Lorsque la valeur déclarée est inférieure à la valeur en douane sans que l'attestation visée au 2 ci-dessus soit entachée
+d'inexactitude ou d'omission en ce qui concerne les points de fait et en l'absence de faute de la part du déclarant ou de son
+commettant, ceux-ci sont seulement tenus au paiement des droits et taxes compromis ou éludés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 133 (V)
+
+
+##### Paragraphe 2 : A l'exportation.<a id=20></a>
 
 ###### Article 17
 
@@ -345,9 +737,33 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre V : Prohibitions<a id=14></a>
+#### Section 5 : Poids des marchandises.<a id=21></a>
 
-#### Section 1 : Généralités.<a id=15></a>
+###### Article 18
+
+Des arrêtés du représentant de l'Etat fixent les conditions dans lesquelles doit être effectuée la vérification des
+marchandises taxées au poids et le régime des emballages importés pleins. Le poids imposable des marchandises taxées au poids
+net peut être déterminé par l'application d'une tare forfaitaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre V : Prohibitions<a id=22></a>
+
+#### Section 1 : Généralités.<a id=23></a>
 
 ###### Article 19
 
@@ -382,7 +798,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 289 (V)
 
 
-#### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=16></a>
+#### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=24></a>
 
 ###### Article 20
 
@@ -430,7 +846,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger.<a id=17></a>
+### Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger.<a id=25></a>
 
 ###### Article 22
 
@@ -458,9 +874,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre II : Organisation et fonctionnement du service des douanes<a id=18></a>
+## Titre II : Organisation et fonctionnement du service des douanes<a id=26></a>
 
-### Chapitre Ier : Champ d'action du service des douanes.<a id=19></a>
+### Chapitre Ier : Champ d'action du service des douanes.<a id=27></a>
 
 ###### Article 23
 
@@ -503,9 +919,56 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre II : Organisation des bureaux et des brigades de douane<a id=20></a>
+### Chapitre II : Organisation des bureaux et des brigades de douane<a id=28></a>
 
-#### Section 3 : Dispositions communes aux bureaux et aux brigades de douane.<a id=21></a>
+#### Section 1 : Etablissement des bureaux de douane.<a id=29></a>
+
+###### Article 25
+
+1. Les formalités douanières ne peuvent être accomplies que dans les bureaux de douane.
+
+2. Des dérogations à cette règle peuvent être accordées par des arrêtés du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 2 : Etablissement des brigades de douane.<a id=30></a>
+
+###### Article 26
+
+Les brigades de douanes sont créées et supprimées par des décisions du représentant de l'Etat sur proposition du chef du
+service des douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 3 : Dispositions communes aux bureaux et aux brigades de douane.<a id=31></a>
 
 ###### Article 27
 
@@ -537,7 +1000,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Immunités, sauvegarde et obligations des agents de douanes.<a id=22></a>
+### Chapitre III : Immunités, sauvegarde et obligations des agents de douanes.<a id=32></a>
 
 ###### Article 28
 
@@ -725,9 +1188,9 @@ _Cite_:
   - Code pénal - art. 226-13 (M)
 
 
-### Chapitre IV : Pouvoirs des agents des douanes<a id=23></a>
+### Chapitre IV : Pouvoirs des agents des douanes<a id=33></a>
 
-#### Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes.<a id=24></a>
+#### Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes.<a id=34></a>
 
 ###### Article 35
 
@@ -816,8 +1279,7 @@ _Cité par_:
 
 ###### Article 38
 
-Les agents des douanes peuvent visiter tous navires au-dessous de 100 tonneaux de jauge nette ou 500 tonneaux de jauge brute
-se trouvant dans les eaux territoriales de Mayotte.
+Les agents des douanes peuvent visiter tous navires se trouvant dans les eaux territoriales de Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -825,13 +1287,9 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
 ###### Article 39
@@ -886,7 +1344,40 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Visites domiciliaires.<a id=25></a>
+#### Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires.<a id=35></a>
+
+###### Article 40 bis
+
+Afin de procéder aux investigations nécessaires à la recherche et à la constatation des infractions prévues au présent code,
+les agents des douanes ayant au moins le grade de contrôleur ont accès aux locaux et lieux à usage professionnel ainsi qu'aux
+terrains et aux entrepôts où les marchandises et documents se rapportant à ces infractions sont susceptibles d'être détenus.
+Aux mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
+
+Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé, ou lorsque
+sont en cours des activités de production, de fabrication, de conditionnement, de transport, de manutention, d'entreposage ou
+de commercialisation.
+
+Le procureur de la République est préalablement informé des opérations visées au premier alinéa et peut s'y opposer. Un
+procès-verbal de constat relatant le déroulement des opérations de contrôle lui est transmis dans les cinq jours suivant son
+établissement. Une copie en est transmise à l'intéressé dans le même délai.
+
+Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent effectuer un prélèvement
+d'échantillons, dans des conditions fixées par décret en Conseil d'Etat, et procéder à la retenue de documents pour les
+besoins de l'enquête ou en prendre copie.
+
+Le présent article ne s'applique pas à la partie des locaux et lieux cités au premier alinéa qui est également affectée au
+domicile privé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
 
 ###### Article 41
 
@@ -979,13 +1470,9 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 _Cité par_:
 
@@ -994,19 +1481,10 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 271 (V)
   - Code des douanes de Mayotte - art. 316 (V)
 
-_Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 550 (M)
-  - CODE DE PROCEDURE PENALE - art. 56 (M)
-  - CODE DE PROCEDURE PENALE - art. 58 (M)
-  - Code des douanes de Mayotte - art. 208 (V)
-  - Code des douanes de Mayotte - art. 321 (V)
-  - Code des douanes de Mayotte 208, 282 à 291, 321
+#### Section 3 : Droit de communication<a id=36></a>
 
-
-#### Section 3 : Droit de communication<a id=26></a>
-
-##### Paragraphe 1 : Droit de communication de l'administration des finances.<a id=27></a>
+##### Paragraphe 1 : Droit de communication de l'administration des finances.<a id=37></a>
 
 ###### Article 42
 
@@ -1040,11 +1518,31 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 2 : Droit de communication particulier à l'administration des douanes.<a id=28></a>
+###### Article 42 bis
+
+Les documents et informations mentionnés aux articles L. 330-2 à L. 330-4 du code de la route sont communiqués, sur leur
+demande, aux fonctionnaires des douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code de la route L330-2 à L330-4
+
+
+##### Paragraphe 2 : Droit de communication particulier à l'administration des douanes.<a id=38></a>
 
 ###### Article 43
 
-1. Les agents des douanes ayant au moins le grade de contrôleur ou assimilés ou d'officier et ceux chargés des fonctions de
+1° Les agents des douanes ayant au moins le grade de contrôleur ou assimilés ou d'officier et ceux chargés des fonctions de
 contrôles différés et a posteriori peuvent exiger la communication des papiers et documents de toute nature relatifs aux
 opérations intéressant leur service :
 
@@ -1068,22 +1566,27 @@ situations des marchandises, comptabilité matière, etc.) ;
 
 g) Chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
 
-h) Et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
+h) Chez les opérateurs de télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n°
+2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, pour les données conservées et traitées par ces
+derniers, dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques ;
+
+i) Et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
 
-2. Les agents ayant qualité pour exercer le droit de communication prévu par le 1 ci-dessus peuvent se faire assister par des
+2° Les agents ayant qualité pour exercer le droit de communication prévu par le 1 ci-dessus peuvent se faire assister par des
 fonctionnaires d'un grade moins élevé, astreints comme eux et sous les mêmes sanctions au secret professionnel.
 
-3. Les divers documents visés ci-dessus doivent être conservés par les intéressés pendant un délai de trois ans, à compter de
+3° Les divers documents visés ci-dessus doivent être conservés par les intéressés pendant un délai de trois ans, à compter de
 la date d'envoi des colis, pour les expéditeurs, et à compter de la date de leur réception, pour les destinataires.
 
-4. Au cours des contrôles et des enquêtes opérés chez les personnes ou sociétés visées au 1 du présent article, les agents
+4° Au cours des contrôles et des enquêtes opérés chez les personnes ou sociétés visées au 1 du présent article, les agents
 des douanes désignés par ce même 1 peuvent procéder à la saisie des documents de toute nature (comptabilité, factures, copies
 de lettres, carnets de chèques, traites, comptes de banque, etc.) propres à faciliter l'accomplissement de leur mission.
 
-5. Le service des douanes est autorisé, sous réserve de réciprocité, à fournir aux autorités qualifiées des pays étrangers
-tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois et
-règlements applicables à l'entrée ou à la sortie de leur territoire.
+5° Le service des douanes est autorisé à fournir aux services des douanes de métropole, des départements et régions d'outre-
+mer, des collectivités d'outre-mer, de Nouvelle-Calédonie et, sous réserve de réciprocité, aux autorités qualifiées des pays
+étrangers tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois
+et règlements applicables à l'entrée ou à la sortie de leur territoire.
 
 **Liens relatifs à cet article**
 
@@ -1091,13 +1594,9 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 _Cité par_:
 
@@ -1105,7 +1604,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 293 (V)
 
 
-#### Section 4 : Contrôle douanier des envois par la poste.<a id=29></a>
+#### Section 4 : Contrôle douanier des envois par la poste.<a id=39></a>
 
 ###### Article 44
 
@@ -1143,7 +1642,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 204 (V)
 
 
-#### Section 5 : Présentation des passeports.<a id=30></a>
+#### Section 5 : Présentation des passeports.<a id=40></a>
 
 ###### Article 45
 
@@ -1165,11 +1664,67 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre III : Conduite des marchandises en douane<a id=31></a>
+#### Section 6 : Livraisons surveillées.<a id=41></a>
 
-### Chapitre Ier : Importation<a id=32></a>
+###### Article 46
 
-#### Section 1 : Transports par mer.<a id=33></a>
+Afin de constater les infractions douanières d'importation, d'exportation ou de détention de substances ou plantes classées
+comme stupéfiants, d'identifier les auteurs et complices de ces infractions ainsi que ceux qui y ont participé comme
+intéressés au sens de l'article 268 du présent code et d'effectuer les saisies prévues par le présent code, les agents des
+douanes habilités, dans des conditions fixées par décret, par le représentant de l'Etat peuvent, après en avoir informé le
+procureur de la République et sous son contrôle, procéder à la surveillance de l'acheminement de ces substances ou plantes.
+
+Ils ne sont pas pénalement responsables lorsque, aux mêmes fins, avec l'autorisation du procureur de la République et sous
+son contrôle, ils acquièrent, détiennent, transportent ou livrent ces substances ou plantes ou mettent à la disposition des
+personnes les détenant ou se livrant aux infractions douanières mentionnées à l'alinéa précédent des moyens de caractère
+juridique, ainsi que des moyens de transport, de dépôt et de communication. L'autorisation ne peut être donnée que pour des
+actes ne déterminant pas la commission des infractions visées au premier alinéa.
+
+Les dispositions des deux alinéas précédents sont, aux mêmes fins, applicables aux substances qui sont utilisées pour la
+fabrication illicite des produits stupéfiants et dont la liste est fixée par décret, ainsi qu'aux matériels servant à cette
+fabrication.
+
+Ne sont pas pénalement punissables les agents des douanes qui accomplissent, en ce qui concerne les fonds sur lesquels porte
+l'infraction prévue par l'article 283 du présent code et pour la constatation de celle-ci, les actes mentionnés aux deux
+premiers alinéas.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°93-1146 du 30 septembre 1993
+  - TXT_SOURCE: Décret n°93-1146 du 30 septembre 1993 - art. 1 (V)
+  - TXT_SOURCE: Décret n°93-1146 du 30 septembre 1993 - art. 2 (V)
+  - TXT_SOURCE: Décret n°93-1146 du 30 septembre 1993 - art. 3 (V)
+
+_Cité par_:
+
+  - Décret n°93-1146 du 30 septembre 1993 - art. 1 (V)
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 268 (V)
+  - Code des douanes de Mayotte - art. 283 (M)
+
+
+## Titre III : Conduite des marchandises en douane<a id=42></a>
+
+### Chapitre Ier : Importation<a id=43></a>
+
+#### Section 1 : Transports par mer.<a id=44></a>
 
 ###### Article 47
 
@@ -1310,7 +1865,36 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 187 (V)
 
 
-#### Section 2 : Transports par la voie aérienne.<a id=34></a>
+###### Article 52
+
+1. Le déchargement des navires ne peut avoir lieu que dans l'enceinte des ports où les bureaux de douane sont établis.
+
+2. Aucune marchandise ne peut être déchargée ou transbordée qu'avec l'autorisation écrite des agents des douanes et qu'en
+leur présence. Les déchargements et transbordements doivent avoir lieu pendant les heures et sous les conditions fixées par
+des arrêtés du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 57 (V)
+  - Code des douanes de Mayotte - art. 94 (V)
+
+
+#### Section 2 : Transports par la voie aérienne.<a id=45></a>
 
 ###### Article 53
 
@@ -1448,7 +2032,45 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 58 (V)
 
 
-### Chapitre II : Magasins et aires de dédouanement.<a id=35></a>
+### Chapitre II : Magasins et aires de dédouanement.<a id=46></a>
+
+###### Article 58
+
+1. Sauf dispositions spéciales contraires, les marchandises conduites en douane dans les conditions prévues aux articles 47
+et 57 ci-dessus peuvent être constituées en magasins ou en aires de dédouanement suivant les modalités fixées au présent
+chapitre.
+
+2. La création de magasins et aires de dédouanement est subordonnée à l'autorisation du représentant de l'Etat, qui en agrée
+l'emplacement, la construction et l'aménagement.
+
+3. L'autorisation visée au 2 du présent article détermine les conditions auxquelles le fonctionnement des magasins et aires
+de dédouanement est subordonné et fixe éventuellement les charges de l'exploitant en matière de fourniture, d'entretien et de
+réparation des installations nécessaires à l'exécution du service.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 47 (V)
+  - Code des douanes de Mayotte - art. 57 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 93 (V)
+
 
 ###### Article 59
 
@@ -1471,6 +2093,35 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article 60
+
+1. La durée maximum du séjour des marchandises en magasin ou sur les aires de dédouanement est fixée par arrêté du
+représentant de l'Etat.
+
+2. Lorsque, au plus tard à l'expiration du délai prévu au 1 du présent article, les marchandises n'ont pas fait l'objet d'une
+déclaration leur assignant un régime douanier, l'exploitant est tenu de conduire ces marchandises dans les locaux d'un
+entrepôt public, où elles sont constituées d'office en dépôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 93 (V)
 
 
 ###### Article 61
@@ -1496,7 +2147,31 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 93 (V)
 
 
-### Chapitre III : Exportation.<a id=36></a>
+###### Article 62
+
+Le représentant de l'Etat détermine par arrêté les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 93 (V)
+
+
+### Chapitre III : Exportation.<a id=47></a>
 
 ###### Article 63
 
@@ -1518,11 +2193,11 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre IV : Opérations de dédouanement<a id=37></a>
+## Titre IV : Opérations de dédouanement<a id=48></a>
 
-### Chapitre Ier : Déclaration en détail<a id=38></a>
+### Chapitre Ier : Déclaration en détail<a id=49></a>
 
-#### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=39></a>
+#### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=50></a>
 
 ###### Article 64
 
@@ -1547,7 +2222,41 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=40></a>
+###### Article 65
+
+1. La déclaration en détail doit être déposée dans un bureau de douane ouvert à l'opération douanière envisagée.
+
+2. La déclaration en détail doit être déposée au plus tard avant l'expiration d'un délai fixé par le représentant de l'Etat,
+à compter de l'arrivée des marchandises au bureau ou dans les lieux désignés par le service des douanes. Ce dépôt doit avoir
+lieu pendant les heures fixées par le représentant de l'Etat.
+
+3. Le représentant de l'Etat peut autoriser le dépôt des déclarations en détail avant l'arrivée des marchandises au bureau ou
+dans les lieux désignés par le service des douanes. Des arrêtés du représentant de l'Etat fixent les conditions d'application
+de cette disposition, et notamment les conditions et délais dans lesquels il doit être justifié de l'arrivée des marchandises
+au bureau ou dans les lieux désignés par le service des douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 68 (V)
+  - Code des douanes de Mayotte - art. 78 (V)
+
+
+#### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=51></a>
 
 ###### Article 66
 
@@ -1572,6 +2281,36 @@ _Modifié par_:
 _Cite_:
 
   - Code des douanes de Mayotte - art. 82 (V)
+
+
+###### Article 67
+
+1. Nul ne peut faire profession d'accomplir pour autrui les formalités de douane concernant la déclaration en détail des
+marchandises s'il n'a été agréé comme commissionnaire en douane.
+
+2. Cet agrément est donné par le représentant de l'Etat sur la proposition du chef du service des douanes et après avis de la
+chambre professionnelle. La décision du représentant de l'Etat fixe le ou les bureaux pour lesquels l'agrément est valable.
+
+3. Le représentant de l'Etat peut, suivant la même procédure, retirer son agrément à titre temporaire ou définitif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 281 (V)
 
 
 ###### Article 68
@@ -1629,6 +2368,36 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
+###### Article 70
+
+1. Toute personne physique ou morale qui accomplit pour autrui des opérations de douane doit les inscrire sur des répertoires
+annuels dans les conditions fixées par le représentant de l'Etat.
+
+2. Elle est tenue de conserver lesdits répertoires ainsi que les correspondances et documents relatifs à ses opérations
+douanières pendant trois ans à compter de la date d'enregistrement des déclarations de douane correspondantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 278 (V)
+  - Code des douanes de Mayotte - art. 281 (V)
+  - Code des douanes de Mayotte - art. 293 (V)
+
+
 ###### Article 71
 
 Les tarifs des rémunérations que les commissionnaires en douane agréés sont autorisés à percevoir sont fixés dans les
@@ -1653,7 +2422,68 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 281 (V)
 
 
-#### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=41></a>
+###### Article 72
+
+1. Les conditions d'application des dispositions des articles 64 à 69 ci-dessus sont fixées par des arrêtés du représentant
+de l'Etat.
+
+2. Ces arrêtés déterminent les conditions dans lesquelles les services publics, concédés ou subventionnés, peuvent accomplir
+pour autrui des opérations de dédouanement et les obligations qui leur incombent à cet égard.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte 64 à 69
+
+
+#### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=52></a>
+
+###### Article 73
+
+1. Les déclarations en détail doivent être faites par écrit.
+
+2. Elles doivent contenir toutes les indications nécessaires pour l'application des mesures douanières et pour
+l'établissement des statistiques de douane.
+
+3. Elles doivent être signées par le déclarant.
+
+4. Le représentant de l'Etat détermine par arrêté la forme des déclarations, les énonciations qu'elles doivent contenir et
+les documents qui doivent y être annexés. Il peut autoriser, dans certains cas, le remplacement de la déclaration écrite par
+une déclaration verbale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 78 (V)
+
 
 ###### Article 74
 
@@ -1692,6 +2522,35 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article 76
+
+1. Les personnes habilitées à déposer les déclarations en détail, lorsqu'elles ne sont pas en possession des éléments
+nécessaires pour les établir, peuvent être autorisées à examiner les marchandises avant déclaration et à prélever des
+échantillons. Elles doivent alors présenter à la douane une déclaration provisoire, qui ne peut, en aucun cas, les dispenser
+de l'obligation de la déclaration en détail.
+
+2. Toute manipulation susceptible de modifier la présentation des marchandises ayant fait l'objet de déclarations provisoires
+est interdite.
+
+3. La forme des déclarations provisoires et les conditions dans lesquelles peut avoir lieu l'examen préalable des
+marchandises sont déterminées par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
 ###### Article 77
@@ -1787,9 +2646,39 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 242 (V)
 
 
-### Chapitre II : Vérification des marchandises<a id=42></a>
+###### Article 80
 
-#### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=43></a>
+1. Des arrêtés du représentant de l'Etat peuvent déterminer des procédures simplifiées de dédouanement prévoyant notamment
+que certaines indications des déclarations en détail seront fournies ou reprises ultérieurement sous la forme de déclarations
+complémentaires pouvant présenter un caractère global, périodique ou récapitulatif.
+
+2. Les mentions des déclarations complémentaires sont réputées constituer, avec les mentions des déclarations auxquelles
+elles se rapportent respectivement, un acte unique et indivisible prenant effet à la date d'enregistrement de la déclaration
+initiale correspondante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 286 (V)
+
+
+### Chapitre II : Vérification des marchandises<a id=53></a>
+
+#### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=54></a>
 
 ###### Article 81
 
@@ -1877,7 +2766,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 151 (V)
 
 
-#### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=44></a>
+#### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=55></a>
 
 ###### Article 84
 
@@ -1907,7 +2796,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 305 (Ab)
 
 
-#### Section 3 : Application des résultats de la vérification.<a id=45></a>
+#### Section 3 : Application des résultats de la vérification.<a id=56></a>
 
 ###### Article 85
 
@@ -1933,9 +2822,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Liquidation et acquittement des droits et taxes<a id=46></a>
+### Chapitre III : Liquidation et acquittement des droits et taxes<a id=57></a>
 
-#### Section 1 : Liquidation des droits et taxes.<a id=47></a>
+#### Section 1 : Liquidation des droits et taxes.<a id=58></a>
 
 ###### Article 86
 
@@ -1989,7 +2878,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Paiement au comptant.<a id=48></a>
+#### Section 2 : Paiement au comptant.<a id=59></a>
 
 ###### Article 88
 
@@ -2037,21 +2926,21 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 3 : Crédit des droits et taxes.<a id=49></a>
+#### Section 3 : Crédit des droits et taxes.<a id=60></a>
 
 ###### Article 90
 
 1. Les redevables peuvent être admis à présenter des obligations dûment cautionnées, à quatre mois d'échéance, pour le
 paiement des droits et taxes recouvrés par l'administration des douanes.
 
-2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque décompte est inférieure à 250 F.
+2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque décompte est inférieure à 38 euros.
 
 3. Elles donnent lieu à un intérêt de crédit et à une remise spéciale dont le taux et le montant sont fixés par des arrêtés
-du représentant du Gouvernement.
+du représentant de l'Etat.
 
-4. La remise spéciale ne peut dépasser un tiers de franc pour cent.
+4. La remise spéciale ne peut dépasser un tiers d'euro pour cent.
 
-Sa répartition entre les comptables du Trésor et de la douane est fixée par arrêté du représentant du Gouvernement.
+Sa répartition entre les comptables du Trésor et de la douane est fixée par arrêté du représentant de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2059,18 +2948,21 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+  - Ordonnance 2000-916 2000-09-19 art. 15 I, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 _Cité par_:
 
   - Code des douanes de Mayotte - art. 145 (V)
 
 
-### Chapitre IV : Enlèvement des marchandises<a id=50></a>
+### Chapitre IV : Enlèvement des marchandises<a id=61></a>
 
-#### Section 1 : Règles générales.<a id=51></a>
+#### Section 1 : Règles générales.<a id=62></a>
 
 ###### Article 91
 
@@ -2100,7 +2992,33 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 86 (V)
 
 
-#### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=52></a>
+#### Section 2 : Crédit d'enlèvement.<a id=63></a>
+
+###### Article 92
+
+1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et à mesure des vérifications et avant
+liquidation et acquittement des droits et taxes exigibles, moyennant soumission dûment cautionnée et sous l'obligation, pour
+les redevables, de payer une remise de 3 p. 1000 du montant des droits et taxes qui seront liquidés.
+
+2. La répartition de la remise de 3 p. 1000 entre le comptable et le Trésor est fixée par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=64></a>
 
 ###### Article 93
 
@@ -2229,9 +3147,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 56 (V)
 
 
-## Titre V : Régimes douaniers suspensifs, exportation temporaire<a id=53></a>
+## Titre V : Régimes douaniers suspensifs, exportation temporaire<a id=65></a>
 
-### Chapitre Ier : Régime général des acquits-à-caution.<a id=54></a>
+### Chapitre Ier : Régime général des acquits-à-caution.<a id=66></a>
 
 ###### Article 97
 
@@ -2257,6 +3175,30 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article 98
+
+1. Le représentant de l'Etat peut autoriser le remplacement de l'acquit-à-caution par tel document qui en tiendra lieu,
+valable pour une ou plusieurs opérations et présentant les mêmes garanties.
+
+2. Il peut également prescrire l'établissement d'acquits-à-caution ou de documents en tenant lieu pour garantir l'arrivée à
+destination de certaines marchandises, l'accomplissement de certaines formalités ou la production de certains documents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
 ###### Article 99
@@ -2285,6 +3227,31 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 279 (V)
 
 
+###### Article 100
+
+1. Les engagements souscrits par les cautions sont annulés ou les sommes consignées sont remboursées au vu du certificat de
+décharge donné par les agents des douanes.
+
+2. Le représentant de l'Etat peut, pour prévenir la fraude, subordonner la décharge des acquits-à-caution souscrits pour
+garantir l'exportation ou la réexportation de certaines marchandises à la production d'un certificat délivré par les
+autorités françaises ou étrangères, qu'il désigne, établissant que lesdites marchandises ont reçu la destination exigée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
 ###### Article 101
 
 1. Les quantités de marchandises pour lesquelles les obligations prescrites n'ont pas été remplies sont passibles des droits
@@ -2310,7 +3277,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre II : Transit.<a id=55></a>
+### Chapitre II : Transit.<a id=67></a>
 
 ###### Article 102
 
@@ -2336,6 +3303,59 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article 103
+
+1. Les marchandises exclues à titre permanent du régime du transit sont désignées par arrêté du représentant de l'Etat pris
+après avis du conseil général.
+
+2. Des arrêtés du représentant de l'Etat pris après avis du conseil général peuvent prononcer d'autres exclusions à titre
+temporaire en fonction de la conjoncture économique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+###### Article 104
+
+1. Les transports en transit sont effectués dans les conditions prévues aux articles 97 à 101 ci-dessus. Le représentant de
+l'Etat peut autoriser, par dérogation aux dispositions du 2 de l'article 97, le remplacement de la déclaration détaillée par
+une déclaration sommaire.
+
+2. Ces transports doivent être accomplis dans les délais fixés par le service des douanes qui peut, en outre, imposer un
+itinéraire aux transporteurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte 97 à 101
 
 
 ###### Article 105
@@ -2418,9 +3438,34 @@ _Cite_:
   - Code des douanes de Mayotte - art. 86 (V)
 
 
-### Chapitre III : Entrepôt de douane (entrepôt de stockage)<a id=56></a>
+###### Article 108
 
-#### Section 1 : Définition et effets de l'entrepôt.<a id=57></a>
+Des arrêtés du représentant de l'Etat déterminent, en tant que de besoin, les modalités d'application des articles 102 à 107
+ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte 102 à 107
+
+
+### Chapitre III : Entrepôt de douane (entrepôt de stockage)<a id=68></a>
+
+#### Section 1 : Définition et effets de l'entrepôt.<a id=69></a>
 
 ###### Article 109
 
@@ -2463,9 +3508,190 @@ _Cite_:
   - Code des douanes de Mayotte - art. 111 (V)
 
 
-#### Section 3 : L'entrepôt public<a id=58></a>
+#### Section 2 : Marchandises exclues, marchandises admissibles, restrictions de stockage<a id=70></a>
 
-##### Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises.<a id=59></a>
+##### Paragraphe 1 : Marchandises exclues.<a id=71></a>
+
+###### Article 110
+
+1. Des interdictions ou restrictions d'entrée dans les entrepôts de stockage peuvent être prononcées, à titre permanent ou
+temporaire, à l'égard de certaines marchandises, lorsqu'elles sont justifiées :
+
+a) par des raisons de moralité publique, d'ordre public, de sécurité publique, de protection de la santé et de la vie des
+personnes, des animaux ou de préservation des végétaux, de protection des trésors nationaux ayant une valeur artistique,
+historique ou archéologique ou de protection de la propriété industrielle et commerciale ;
+
+b) par des raisons tenant soit aux caractéristiques des installations d'entreprosage, soit à la nature ou à l'état des
+marchandises ;
+
+c) pour des raisons économiques de façon temporaire.
+
+2. Les marchandises frappées d'une interdiction permanente d'entrée dans les entrepôts de stockage sont désignées par un
+arrêté du représentant de l'Etat après avis du conseil général.
+
+3. Les marchandises frappées d'une interdiction temporaire d'entrée dans les entrepôts de stockage sont désignées par arrêté
+du représentant de l'Etat après avis du conseil général.
+
+4. Les restrictions d'entrée dans les entrepôts de stockage font l'objet de décisions du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 111 (V)
+  - Code des douanes de Mayotte - art. 115 (V)
+  - Code des douanes de Mayotte - art. 118 (V)
+
+
+##### Paragraphe 2 : Marchandises admissibles.<a id=72></a>
+
+###### Article 111
+
+Sous réserve des dispositions de l'article 110 ci-dessus sont admissibles en entrepôts de stockage dans les conditions fixées
+au présent chapitre :
+
+1° Toutes les marchandises soumises à raison de l'importation, soit à des droits de douane, taxes ou prohibitions, soit à
+d'autres mesures économiques, fiscales ou douanières ;
+
+2° Les marchandises provenant du marché intérieur destinées à l'exportation et désignées par des arrêtés du représentant de
+l'Etat. Ces arrêtés fixent également les conditions et la mesure dans lesquelles lesdites marchandises peuvent bénéficier des
+avantages consentis à l'exportation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 109 (V)
+  - Code des douanes de Mayotte - art. 113 (V)
+  - Code des douanes de Mayotte - art. 115 (V)
+  - Code des douanes de Mayotte - art. 118 (V)
+  - Code des douanes de Mayotte - art. 125 (V)
+  - Code des douanes de Mayotte - art. 126 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 110 (V)
+
+
+##### Paragraphe 3 : Restrictions de stockage.<a id=73></a>
+
+###### Article 112
+
+1. Des arrêtés du représentant de l'Etat fixent les catégories d'entrepôts dans lesquelles les marchandises peuvent être
+stockées.
+
+2. Des arrêtés du représentant de l'Etat peuvent prévoir l'octroi de l'entrepôt privé à des marchandises classées à titre
+général dans la catégorie de celles qui sont admises dans les entrepôts publics, lorsque ces marchandises alimentent un
+trafic local déterminé ou encore lorsqu'elles sont destinées à être stockées dans des établissements qui travaillent pour
+l'exportation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 118 (V)
+
+
+###### Article 113
+
+Les marchandises, autres que celles visées au 2° de l'article 111 ci-dessus, peuvent séjourner en entrepôt de stockage
+pendant cinq ans.
+
+Toutefois, le représentant de l'Etat peut par arrêté :
+
+a) Prolonger ou réduire la durée du séjour de ces marchandises pour des raisons tenant à leur nature ;
+
+b) Réduire la durée du séjour pour des raisons tenant au type d'entrepôt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 111 (V)
+
+
+#### Section 3 : L'entrepôt public<a id=74></a>
+
+##### Paragraphe 1 : Etablissement de l'entrepôt public.<a id=75></a>
+
+###### Article 114
+
+1. L'entrepôt public est accordé lorsqu'il répond à des besoins généraux. Il est concédé par arrêté du représentant de l'Etat
+selon l'ordre de priorité suivant : à la commune, au port autonome ou à la chambre professionnelle ; la concession ne peut
+être rétrocédée. Les frais d'exercice sont à la charge de Mayotte.
+
+2. La procédure de concession et les conditions d'exploitation de l'entrepôt public sont fixées par arrêté du représentant de
+l'Etat après avis du conseil général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises.<a id=76></a>
 
 ###### Article 115
 
@@ -2542,9 +3768,43 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 120 (V)
 
 
-#### Section 4 : L'entrepôt privé<a id=60></a>
+#### Section 4 : L'entrepôt privé<a id=77></a>
 
-##### Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises.<a id=61></a>
+##### Paragraphe 1 : Etablissement de l'entrepôt privé.<a id=78></a>
+
+###### Article 117
+
+1. L'autorisation d'ouvrir un entrepôt privé peut être accordée par le représentant de l'Etat :
+
+- aux collectivités ou aux personnes physiques ou morales faisant profession principalement ou accessoirement d'entreposer
+des marchandises pour le compte de tiers (entrepôt privé banal) ;
+
+- aux entreprises de caractère industriel ou commercial pour leur usage exclusif en vue d'y stocker les marchandises qu'elles
+revendent ou mettent en oeuvre à la sortie d'entrepôt (entrepôt privé particulier).
+
+2. L'entrepôt privé banal peut également être accordé pour les marchandises destinées à figurer dans les foires, expositions,
+concours et autres manifestations du même genre.
+
+3. La procédure d'octroi et les conditions d'exploitation de l'entrepôt privé sont fixées par arrêté du représentant de
+l'Etat pris après avis du conseil général.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises.<a id=79></a>
 
 ###### Article 118
 
@@ -2578,7 +3838,77 @@ _Cite_:
   - Code des douanes de Mayotte - art. 116 (V)
 
 
-#### Section 6 : Dispositions applicables à tous les entrepôts de stockage.<a id=62></a>
+#### Section 5 : L'entrepôt spécial<a id=80></a>
+
+##### Paragraphe 1 : Etablissement de l'entrepôt spécial.<a id=81></a>
+
+###### Article 119
+
+1. L'entrepôt spécial est autorisé par arrêté du représentant de l'Etat pour le stockage de certaines catégories de
+marchandises dont le séjour en entrepôt présente des dangers particuliers ou dont la conservation exige des installations
+spéciales.
+
+2. La procédure d'octroi et les conditions d'exploitation de l'entrepôt spécial sont fixées par arrêté du représentant de
+l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 115 (V)
+
+
+##### Paragraphe 2 : Séjour des marchandises.<a id=82></a>
+
+###### Article 120
+
+1. Les dispositions du 1, du 2, du 3, du 4 et du 6 de l'article 116 ci-dessus sont applicables à l'entrepôt spécial.
+
+2. Pour l'application à l'entrepôt spécial des dispositions du 3 de l'article 116, un arrêté du représentant de l'Etat peut
+fixer une limite forfaitaire aux déficits admissibles en franchise des droits et taxes. Il peut aussi fixer une limite
+forfaitaire aux pertes, visées au 4° de l'article 116 ci-dessus, dues à des causes dépendant de la nature des marchandises.
+
+3. Un arrêté du représentant de l'Etat peut limiter les destinations susceptibles d'être données aux marchandises à leur
+sortie de l'entrepôt spécial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 116 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 125 (V)
+
+
+#### Section 6 : Dispositions applicables à tous les entrepôts de stockage.<a id=83></a>
 
 ###### Article 121
 
@@ -2625,27 +3955,32 @@ _Modifié par_:
 
 ###### Article 123
 
-1. Des arrêtés du représentant du Gouvernement déterminent les manipulations dont les produits placés en entrepôt de stockage
+1. Des arrêtés du représentant de l'Etat déterminent les manipulations dont les produits placés en entrepôt de stockage
 peuvent faire l'objet. Les conditions auxquelles ces manipulations sont subordonnées sont fixées par le chef du service des
 douanes.
 
 2. Ces arrêtés peuvent, dans l'intérêt du commerce d'exportation ou de réexportation, déroger aux interdictions prévues par
-des lois spéciales. Les dérogations à la loi susvisée du 1er août 1905 ne peuvent toutefois porter que sur les mesures
-édictées en vertu de l'article 11 de cette loi.
+des lois spéciales. Les dérogations aux articles L. 213-1 à L. 216-1 du code de la consommation peuvent toutefois porter que
+sur les mesures édictées en vertu de l'article L. 214-1, L. 215-1 et L. 215-5 du code de la consommation.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°1905-08-01 art. 11
 
 _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+  - Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1 (M)
+  - Code de la consommation - art. L215-1 (M)
+  - Code de la consommation - art. L215-5 (M)
+  - Code de la consommation L213-1 à L216-1, L214-1, L215-1, L215-5
 
 
 ###### Article 124
@@ -2776,7 +4111,28 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre IV : Entrepôt de douane (entrepôt industriel).<a id=63></a>
+###### Article 128
+
+Des arrêtés du représentant de l'Etat déterminent, en tant que de besoin, les modalités d'application des dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre IV : Entrepôt de douane (entrepôt industriel).<a id=84></a>
 
 ###### Article 129
 
@@ -2823,6 +4179,41 @@ _Modifié par_:
 _Cite_:
 
   - Code des douanes de Mayotte 131 à 133
+
+
+###### Article 131
+
+1. Le bénéfice du régime de l'entrepôt industriel peut être accordé par arrêté du représentant de l'Etat.
+
+2. Cette autorisation fixe la durée pour laquelle l'entrepôt industriel est accordé et, s'il y a lieu, d'une part, les
+quantités de marchandises susceptibles d'être placées sous ce régime pendant une période déterminée, d'autre part, les
+pourcentages respectifs des produits compensateurs à exploiter obligatoirement et de ceux qui peuvent être versés à la
+consommation.
+
+A l'expiration du délai d'entrepôt industriel, et sauf prolongation, les droits de douane et les taxes afférents aux
+marchandises qui se trouvent encore sous ce régime deviennent immédiatement exigibles.
+
+3. Le chef du service des douanes fixe les modalités du contrôle douanier ainsi que les obligations et éventuellement les
+charges qui en résultent pour l'entreprositaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 133 (V)
 
 
 ###### Article 132
@@ -2884,7 +4275,28 @@ _Cite_:
   - Code des douanes de Mayotte - art. 16 (V)
 
 
-### Chapitre V : Usines exercées par la douane.<a id=64></a>
+###### Article 134
+
+Un arrêté du représentant de l'Etat détermine, en tant que de besoin, les conditions d'application des dispositions du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre V : Usines exercées par la douane.<a id=85></a>
 
 ###### Article 135
 
@@ -2906,7 +4318,71 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre VI : Admission temporaire.<a id=65></a>
+###### Article 136
+
+Les modalités de l'exercice sont fixées par des arrêtés du représentant de l'Etat qui déterminent notamment les conditions
+auxquelles doivent satisfaire les établissements ou installations placés sous le régime de l'usine exercée ainsi que les
+obligations et éventuellement les charges qui en résultent pour les exploitants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre VI : Admission temporaire.<a id=86></a>
+
+###### Article 137
+
+1. Peuvent être importées sous le régime de l'admission temporaire, dans les conditions fixées au présent chapitre, les
+marchandises désignées par arrêté du représentant de l'Etat destinées :
+
+a) A recevoir une transformation, une ouvraison ou un complément de main-d'oeuvre dans le territoire douanier de la
+collectivité ;
+
+b) Ou à y être employées en l'état.
+
+2. Des décisions du représentant de l'Etat peuvent, toutefois, autoriser des opérations d'admission temporaire autres que
+celles prévues par les arrêtés pris en vertu des dispositions du 1 du présent article et présentant un caractère exceptionnel
+ou un intérêt expérimental.
+
+3. Les arrêtés ou les décisions visés aux 1 et 2 du présent article indiquent :
+
+a) La nature du complément de main-d'oeuvre, de l'ouvraison ou de la transformation que doivent subir les marchandises et,
+dans ce dernier cas, les produits admis à la compensation des comptes d'admission temporaire ainsi que les conditions dans
+lesquelles s'opère cette compensation ;
+
+b) Ou les conditions dans lesquelles les marchandises doivent être employées en l'état.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 143 (V)
+
 
 ###### Article 138
 
@@ -3111,9 +4587,57 @@ _Cite_:
   - Code des douanes de Mayotte - art. 90 (M)
 
 
-## Titre VI : Dépôt de douane<a id=66></a>
+###### Article 146
 
-### Chapitre Ier : Constitution des marchandises en dépôt.<a id=67></a>
+Des arrêtés du représentant de l'Etat déterminent, en tant que de besoin, les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre VII : Exportation temporaire.<a id=87></a>
+
+###### Article 147
+
+Des arrêtés du représentant de l'Etat fixent :
+
+a) Les conditions dans lesquelles le service des douanes peut autoriser l'exportation temporaire des produits envoyés hors du
+territoire douanier pour recevoir un complément de main-d'oeuvre ;
+
+b) Les modalités selon lesquelles ces produits seront soumis au paiement des droits et taxes d'entrée lors de leur
+réimportation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+## Titre VI : Dépôt de douane<a id=88></a>
+
+### Chapitre Ier : Constitution des marchandises en dépôt.<a id=89></a>
 
 ###### Article 148
 
@@ -3206,7 +4730,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 83 (V)
 
 
-### Chapitre II : Vente des marchandises en dépôt.<a id=68></a>
+### Chapitre II : Vente des marchandises en dépôt.<a id=90></a>
 
 ###### Article 152
 
@@ -3289,11 +4813,150 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre VII : Opérations privilégiées<a id=69></a>
+## Titre VII : Opérations privilégiées<a id=91></a>
 
-### Chapitre II : Avitaillement des navires et des aéronefs<a id=70></a>
+### Chapitre Ier : Admissions en franchise.<a id=92></a>
 
-#### Section 1 : Dispositions spéciales aux navires.<a id=71></a>
+###### Article 155
+
+1. Par dérogation à l'article 3 ci-dessus, le représentant de l'Etat peut autoriser l'importation en franchise des droits et
+taxes :
+
+a) Des marchandises en retour originaires du territoire douanier ou nationalisées par le paiement des droits ;
+
+b) Des envois destinés aux services diplomatiques et consulaires et aux membres étrangers de certains organismes
+internationaux officiels siégeant en France ;
+
+c) Des envois destinés aux oeuvres de solidarité ;
+
+d) Des envois exceptionnels dépourvus de tout caractère commercial.
+
+2. Les conditions d'application du présent article, ainsi que la liste des organismes internationaux officiels et des oeuvres
+de solidarité visées au 1 ci-dessus sont fixées par décret. Ce décret peut subordonner l'admission en franchise à la
+condition de réciprocité de la part des pays étrangers et décider que les objets ayant bénéficié de la franchise ne pourront
+pas être cédés, à titre onéreux ou gratuit, ou affectés à d'autres destinations pendant un délai déterminé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 1 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 10 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 11 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 12 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 13 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 14 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 15 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 16 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 17 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 18 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 19 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 2 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 20 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 21 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 22 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 23 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 24 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 25 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 26 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 27 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 28 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 29 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 3 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 30 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 31 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 32 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 33 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 34 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 35 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 36 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 37 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 38 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 39 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 4 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 40 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 41 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 42 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 43 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 44 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 45 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 46 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 47 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 48 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 49 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 5 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 50 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 51 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 52 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 53 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 54 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 55 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 56 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 57 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 58 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 59 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 6 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 60 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 61 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 62 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 63 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 64 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 65 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 66 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 67 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 68 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 69 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 7 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 70 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 71 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 72 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 73 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 74 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 75 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 76 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 77 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 78 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 79 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 8 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 80 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 81 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 82 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 83 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 84 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 85 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 86 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 87 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. 9 (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. Annexe I (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. Annexe II (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. Annexe III (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. Annexe IV (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. Annexe V (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. Annexe VI (V)
+  - TXT_SOURCE: Décret n°2003-831 du 26 août 2003 - art. Annexe VII (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 3 (V)
+
+
+### Chapitre II : Avitaillement des navires et des aéronefs<a id=93></a>
+
+#### Section 1 : Dispositions spéciales aux navires.<a id=94></a>
 
 ###### Article 156
 
@@ -3385,7 +5048,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Dispositions spéciales aux aéronefs.<a id=72></a>
+#### Section 2 : Dispositions spéciales aux aéronefs.<a id=95></a>
 
 ###### Article 160
 
@@ -3407,11 +5070,110 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre IX : Navigation<a id=73></a>
+### Chapitre III : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=96></a>
 
-### Chapitre Ier : Régime administratif des navires<a id=74></a>
+###### Article 161
 
-#### Section 1 : Champ d'application.<a id=75></a>
+1. Les voyageurs qui viennent séjourner temporairement dans le territoire douanier peuvent importer, en franchise temporaire
+des droits et taxes exigibles à l'entrée, les objets exclusivement destinés à leur usage personnel qu'ils apportent avec eux.
+
+Sont exclus de cette mesure les objets prohibés à l'importation.
+
+2. Les modalités d'application du présent article sont fixées par des arrêtés du représentant de l'Etat qui peuvent notamment
+subordonner l'importation en franchise temporaire à la souscription d'acquits-à-caution, déterminer les conditions
+d'utilisation et de réexportation des objets importés en franchise temporaire et de déroger aux dispositions du 1 ci-dessus
+visant les objets prohibés dans la mesure où il ne s'agit pas de prohibitions instituées dans un intérêt d'ordre public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+###### Article 162
+
+1. Les voyageurs qui vont séjourner temporairement hors du territoire douanier peuvent exporter en franchise temporairement
+des droits et taxes de sortie les objets exclusivement destinés à leur usage personnel qu'ils emportent avec eux.
+
+Sont exclus de cette mesure les objets prohibés à l'exportation.
+
+2. Les modalités d'application du présent article sont fixées par des arrêtés du représentant de l'Etat qui peuvent notamment
+subordonner l'exportation à la souscription d'acquits-à-caution, déroger aux dispositions du 1 ci-dessus visant les objets
+prohibés à l'exportation dans la mesure où il ne s'agit pas de prohibitions instituées dans un intérêt d'ordre public et
+déterminer les conditions de réimportation desdits objets en franchise et en dérogation aux prohibitions d'importation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+## Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier<a id=97></a>
+
+### Chapitre unique : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.<a id=98></a>
+
+###### Article 163
+
+1. Ceux qui détiennent ou transportent les marchandises spécialement désignées par des arrêtés du représentant de l'Etat
+doivent, à première réquisition des agents des douanes, produire soit des quittances attestant que ces marchandises ont été
+régulièrement importées, soit des factures d'achat, bordereaux de fabrication ou toutes autres justifications d'origine
+émanant de personnes ou sociétés régulièrement établies à l'intérieur du territoire douanier.
+
+2. Ceux qui ont détenu, transporté, vendu, cédé ou échangé lesdites marchandises et ceux qui ont établi les justifications
+d'origine sont également tenus de présenter les documents visés au 1 ci-dessus à toute réquisition des agents des douanes
+formulée dans un délai de trois ans, soit à partir du moment où les marchandises ont cessé d'être entre leurs mains, soit à
+partir de la date de délivrance des justifications d'origine.
+
+3. Ne tombent pas sous l'application de ces dispositions les marchandises que les détenteurs, transporteurs, ou ceux qui les
+ont détenues, transportées, vendues, cédées ou échangées prouvent, par la production de leurs écritures, avoir été importées,
+détenues ou acquises dans le territoire douanier antérieurement à la date de publication des arrêts susvisés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 202 (V)
+  - Code des douanes de Mayotte - art. 285 (V)
+
+
+## Titre IX : Navigation<a id=99></a>
+
+### Chapitre Ier : Régime administratif des navires<a id=100></a>
+
+#### Section 1 : Champ d'application.<a id=101></a>
 
 ###### Article 164
 
@@ -3432,9 +5194,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Francisation des navires<a id=76></a>
+#### Section 2 : Francisation des navires<a id=102></a>
 
-##### Paragraphe 1 : Généralités.<a id=77></a>
+##### Paragraphe 1 : Généralités.<a id=103></a>
 
 ###### Article 165
 
@@ -3458,7 +5220,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 2 : Jaugeage des navires.<a id=78></a>
+##### Paragraphe 2 : Jaugeage des navires.<a id=104></a>
 
 ###### Article 166
 
@@ -3480,7 +5242,68 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 3 : Droit de francisation et de navigation.<a id=79></a>
+##### Paragraphe 3 : Droit de francisation et de navigation.<a id=105></a>
+
+###### Article 167
+
+Les navires francisés sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de navigation, à la charge
+des propriétaires.
+
+L'assiette, le taux et les modalités d'application de ce droit sont fixés par délibérations du conseil général de Mayotte sur
+proposition du représentant de l'Etat. Ces délibérations sont soumises à l'approbation du ministre chargé des départements et
+territoires d'outre-mer dans les conditions prévues à l'article 6 ci-dessus.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 6 (MMN)
+
+
+###### Article 168
+
+1. Le droit de francisation et de navigation est perçu au profit de Mayotte.
+
+Il est recouvré par année civile.
+
+En cas de retard dans le versement du droit de francisation et de navigation par rapport aux dates limites fixées par arrêté
+du représentant de l'Etat, une majoration de 10 % du montant de ce droit est automatiquement appliquée.
+
+2. Les embarcations non pourvues d'un acte de francisation ou appartenant à l'Etat, ainsi que les navires de commerce et de
+pêche, sont exonérés du droit annuel de francisation et de navigation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
 
 ###### Article 169
 
@@ -3502,7 +5325,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 4 : Réparations de navires français hors du territoire douanier.<a id=80></a>
+##### Paragraphe 4 : Réparations de navires français hors du territoire douanier.<a id=106></a>
 
 ###### Article 170
 
@@ -3540,7 +5363,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 3 : Congés.<a id=81></a>
+#### Section 3 : Congés.<a id=107></a>
 
 ###### Article 171
 
@@ -3589,7 +5412,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 4 : Passeports.<a id=82></a>
+#### Section 4 : Passeports.<a id=108></a>
 
 ###### Article 173
 
@@ -3610,9 +5433,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 5 : Hypothèques maritimes<a id=83></a>
+#### Section 5 : Hypothèques maritimes<a id=109></a>
 
-##### Paragraphe 1 : Constitution de l'hypothèque.<a id=84></a>
+##### Paragraphe 1 : Constitution de l'hypothèque.<a id=110></a>
 
 ###### Article 174
 
@@ -3718,7 +5541,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 2 : Effets de l'hypothèque.<a id=85></a>
+##### Paragraphe 2 : Effets de l'hypothèque.<a id=111></a>
 
 ###### Article 179
 
@@ -3801,7 +5624,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 3 : Radiations.<a id=86></a>
+##### Paragraphe 3 : Radiations.<a id=112></a>
 
 ###### Article 183
 
@@ -3823,7 +5646,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 4 : Etat des inscriptions, saisie.<a id=87></a>
+##### Paragraphe 4 : Etat des inscriptions, saisie.<a id=113></a>
 
 ###### Article 184
 
@@ -3854,7 +5677,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 5 : Ventes.<a id=88></a>
+##### Paragraphe 5 : Ventes.<a id=114></a>
 
 ###### Article 185
 
@@ -3893,7 +5716,32 @@ _Cite_:
   - Code pénal 408, 314-1 à 314-4
 
 
-### Chapitre II : Relâches forcées.<a id=89></a>
+###### Article 186
+
+1. Le tarif des droits à percevoir par le chef du service des douanes, ainsi que le cautionnement spécial à lui imposer en
+raison des actes visés à la présente section, sont fixés par des arrêtés du représentant de l'Etat après avis du conseil
+général.
+
+2. La responsabilité de Mayotte du fait de ses agents ne s'applique pas aux attributions conférées au chef du service des
+douanes par les dispositions qui précèdent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre II : Relâches forcées.<a id=115></a>
 
 ###### Article 187
 
@@ -3951,7 +5799,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Marchandises sauvées des naufrages, épaves.<a id=90></a>
+### Chapitre III : Marchandises sauvées des naufrages, épaves.<a id=116></a>
 
 ###### Article 189
 
@@ -3992,7 +5840,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre X : Zones franches.<a id=91></a>
+## Titre X : Zones franches.<a id=117></a>
 
 ###### Article 191
 
@@ -4015,13 +5863,90 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre XI : Contentieux<a id=92></a>
+###### Article 192
 
-### Chapitre Ier : Constatation des infractions douanières<a id=93></a>
+1. La zone franche est instituée par décret après avis du conseil général de Mayotte.
 
-#### Section 1 : Constatation par procès-verbal de saisie<a id=94></a>
+2. Des arrêtés du représentant de l'Etat déterminent les modalités d'application et de fonctionnement du régime suscité et
+précisent les opérations qui y seront autorisées.
 
-##### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=95></a>
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 287 (V)
+
+
+## Titre XI : Contentieux et recouvrement<a id=118></a>
+
+### Chapitre Ier : Constatation des infractions douanières<a id=119></a>
+
+#### Section 1 : Constatation par procès-verbal de saisie<a id=120></a>
+
+##### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.<a id=121></a>
+
+###### Article 193
+
+1. Les infractions aux lois et règlements douaniers peuvent être constatées par un agent des douanes ou de toute autre
+administration.
+
+2. Ceux qui constatent une infraction douanière ont le droit de saisir tous objets passibles de confiscation, de retenir les
+expéditions et tous autres documents relatifs aux objets saisis et de procéder à la retenue préventive des objets affectés à
+la sûreté des pénalités.
+
+3. Ils ne peuvent procéder à la capture des prévenus qu'en cas de flagrant délit.
+
+Le procureur de la République en est immédiatement informé.
+
+La durée de la retenue ne peut excéder vingt-quatre heures, sauf prolongation d'une même durée autorisée par le procureur de
+la République.
+
+Pendant la retenue, le procureur de la République peut se transporter sur les lieux pour vérifier les modalités de la retenue
+et se faire communiquer les procès-verbaux et registres prévus à cet effet. S'il l'estime nécessaire, il peut désigner un
+médecin.
+
+Les agents mentionnent, par procès-verbal de constat, la durée des interrogatoires et des repos qui ont séparé ces
+interrogatoires, le jour et l'heure du début et de la fin de la retenue.
+
+Ces mentions figurent également sur un registre spécial tenu dans les locaux de douane.
+
+Lorsque les personnes retenues sont placées en garde à vue au terme de la retenue, la durée de celle-ci s'impute sur la durée
+de la garde à vue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 208 (V)
+
+
+##### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=122></a>
 
 ###### Article 194
 
@@ -4050,21 +5975,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 134 () JORF 19 mars 2003
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 1 (V) JORF 29 octobre 2004
 
 
-### Chapitre II : Poursuites<a id=96></a>
+###### Article 195
 
-#### Section 2 : Poursuite par voie de contrainte<a id=97></a>
-
-##### Paragraphe 1 : Emploi de la contrainte.<a id=98></a>
-
-###### Article 217
-
-Le chef du service des douanes et les receveurs des douanes peuvent décerner contrainte pour le recouvrement des droits et
-taxes de toute nature que l'administration des douanes est chargée de percevoir, pour le paiement des droits, amendes et
-autres sommes dues en cas d'inxécution des engagements contenus dans les acquis-à-caution et soumissions et, d'une manière
-générale, dans tous les cas où ils sont en mesure d'établir qu'une somme quelconque est due à l'administration des douanes.
+Les procès-verbaux énoncent la date et la cause de la saisie ; la déclaration qui a été faite au prévenu ; les nom, qualité
+et demeure des saisissants et de la personne chargée des poursuites ; la nature des objets saisis et leur quantité ; la
+présence du prévenu à leur description ou la sommation qui lui a été faite d'y assister ; le nom et la qualité du gardien ;
+le lieu de la rédaction du procès-verbal et l'heure de sa clôture.
 
 **Liens relatifs à cet article**
 
@@ -4079,17 +5998,643 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 196
+
+1. Lorsque les marchandises saisies ne sont pas prohibées, il est offert mainlevée des moyens de transports sous caution
+solvable ou sous consignation de la valeur.
+
+2. Cette offre, ainsi que la réponse, sont mentionnées au procès-verbal.
+
+3. La mainlevée du moyen de transport est accordée sans caution ni consignation au propriétaire de bonne foi, lorsqu'il a
+conclu le contrat de transport, de location ou de crédit-bail le liant au contrevenant conformément aux lois et règlements en
+vigueur et selon les usages de la profession. Toutefois, cette mainlevée est subordonnée au remboursement des frais
+éventuellement engagés par le service des douanes pour assurer la garde et la conservation du moyen de transport saisi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 197
+
+1. Si le prévenu est présent, le procès-verbal énonce qu'il lui en été donné lecture, qu'il a été interpellé de le signer et
+qu'il en a reçu tout de suite copie.
+
+2. Lorsque le prévenu est absent la copie est affichée dans les vingt-quatre heures à la porte du bureau ou du poste de
+douane, ou à la mairie du lieu de rédaction du procès-verbal s'il n'existe dans ce lieu ni bureau, ni poste de douane.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 198
+
+1. Les procès-verbaux sont affirmés devant le juge du tribunal de première instance dans le délai donné pour comparaître ;
+l'affirmation énonce qu'il en a donné lecture à l'affirmant.
+
+2. En matière correctionnelle ou criminelle, les saisissants ont trois jours pour affirmer leurs procès-verbaux.
+
+3. Les agents des douanes et les fonctionnaires assermentés des autres administrations sont toutefois dispensés de la
+formalité de l'affirmation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=123></a>
+
+##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=124></a>
+
+###### Article 199
+
+1. Si le motif de la saisie porte sur le faux ou l'altération des expéditions, le procès-verbal énonce le genre de faux, les
+altérations ou surcharges.
+
+2. Lesdites expéditions, signées et paraphées ne varietur par les saisissants, sont annexées au procès-verbal qui contient la
+sommation faite au prévenu de les signer et sa réponse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### B. - Saisies à domicile.<a id=125></a>
+
+###### Article 200
+
+1. En cas de saisie à domicile, les marchandises non prohibées ne sont pas déplacées, sous réserve que le prévenu donne
+caution solvable de leur valeur. Si le prévenu ne fournit pas caution, ou s'il s'agit d'objets prohibés, les marchandises
+sont transportées au plus prochain bureau ou confiées à un tiers gardien constitué soit les lieux de la saisie, soit dans une
+autre localité.
+
+2. L'officier de police judiciaire, intervenu dans les conditions prévues à l'article 41 ci-dessus, doit assister à la
+rédaction du procès-verbal : en cas de refus, il suffit, pour la régularité des opérations, que le procès-verbal contienne la
+mention de la réquisition et du refus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 41 (M)
+
+
+##### C. - Saisies sur les navires et bateaux pontés.<a id=126></a>
+
+###### Article 201
+
+A l'égard des saisies faites sur les navires et bateaux pontés, lorsque le déchargement ne peut avoir lieu tout de suite, les
+saisissants apposent les scellés sur les panneaux et écoutilles des bâtiments. Le procès-verbal, qui est dressé au fur et à
+mesure du déchargement, fait mention du nombre, des marques et des numéros des ballots, caisses et tonneaux. La description
+en détail n'est faite qu'au bureau, en présence du prévenu ou après sommation d'y assister ; il lui est donné copie à chaque
+vacation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### D. - Saisies en tous lieux.<a id=127></a>
+
+###### Article 202
+
+1. Les dispositions des articles 193 à 201 ci-dessus sont applicables aux infractions relevées dans les bureaux, entrepôts et
+autres lieux soumis à la surveillance du service des douanes.
+
+2. Des saisies peuvent également être pratiquées en tous lieux dans le cas de poursuite à vue, d'infraction flagrante,
+d'infraction à l'article 163 ci-dessus ou de découverte inopinée de marchandises dont l'origine frauduleuse ressort
+manifestement des déclarations de leur détenteur ou de documents probants trouvés en sa possession.
+
+3. En cas de saisie après poursuite à vue, le procès-verbal doit constater :
+
+a) S'il s'agit de marchandises assujetties à la formalité du passavant, que lesdites marchandises ont été suivies sans
+interruption jusqu'au moment de leur saisie et qu'elles étaient dépourvues de l'expédition nécessaire à leur transport dans
+le rayon de douanes ;
+
+b) S'il s'agit d'autres marchandises, que lesdites marchandises ont été suivies sans interruption depuis leur franchissement
+de la frontière jusqu'au moment de leur saisie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 163 (V)
+  - Code des douanes de Mayotte 163, 193 à 201
+
+
+##### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=128></a>
+
+###### Article 203
+
+1. Après affirmation, s'il y a lieu, les procès-verbaux constatant les délits de douane sont remis au procureur de la
+République et les prévenus capturés sont traduits devant ce magistrat.
+
+2. A cet effet, les autorités civiles et militaires sont tenues de prêter main-forte aux agents des douanes à la première
+réquisition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 233 (V)
+
+
+#### Section 2 : Constatation par procès-verbal de constat.<a id=129></a>
+
+###### Article 204
+
+1. Les résultats des contrôles opérés dans les conditions prévues à l'article 44 ci-dessus et, d'une manière générale, ceux
+des enquêtes et interrogatoires effectués par les agents des douanes sont consignés dans les procès-verbaux de constat.
+
+2. Ces procès-verbaux énoncent la date et le lieu des contrôles et des enquêtes effectués, la nature des constatations faites
+et des renseignements recueillis, la saisie des documents, s'il y a lieu, ainsi que les nom, qualité et résidence
+administrative des agents verbalisateurs. Ils indiquent, en outre, que ceux chez qui l'enquête ou le contrôle a été effectué
+ont été informés de la date et du lieu de la rédaction de ce rapport et que sommation leur a été faite d'assister à cette
+rédaction ; si ces personnes sont présentes à la rédaction, ils précisent que lecture leur en a été faite et qu'elles ont été
+interpellées de le signer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Décret n°2013-750 du 14 août 2013 - art. 3 (V)
+  - Code des douanes de Mayotte - art. 208 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 44 (V)
+
+
+#### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=130></a>
+
+##### Paragraphe 1 : Timbre et enregistrement.<a id=131></a>
+
+###### Article 205
+
+Les procès-verbaux de douane ainsi que les soumissions et transactions en tenant lieu sont dispensés des formalités de timbre
+et d'enregistrement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=132></a>
+
+###### Article 206
+
+1. Les procès-verbaux de douane rédigés par deux agents des douanes ou de toute autre administration font foi jusqu'à
+inscription de faux des constatations matérielles qu'ils relatent.
+
+2. Ils ne font foi que jusqu'à preuve contraire de l'exactitude et de la sincérité des aveux et déclarations qu'ils
+rapportent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 207
+
+1. Les procès-verbaux de douane rédigés par un seul agent font foi jusqu'à preuve contraire.
+
+2. En matière d'infractions constatées par procès-verbal de constat à la suite d'un contrôle d'écritures, la preuve contraire
+ne peut être rapportée qu'au moyen de documents de date certaine antérieure à celle de l'enquête effectuée par les agents
+verbalisateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 208
+
+1. Les tribunaux ne peuvent admettre contre les procès-verbaux de douane d'autres nullités que celles résultant de l'omission
+des formalités prescrites par les articles 193-1, 194 à 202 et 204 ci-dessus.
+
+2. Toutefois, sera nulle et de nul effet toute saisie de marchandises non prohibées à l'importation ou à l'exportation ou non
+fortement taxées qui auraient dépassé un bureau de douane sur la façade duquel n'aurait pas été apposé un tableau portant les
+mots "Bureau des douanes françaises".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 193 (V)
+  - Code des douanes de Mayotte - art. 204 (V)
+  - Code des douanes de Mayotte 193, 194 à 202, 204
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 41 (V)
+
+
+###### Article 209
+
+1. Celui qui veut s'inscrire en faux contre un procès-verbal est tenu d'en faire déclaration par écrit, en personne ou par un
+fondé de pouvoir spécial passé devant notaire, au plus tard à l'audience indiquée par la sommation de comparaître devant le
+tribunal qui doit connaître de l'infraction.
+
+2. Il doit, dans les trois jours suivants, faire au greffe dudit tribunal le dépôt des moyens de faux et des noms et qualités
+des témoins qu'il veut faire entendre ; le tout sous peine de déchéance de l'inscription de faux.
+
+3. Cette déclaration est reçue et signée par le juge et le greffier, dans le cas où le déclarant ne sait ni écrire ni signer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 211 (V)
+
+
+###### Article 210
+
+1. Dans le cas d'une inscription de faux contre un procès-verbal constatant la fraude, si l'inscription est faite dans le
+délai et suivant la forme prescrits par l'article précédent et en supposant que les moyens de faux, s'ils étaient prouvés,
+détruisent l'existence de la fraude à l'égard de l'inscrivant, le procureur de la République fait les diligences convenables
+pour y faire statuer sans délai.
+
+2. Il pourra être sursis, conformément à l'article 646 du code de procédure pénale, au jugement de l'infraction jusque après
+le jugement de l'inscription de faux ; dans ce cas, le tribunal saisi de l'infraction ordonne provisoirement la vente des
+marchandises sujettes à dépérissement et des animaux qui auront servi au transport.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 646 (V)
+
+
+###### Article 211
+
+Lorsqu'une inscription de faux n'a pas été faite dans le délai et suivant les formes déterminées par l'article 209 ci-dessus,
+il est, sans y avoir aucun égard, procédé à l'instruction et au jugement de l'affaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 209 (V)
+
+
+###### Article 212
+
+1. Les procès-verbaux de douane, lorsqu'ils font foi jusqu'à inscription de faux, valent titre pour obtenir, conformément au
+droit commun, l'autorisation de prendre toutes mesures conservatoires utiles à l'encontre des personnes pénalement ou
+civilement responsables, à l'effet de garantir les créances douanières de toute nature résultant desdits procès-verbaux.
+
+2. Le juge compétent pour connaître de la procédure, y compris les demandes en validité, en mainlevée, en réduction ou
+cantonnement des saisies est le juge de première instance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+### Chapitre II : Poursuites et recouvrement<a id=133></a>
+
+#### Section 1 : Dispositions générales.<a id=134></a>
+
+###### Article 213
+
+Tous délits et contraventions prévus par les lois sur les douanes peuvent être poursuivis et prouvés par toutes les voies de
+droit alors même qu'aucune saisie n'aurait pu être effectuée ou que les marchandises ayant fait l'objet d'une déclaration
+n'auraient donné lieu à aucune observation.
+
+A cet effet, il pourra valablement être fait état, à titre de preuve, des renseignements, certificats, procès-verbaux et
+autres documents fournis ou établis par les autorités des pays étrangers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 214
+
+1. L'action pour l'application des peines est exercée par le ministère public.
+
+2. L'action pour l'application des sanctions fiscales est exercée par l'administration des douanes ; le ministère public peut
+l'exercer accessoirement à l'action publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 215
+
+Qu'il s'agisse d'une instance civile ou commerciale ou d'une information, même terminée par un non-lieu, l'autorité
+judiciaire doit donner connaissance au service des douanes de toutes indications qu'elle peut recueillir de nature à faire
+présumer une fraude commise en matière douanière ou une manoeuvre quelconque ayant eu pour objet ou ayant eu pour résultat
+d'enfreindre les dispositions soit législatives, soit réglementaires se rattachant à l'application du code des douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 216
+
+Lorsque l'auteur d'une infraction douanière vient à décéder avant intervention d'un jugement définitif ou d'une transaction,
+l'administration est fondée à exercer contre la succession une action tendant à faire prononcer par le tribunal de première
+instance la confiscation des objets passibles de cette sanction ou, si ceux-ci n'ont pu être saisis, la condamnation au
+paiement d'une somme égale à la valeur desdits objets et calculée d'après le cours du marché intérieur à l'époque où la
+fraude a été commise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+#### Section 2 : Recouvrement<a id=135></a>
+
+###### Article 217
+
+Les créances de toute nature constatées et recouvrées par l'administration des douanes font l'objet d'un avis de mise en
+recouvrement sous réserve, le cas échéant, de la saisine du juge judiciaire. 
+
+L'avis de mise en recouvrement est signé et rendu exécutoire par le chef du service des douanes ou le comptable des douanes
+ainsi que, sous l'autorité et la responsabilité de ce dernier, par un agent ayant au moins le grade de contrôleur. 
+
+L'avis de mise en recouvrement indique le fait générateur de la créance ainsi que sa nature, son montant et les éléments de
+sa liquidation. Une copie est notifiée au redevable. 
+
+Les recours prévus aux articles 218 et 219 ne suspendent pas l'exécution de l'avis de mise en recouvrement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 218 (V)
 
 
 ###### Article 218
 
-Ils peuvent décerner contrainte :
+Toute contestation de la créance doit être adressée à l'autorité qui a signé l'avis de mise en recouvrement dans les trois
+ans qui suivent sa notification.
 
-1° Dans le cas où un agent des douanes qui est destitué de son emploi ou qui le quitte ne remet pas immédiatement à son
-administration sa commission d'emploi, les registres, sceaux, armes et objets d'équipement dont il est chargé pour son
-service ou ne rend pas ses comptes :
-
-2° Dans le cas d'inobservation totale ou partielle des obligations mentionnées à l'article 99.
+Le chef du service des douanes statue sur la contestation dans un délai de six mois à compter de sa réception. En cas de
+saisine de la commission de conciliation et d'expertise douanière, ce délai part du jour de la notification aux parties de
+l'avis rendu par la commission.
 
 **Liens relatifs à cet article**
 
@@ -4097,29 +6642,20 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 _Cité par_:
 
   - Code des douanes de Mayotte - art. 217 (V)
   - Code des douanes de Mayotte - art. 220 (V)
 
-_Cite_:
-
-  - Code des douanes de Mayotte - art. 99 (V)
-
-
-##### Paragraphe 2 : Titres.<a id=99></a>
 
 ###### Article 219
 
-La contrainte doit comporter copie du titre qui établit la créance.
+Dans le délai de deux mois suivant la réception de la réponse du chef du service des douanes ou, à défaut de réponse, à
+l'expiration du délai de six mois prévu à l'article précédent, le redevable peut saisir le tribunal de première instance.
 
 **Liens relatifs à cet article**
 
@@ -4127,18 +6663,37 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
 ###### Article 220
 
-Les contraintes sont notifiées dans les conditions prévues à l'article 232 ci-après.
+Si le redevable en formule la demande dans sa contestation, il peut être autorisé à différer le paiement de la créance
+jusqu'à l'issue du litige. 
+
+Le sursis de paiement est accordé au redevable si la contestation est accompagnée de garanties destinées à assurer le
+recouvrement de la créance contestée. Ces garanties prennent la forme d'une caution ou d'une consignation. 
+
+Elles peuvent également être constituées par des valeurs mobilières, par des affectations hypothécaires, par des
+nantissements de fonds de commerce. A défaut de garanties ou si le comptable des douanes chargé du recouvrement estime ne pas
+pouvoir accepter les garanties offertes par le redevable, il lui demande, dans le délai d'un mois, de constituer des
+garanties nouvelles. A l'issue de ce délai, le comptable des douanes peut prendre des mesures conservatoires pour la créance
+contestée, nonobstant toute contestation éventuelle portant sur les garanties, formulée conformément à l'article 220 bis. 
+
+Des garanties peuvent ne pas être exigées lorsqu'elles sont de nature, en raison de la situation du redevable, à susciter de
+graves difficultés d'ordre économique ou social. 
+
+Au cas où le sursis de paiement est accordé ou si des mesures conservatoires sont prises, l'exigibilité de la créance et la
+prescription de l'action en recouvrement sont suspendues jusqu'à ce qu'une décision définitive ait été prise sur la
+contestation de la créance soit par l'autorité administrative désignée à l'article 218, soit par le tribunal compétent. 
+
+Si la contestation de la créance aboutit à l'annulation de l'avis de mise en recouvrement, les frais occasionnés par la
+garantie sont remboursés au redevable. 
+
+Les dispositions du présent article ne font pas obstacle à ce que le chef du service des douanes ou le comptable des douanes
+sollicitent des mesures conservatoires du juge compétent, dès la constatation de la créance.
 
 **Liens relatifs à cet article**
 
@@ -4146,33 +6701,94 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 218 (V)
+  - Code des douanes de Mayotte - art. 220 bis (V)
 
 _Cité par_:
 
   - Code des douanes de Mayotte - art. 220 ter (V)
 
+
+###### Article 220 bis
+
+Toute contestation des décisions du comptable des douanes relatives aux garanties exigées du redevable peut être portée dans
+un délai de quinze jours à compter de la notification de la réponse du comptable des douanes ou de l'expiration du délai
+imparti pour répondre devant le juge de première instance statuant en référé. Le juge, saisi par simple demande écrite,
+statue dans un délai d'un mois. Dans un délai de quinze jours suivant la décision du juge ou l'expiration du délai laissé à
+ce dernier pour statuer, le redevable et le comptable des douanes peuvent faire appel devant la cour d'appel.
+
+Lorsque des garanties suffisantes n'ont pas été constituées et que le comptable des douanes a mis en place des mesures
+conservatoires, le redevable peut, par simple demande écrite, demander au juge de première instance, statuant en référé, de
+prononcer dans un délai d'un mois la limitation ou l'abandon de ces mesures. Les délais de saisine du juge de première
+instance et du juge d'appel sont les mêmes que ceux définis à l'alinéa précédent.
+
+Les recours dirigés contre la régularité des mesures conservatoires relèvent du juge de l'exécution, dans les conditions de
+droit commun.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 220 (V)
+
+
+###### Article 220 ter
+
+En matière de recouvrement et de garantie des créances recouvrées par l'administration des douanes, le comptable des douanes
+peut déléguer sa signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des
+pouvoirs qu'il tient des articles 220 et 220 bis ainsi que des dispositions du code de commerce relatives aux difficultés des
+entreprises et à la vente du fonds de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
 _Cite_:
 
-  - Code des douanes de Mayotte - art. 232 (V)
+  - Code des douanes de Mayotte - art. 220 (V)
 
 
-#### Section 3 : Extinction des droits de poursuite et de répression<a id=100></a>
+#### Section 3 : Extinction des droits de poursuite et de répression<a id=136></a>
 
-##### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=101></a>
+##### Paragraphe 1 : Droit de transaction.<a id=137></a>
 
-##### B. - Prescription contre l'administration.<a id=102></a>
+###### Article 221
 
-###### Article 226
+L'administration des douanes est autorisée à transiger avec les personnes poursuivies pour infraction douanière ou pour
+infraction à la législation et à la réglementation relatives aux relations financières avec l'étranger sous réserve de
+l'application des dispositions suivantes :
 
-L'administration des douanes est non recevable à former aucune demande en paiement des droits, trois ans après que lesdits
-droits auraient dû être payés.
+a) Lorsque aucune action judiciaire n'est engagée, les transactions excédant les limites de compétence des services
+extérieurs de l'administration des douanes doivent être soumises pour avis au comité du contentieux fiscal, douanier et des
+changes prévu au titre XV du code des douanes.
+
+b) Après mise en mouvement par l'administration des douanes ou le ministère public d'une action judiciaire, l'administration
+des douanes ne peut transiger que si l'autorité judiciaire admet le principe d'une transaction.
+
+L'accord de principe est donné par le ministère public lorsque l'infraction est passible à la fois de sanctions fiscales et
+de peines, par le président de la juridiction saisie lorsque l'infraction est passible seulement de sanctions fiscales.
+
+c) Après jugement définitif, les sanctions fiscales prononcées par les tribunaux ne peuvent faire l'objet de transaction.
 
 **Liens relatifs à cet article**
 
@@ -4187,23 +6803,75 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Prescription de l'action.<a id=138></a>
+
+###### Article 222
+
+L'action de l'administration des douanes en répression des infractions douanières se prescrit dans les mêmes délais et dans
+les mêmes conditions que l'action publique en matière de délits de droit commun.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 224 (V)
+
+
+##### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=139></a>
+
+##### A. - Prescription contre les redevables.<a id=140></a>
+
+###### Article 223
+
+Aucune personne n'est recevable à former, contre l'administration des douanes, des demandes en restitution de droits et de
+marchandises et paiements de loyers, trois ans après l'époque que les réclamateurs donnent aux paiement des droits, dépôts de
+marchandises et échéances des loyers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 _Cité par_:
 
   - Code des douanes de Mayotte - art. 227 (V)
 
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=103></a>
+###### Article 224
 
-###### Article 227
+1. Lorsqu'une personne a indûment acquitté des droits et taxes recouvrés selon les procédures du présent code, elle ne peut
+en obtenir le remboursement, à moins que les droits et taxes n'aient été répercutés sur l'acheteur. 
 
-1. Quand il y a, avant les termes prévus, contrainte décernée et notifiée, demande formée en justice, condamnation, promesse,
-convention ou obligation particulière et spéciale relative à l'objet qui est répété, les prescriptions visées par les
-articles 223, 225 et 226 ci-dessus n'ont pas lieu et elles sont remplacées par la prescription trentenaire.
-
-2. Il en est de même à l'égard de la prescription visée à l'article 226 ci-dessus lorsque c'est par un acte frauduleux du
-redevable que l'administration a ignoré l'existence du fait générateur de son droit et n'a pu exercer l'action qui lui
-compétait pour en poursuivre l'exécution.
+2. Lorsque le défaut de validité d'un texte fondant la perception de droits et taxes recouvrés par le service des douanes a
+été révélé par une décision juridictionnelle, l'action en restitution mentionnée à l'article 222 ne peut porter, sans
+préjudice des dispositions du paragraphe précédent, que sur la période postérieure au 1er janvier de la troisième année
+précédent celle au cours de laquelle cette décision est intervenue.
 
 **Liens relatifs à cet article**
 
@@ -4218,22 +6886,102 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 222 (V)
+
+
+###### Article 225
+
+L'administration est déchargée envers les redevables, trois ans après chaque année expirée, de la garde des registres de
+recettes et autres de ladite année, sans pouvoir être tenue de les représenter, s'il y avait des instances encore
+subsistantes pour les instructions et jugements desquelles lesdits registres et pièces fussent nécessaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 227 (V)
+
+
+##### B. - Prescription contre l'administration.<a id=141></a>
+
+###### Article 226
+
+Le droit de reprise de l'administration s'exerce pendant un délai de trois ans, à compter du fait générateur.
+
+La prescription est interrompue par la notification d'un procès-verbal de douane.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, D JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 227 (V)
+
+
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=142></a>
+
+###### Article 227
+
+1° Quand il y a, avant les termes prévus, demande formée en justice, condamnation, promesse, convention ou obligation
+particulière et spéciale relative à l'objet qui est répété, les prescriptions visées par les articles 223,225 et 226 ci-
+dessus n'ont pas lieu et elles sont remplacées par la prescription trentenaire. 
+
+2° Il en est de même à l'égard de la prescription visée à l'article 226 ci-dessus lorsque c'est par un acte frauduleux du
+redevable que l'administration a ignoré l'existence du fait générateur de son droit et n'a pu exercer l'action qui lui
+compétait pour en poursuivre l'exécution. 
+
+3° A compter de la notification de l'avis de mise en recouvrement, l'administration des douanes dispose d'un délai de quatre
+ans pour recouvrer la créance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, D JORF 29 octobre 2004
 
 _Cite_:
 
   - Code des douanes de Mayotte - art. 223 (V)
   - Code des douanes de Mayotte - art. 225 (V)
-  - Code des douanes de Mayotte - art. 226 (M)
+  - Code des douanes de Mayotte - art. 226 (V)
 
 
-### Chapitre III : Procédure devant les tribunaux<a id=104></a>
+### Chapitre III : Procédure devant les tribunaux<a id=143></a>
 
-#### Section 1 : Tribunaux compétents en matière de douane.<a id=105></a>
+#### Section 1 : Tribunaux compétents en matière de douane.<a id=144></a>
 
-###### Article 230
+###### Article 228
 
-Le tribunal de première instance connaît des contestations concernant le paiement ou le remboursement des droits, des
-oppositions à contrainte et des autres affaires de douane n'entrant pas dans la compétence des juridictions répressives.
+Le tribunal de première instance statuant en matière de police connaît des contraventions douanières et de toutes les
+questions douanières soulevées par voie d'exception.
 
 **Liens relatifs à cet article**
 
@@ -4248,28 +6996,476 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 229
+
+1. Le tribunal de première instance statuant en matière correctionnelle connaît de tous les délits de douane et de toutes les
+questions douanières soulevées par voie d'exception.
+
+2. Il connaît pareillement des contraventions de douane connexes, accessoires ou se rattachant à un délit de douane ou de
+droit commun.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 230
+
+Le tribunal de première instance connaît des contestations concernant le paiement, la garantie ou le remboursement des
+créances de toute nature recouvrées par l'administration des douanes et des autres affaires de douanes n'entrant pas dans la
+compétence des juridictions répressives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, E JORF 29 octobre 2004
 
 _Cité par_:
 
   - Code des douanes de Mayotte - art. 257 bis (V)
 
 
-### Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=106></a>
+#### Section 2 : Procédure devant les juridictions civiles<a id=145></a>
 
-#### Section 1 : Sûretés garantissant l'exécution<a id=107></a>
+##### Paragraphe 1 : Appel des jugements rendus par le juge de première instance.<a id=146></a>
 
-##### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=108></a>
+###### Article 231
+
+Tout jugement rendu par le tribunal de première instance en matière douanière est susceptible, quelle que soit l'importance
+du litige, d'appel devant le tribunal supérieur d'appel, conformément aux règles du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Notification des jugements et autres actes de procédure.<a id=147></a>
+
+###### Article 232
+
+1. Les notifications à l'administration des douanes sont faites à l'agent qui représente celle-ci.
+
+2. Les notifications à l'autre partie sont faites conformément aux règles du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 220 (M)
+  - Code des douanes de Mayotte - art. 257 bis (V)
+  - Code des douanes de Vayotte - art. 257 (M)
+
+
+#### Section 3 : Procédure devant les juridictions répressives.<a id=148></a>
+
+###### Article 233
+
+Les dispositions de droit commun sur l'instruction des flagrants délits devant les tribunaux correctionnels sont applicables
+dans le cas prévu par l'article 203 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 203 (V)
+
+
+#### Section 4 : Dispositions diverses<a id=149></a>
+
+##### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=150></a>
+
+##### A. - Instruction et frais.<a id=151></a>
+
+###### Article 234
+
+En première instance et sur l'appel, l'instruction est verbale sur simple mémoire et sans frais de justice à répéter de part
+ni d'autre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### B. - Exploits.<a id=152></a>
+
+###### Article 235
+
+Les agents des douanes peuvent faire, en matière de douane, tous exploits et autres actes de justice que les huissiers ont
+accoutumé de faire ; ils peuvent, toutefois, se servir de tel huissier que bon leur semblera, notamment pour les ventes
+d'objets saisis, confisqués ou abandonnés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=153></a>
+
+###### Article 236
+
+1. S'il retient les circonstances atténuantes, le tribunal peut :
+
+a) Libérer les contrevenants de la confiscation des moyens de transport ; ces dispositions ne sont toutefois pas applicables
+dans les cas où les actes de contrebande ou assimilés ont été commis par dissimulation dans des cachettes spécialement
+aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises ;
+
+b) Libérer les contrevenants de la confiscation des objets ayant servi à masquer la fraude ;
+
+c) Réduire le montant des sommes tenant lieu de confiscation des marchandises de fraude jusqu'au tiers de la valeur de ces
+marchandises ;
+
+d) Réduire le montant des amendes fiscales jusqu'au tiers de leur montant minimal, sous réserve des dispositions de l'article
+300 ci-après ;
+
+e) Limiter, en ce qui concerne les sanctions fiscales visées au c et au d ci-dessus, l'étendue de la solidarité à l'égard de
+certains des condamnés.
+
+Si les circonstances atténuantes ne sont retenues qu'à l'égard de certains coprévenus pour un même fait de fraude, le
+tribunal prononce d'abord les sanctions fiscales auxquelles les condamnés ne bénéficiant pas des circonstances atténuantes
+seront solidairement tenus. Il peut ensuite, en ce qui concerne les sommes tenant lieu de confiscation et les amendes
+fiscales, limiter l'étendue de la solidarité à l'égard des personnes bénéficiant des circonstances atténuantes.
+
+S'il retient les circonstances atténuantes à l'égard d'un prévenu, le tribunal peut dispenser le prévenu des sanctions
+pénales prévues par le présent code, ordonner qu'il soit sursis à l'exécution de celles-ci, décider que la condamnation ne
+soit pas mentionnée au bulletin n° 2 du casier judiciaire.
+
+2. Lorsque les marchandises saisies ne sont pas explicitement prohibées au titre de la réglementation douanière, les
+tribunaux peuvent en donner mainlevée avant de juger définitivement le tout, moyennant caution solvable ou consignation de la
+valeur.
+
+3. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues ni de la confiscation
+des marchandises dangereuses pour la santé ou la moralité et la sécurité publiques, des marchandises contrefaites, ainsi que
+de celles qui sont soumises à des restrictions quantitatives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 243 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 300 (V)
+
+
+###### Article 237
+
+1. Si le contrevenant aux dispositions des articles 302 et 303 ci-après commet, dans les cinq ans qui suivent une transaction
+ou une condamnation devenue définitive, une nouvelle infraction tombant sous le coup des sanctions prévues par les articles
+précités, le taux maximal des pénalités encourues est doublé. 
+
+2. Cette disposition n'est pas applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour
+autrui les formalités de douane.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 302 (V)
+
+
+##### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=154></a>
+
+##### A. - Preuves de non-contravention.<a id=155></a>
+
+###### Article 238
+
+Dans toute action sur une saisie, les preuves de non-contravention sont à la charge du saisi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### B. - Action en garantie.<a id=156></a>
+
+###### Article 239
+
+1. La confiscation des marchandises saisies peut être poursuivie contre les conducteurs ou déclarants sans que
+l'administration des douanes soit tenue de mettre en cause les propriétaires quand même ils lui seraient indiqués.
+
+2. Toutefois, si les propriétaires interviennent ou sont appelés en garantie par ceux sur lesquels les saisies ont été
+faites, les tribunaux statueront, ainsi que de droit, sur les interventions ou sur les appels en garantie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### C. - Confiscation des objets saisis sur inconnus et des minuties.<a id=157></a>
+
+###### Article 240
+
+1. L'administration des douanes peut demander au tribunal de première instance sur simple requête la confiscation en nature
+des objets saisis sur des inconnus ou sur des individus qui n'ont pas fait l'objet de poursuites en raison du peu
+d'importance de la fraude.
+
+2. Il est statué sur ladite demande par une seule ordonnance, même si la requête se rapporte à plusieurs saisies faites
+séparément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### D. - Revendication des objets saisis.<a id=158></a>
+
+###### Article 241
+
+1. Les objets saisis ou confisqués ne peuvent être revendiqués par les propriétaires, ni le prix, qu'il soit consigné ou non,
+réclamé par les créanciers même privilégiés, sauf leur recours contre les auteurs de la fraude.
+
+2. Les délais d'appel, de tierce opposition et de vente expirés, toutes répétitions et actions sont non recevables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### E. - Fausses déclarations.<a id=159></a>
+
+###### Article 242
+
+Sous réserve des dispositions des 1 et 2 de l'article 79 ci-dessus, la vérité ou fausseté des déclarations doit être jugée
+sur ce qui a été premièrement déclaré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 79 (V)
+
+
+##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=160></a>
+
+###### Article 243
+
+1. En sus des pénalités fiscales, les tribunaux ordonnent le paiement des sommes fraudées ou indûment obtenues.
+
+2. Même quand elle ne prononce aucune condamnation, la juridiction répressive est compétente pour se prononcer sur les
+dispositions du 3 de l'article 236 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 236 (V)
+
+
+### Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=161></a>
+
+#### Section 1 : Sûretés garantissant l'exécution<a id=162></a>
+
+##### Paragraphe 1 : Droit de rétention.<a id=163></a>
+
+###### Article 244
+
+Dans tous les cas de constatation d'infraction douanière flagrante, les moyens de transport et les marchandises litigieuses
+non passibles de confiscation peuvent, pour sûreté des pénalités encourues, être retenus jusqu'à ce qu'il soit fourni caution
+ou versé consignation du montant desdites pénalités.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=164></a>
 
 ###### Article 245
 
-1. L'administration des douanes a, pour les droits, confiscation, amende et restitution, privilège et préférence à tous
+1° L'administration des douanes a, pour les droits, confiscation, amende et restitution, privilège et préférence à tous
 créanciers sur les meubles et effets mobiliers des redevables, à l'exception des frais de justice et autres frais
 privilégiés, de ce qui est dû pour six mois de loyer seulement, et sauf aussi la revendication dûment formée par les
 propriétaires des marchandises en nature qui sont encore emballées.
 
-2. L'administration a pareillement hypothèque sur les immeubles des redevables mais pour les droits seulement.
+2° L'administration a pareillement hypothèque sur les immeubles des redevables mais pour les droits seulement.
 
-Les contraintes douanières emportent hypothèque de la même manière et aux mêmes conditions que les condamnations émanées de
+L'avis de mise en recouvrement emporte hypothèque de la même manière et aux mêmes conditions que les condamnations émanées de
 l'autorité judiciaire.
 
 **Liens relatifs à cet article**
@@ -4278,6 +7474,29 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 255 (V)
+
+
+###### Article 246
+
+Les importateurs, distributeurs, négociants en gros d'huiles minérales, dérivés et résidus, ainsi que les garagistes
+distributeurs et les détaillants en carburants bénéficient, pour le recouvrement de la partie de leur créance représentant
+les droits de douane et taxes de toute nature grevant ces produits, d'un privilège sur les biens meubles de leur débiteur qui
+prend rang immédiatement après celui que la loi accorde à l'administration des douanes, et avant celui qui est fondé sur le
+nantissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
 _Créé par_:
 
   - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
@@ -4285,30 +7504,54 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
 
-_Cité par_:
 
-  - Code des douanes de Mayotte - art. 255 (V)
+###### Article 247
 
+1. Les commissionnaires en douane agréés, qui ont acquitté pour un tiers des droits, des amendes, des taxes de toute nature
+dont la douane assure le recouvrement, sont subrogés au privilège de la douane, quelles que soient les modalités de
+recouvrement observées par eux à l'égard de ce tiers.
+
+2. Toutefois, cette subrogation ne peut, en aucun cas, être opposée aux administrations de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+#### Section 2 : Voie d'exécution<a id=165></a>
+
+##### Paragraphe 1 : Règles générales.<a id=166></a>
 
 ###### Article 248
 
-1. L'exécution des jugements et arrêts rendus en matière de douane peut avoir lieu par toutes voies de droit.
+1° L'exécution des jugements et arrêts rendus en matière de douane peut avoir lieu par toutes voies de droit.
 
-2. Les jugements et arrêts portant condamnation pour infraction aux lois de douane sont, en outre, exécutés par corps.
+2° Les jugements et arrêts portant condamnation pour infraction aux lois de douane sont, en outre, exécutés par corps.
 
-3. Les contraintes sont exécutoires par toutes voies de droit, sauf par corps. L'exécution des contraintes ne peut être
-suspendue par aucune opposition ou autre acte.
+3° (alinéa abrogé).
 
-4. Lorsqu'un contrevenant vient à décéder avant d'avoir effectuer le règlement des amendes, confiscations et autres
+4° Lorsqu'un contrevenant vient à décéder avant d'avoir effectuer le règlement des amendes, confiscations et autres
 condamnations pécuniaires prononcées contre lui par jugement définitif, ou stipulées dans les transactions ou soumissions
 contentieuses acceptées par lui, le recouvrement peut en être poursuivi contre la succession par toutes voies de droit, sauf
 par corps.
 
-5. Les amendes et confiscations douanières, quel que soit le tribunal qui les a prononcées, se prescrivent dans les mêmes
+5° Les amendes et confiscations douanières, quel que soit le tribunal qui les a prononcées, se prescrivent dans les mêmes
 délais que les peines correctionnelles de droit commun et dans les mêmes conditions que les dommages-intérêts.
 
-6. En cas de condamnation à une pénalité pécuniaire prévue au présent code, lorsque l'administration dispose d'éléments
+6° En cas de condamnation à une pénalité pécuniaire prévue au présent code, lorsque l'administration dispose d'éléments
 permettant de présumer que le condamné a organisé son insolvabilité, elle peut demander au juge de condamner à la solidarité
 de paiement des sommes dues les personnes qui auront participé à l'organisation de cette insolvabilité.
 
@@ -4318,6 +7561,25 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=167></a>
+
+###### Article 249
+
+L'administration est autorisée à ne faire aucun paiement en vertu des jugements attaqués par les voies d'opposition, d'appel
+ou de cassation, à moins qu'au préalable ceux au profit desquels lesdits jugements ont été rendus n'aient donné bonne et
+suffisante caution pour sûreté des sommes à eux adjugées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
 _Créé par_:
 
   - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
@@ -4325,11 +7587,190 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
 
 
-#### Section 2 : Voie d'exécution<a id=109></a>
+###### Article 250
 
-##### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=110></a>
+Lorsque la mainlevée des objets saisis pour infraction aux lois dont l'exécution est confiée à l'administration des douanes
+est accordée par jugements contre lesquels une voie de recours est introduite, la remise n'en est faite à ceux au profit
+desquels lesdits jugements ont été rendus que sous bonne et suffisante caution de leur valeur. La mainlevée ne peut jamais
+être accordée pour les marchandises dont l'entrée est prohibée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+###### Article 251
+
+Toutes saisies du produit des droits, faites entre les mains des receveurs ou en celles des redevables envers
+l'administration, sont nulles et de nul effet ; nonobstant lesdites saisies, les redevables sont contraints au paiement des
+sommes par eux dues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+###### Article 252
+
+Dans le cas d'apposition de scellés sur les effets et papiers des comptables, les registres de recettes et autres de l'année
+courante ne doivent pas être renfermés sous les scellés. Lesdits registres sont seulement arrêtés et paraphés par le juge,
+qui les remet à l'agent chargé de la recette par intérim, lequel en demeure garant comme dépositaire de justice, et il en est
+fait mention dans le procès-verbal d'apposition des scellés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+###### Article 253
+
+En cas d'inculpation du chef de l'infraction prévue à l'article 283 ci-après et afin de garantir le paiement des amendes
+encourues, des frais de justice et la confiscation, le président du tribunal de première instance peut ordonner, à la demande
+de l'administration des douanes et après avis du procureur de la République, aux frais avancés du Trésor et selon les
+modalités prévues par le nouveau code de procédure civile, des mesures conservatoires sur les biens de la personne inculpée.
+
+La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
+
+La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
+ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+**Nota:**
+
+NOTA : Loi 93-1013 du 24 août 1993 art. 46 :
+
+Dans les dispositions de nature législative, toute mention relative à l'inculpation est remplacée par une mention relative à
+la mise en examen et toute mention relative à l'inculpé est remplacée par une mention relative à la personne mise en examen.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 283 (M)
+
+
+###### Article 254
+
+1. Lorsque les infractions visées aux articles 282 et 321 ci-après ont été régulièrement constatées par un fonctionnaire
+habilité à cet effet, le président du tribunal de première instance peut ordonner, sur requête de l'administration des
+douanes, en cas d'urgence, au vu de l'importance des sommes à garantir, et afin de garantir le paiement des droits et taxes,
+amendes et confiscations, toutes mesures conservatoires utiles, aux frais avancés du Trésor et selon les modalités prévues au
+code de procédure civile, sur les biens du responsable de l'infraction. 
+
+2. L'ordonnance du président du tribunal de première instance est exécutoire nonobstant opposition ou appel. 
+
+Toutefois, il peut être donné mainlevée des mesures conservatoires si l'intéressé fournit une caution jugée suffisante. 3.
+Les demandes en validité ou en mainlevée des mesures conservatoires sont de la compétence du président du tribunal de
+première instance. 
+
+La condamnation ou l'acceptation d'une transaction par l'intéressé vaut validation des saisies conservatoires et inscription
+définitive des sûretés. 
+
+La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
+ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 282 (V)
+  - Code des douanes de Mayotte - art. 321 (V)
+
+
+###### Article 255
+
+Tous dépositaires et débiteurs de deniers provenant du chef des redevables et affectés au privilège visé à l'article 245-1
+ci-dessus sont tenus, sur la demande qui leur en est faite, de payer en l'acquit des redevables et sur le montant des fonds
+qu'ils doivent ou qui sont entre leurs mains jusqu'à concurrence de tout ou partie des sommes dues par ces derniers.
+
+Les quittances des comptables chargés du recouvrement des créances privilégiées susvisées pour les sommes légitimement dues
+leur sont allouées en compte.
+
+Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
+sociétés pour les dettes de ces sociétés constituant une créance douanière privilégiée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 245 (M)
+
+
+##### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=168></a>
 
 ###### Article 256
 
@@ -4346,6 +7787,37 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+##### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes<a id=169></a>
+
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=170></a>
+
+###### Article 257
+
+1. En cas de saisie de moyens de transport dont la remise sous caution aura été offerte par procès-verbal et n'aura pas été
+acceptée par la partie, ainsi qu'en cas de saisie d'objets qui ne pourront être conservés sans courir le risque de
+détérioration, il sera, à la diligence de l'administration des douanes et en vertu de la permission du juge de première
+instance ou du juge d'instruction, procédé à la vente par enchère des objets saisis.
+
+2. L'ordonnance portant permis de vendre sera notifiée dans le jour à la partie adverse conformément aux dispositions de
+l'article 232-2 ci-dessus avec déclaration qu'il sera immédiatement procédé à la vente, tant en son absence qu'en sa
+présence, attendu le péril en la demeure.
+
+3. L'ordonnance du juge de première instance ou du juge d'instruction sera exécutée nonobstant opposition ou appel.
+
+4. Le produit de la vente sera déposé dans la caisse de la douane pour en être disposé ainsi qu'il sera statué en définitive
+par le tribunal chargé de se prononcer sur la saisie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
 _Créé par_:
 
   - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
@@ -4353,26 +7825,438 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 232 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 257 bis (V)
 
 
-### Chapitre VI : Dispositions répressives<a id=111></a>
+##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=171></a>
 
-#### Section 1 : Classification des infractions douanières et peines principales<a id=112></a>
+###### Article 257 bis
 
-##### Paragraphe 3 : Délits douaniers<a id=113></a>
+1° En cas de saisie de marchandises :
 
-##### A. - Première classe.<a id=114></a>
+- qualifiées par la loi de dangereuses, ou de nuisibles, ou dont la fabrication, le commerce ou la détention est illicite ;
 
-###### Article 282
+- destinées à l'alimentation humaine ou animale mais qui ne peuvent être vendues en application de l'article 257 parce
+qu'elles sont impropres à la consommation, ou qui ne peuvent être conservées sans risque de détérioration.
 
-Sont passibles d'un emprisonnement maximum de trois ans, de la confiscation de l'objet de fraude, de la confiscation des
-moyens de transport, de la confiscation des objets servant à masquer la fraude et d'une amende comprise entre une et deux
-fois la valeur de l'objet de fraude, tout fait de contrebande, ainsi que tout fait d'importation ou d'exportation sans
-déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
-fortement taxées au sens du présent code.
+Il est, à la diligence de l'administration des douanes, sous réserve d'un prélèvement préalable d'échantillons selon des
+modalités fixées par décret en Conseil d'Etat, et en vertu de l'autorisation du juge de première instance compétent en
+application de l'article 230 ou du juge d'instruction, procédé à la destruction des objets saisis ;
 
-Les infractions portant sur des marchandises non prohibées, dont la valeur n'excède pas 770 euros, sont passibles d'une
-amende égale à la valeur desdites marchandises.
+2° L'ordonnance portant autorisation de destruction est notifiée à l'autre partie conformément aux dispositions du 2 de
+l'article 232, avec déclaration qu'il sera immédiatement procédé à la destruction, tant en son absence qu'en sa présence ;
+
+3° L'ordonnance du juge de première instance ou du juge d'instruction est exécutée nonobstant opposition ou appel. La
+destruction est constatée par procès-verbal de constat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Décret n°2013-750 du 14 août 2013 - art. 3 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 230 (M)
+  - Code des douanes de Mayotte - art. 232 (V)
+  - Code des douanes de Mayotte - art. 257 (V)
+
+
+##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=172></a>
+
+###### Article 258
+
+1. Les objets confisqués ou abandonnés sont aliénés par le service des douanes dans les conditions fixées par arrêté du
+représentant de l'Etat à Mayotte lorsque le jugement de confiscation est passé en force de chose jugée ou, en cas de jugement
+par défaut, lorsque l'exécution provisoire a été ordonnée par le jugement de confiscation, ou après ratification de l'abandon
+consenti par transaction.
+
+2. Toutefois, les jugements et ordonnances portant confiscation de marchandises saisies sur des particuliers inconnus, et par
+eux abandonnées et non réclamées, ne sont exécutés qu'un mois après leur affichage tant à la porte du bureau qu'à celle de
+l'auditoire du juge de première instance ; passé ce délai, aucune demande en répétition n'est recevable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 A, C, F JORF 29 octobre 2004
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 3 : Droit de remise.<a id=173></a>
+
+###### Article 259
+
+1. Pour tenir compte des ressources et des charges des débiteurs ou d'autres circonstances particulières en ce qui concerne
+ceux qui font profession d'accomplir pour autrui les formalités de douane, des remises totales ou partielles des sanctions
+fiscales prononcées par les tribunaux peuvent être accordée par l'administration des douanes.
+
+2. Les demandes de remise sont instruites par l'administration des douanes et soumises au président de la juridiction qui a
+prononcé la condamnation.
+
+3. La remise ne peut être accordée qu'après avis conforme du président de la juridiction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+
+
+#### Section 4 : Répartition du produit des amendes et confiscations.<a id=174></a>
+
+###### Article 260
+
+1. La part attribuée à la collectivité départementale dans les produits d'amendes et de confiscations résultant d'affaires
+suivies à la requête de l'administration des douanes est de 40 % du produit net des saisies.
+
+2. Les conditions dans lesquelles le surplus est réparti sont déterminées par arrêtés du représentant de l'Etat qui, dans le
+cas de limitation des sommes revenant aux ayants droit, sont applicables à la répartition des produits non distribués à la
+date de publication desdits arrêtés au recueil des actes administratifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 A, C, F JORF 29 octobre 2004
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre V : Responsabilité et solidarité<a id=175></a>
+
+#### Section 1 : Responsabilité pénale<a id=176></a>
+
+##### Paragraphe 1 : Détenteurs.<a id=177></a>
+
+###### Article 261
+
+1. Le détenteur de marchandises de fraude est réputé responsable de la fraude.
+
+2. Toutefois, les transporteurs publics ne sont pas considérés, eux et leurs préposés ou agents, comme contrevenants lorsque,
+par une désignation exacte et régulière de leurs commettants, ils mettent l'administration en mesure d'exercer utilement des
+poursuites contre les véritables auteurs de la fraude.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=178></a>
+
+###### Article 262
+
+1. Les capitaines de navires, bateaux, embarcations et les commandants d'aéronefs sont réputés responsables des omissions et
+inexactitudes relevées dans les manifestes et, d'une manière générale, des infractions commises à bord de leur bâtiment.
+
+2. Toutefois, les peines d'emprisonnement édictées par le présent code ne sont applicables aux commandants des navires de
+commerce ou de guerre ou des aéronefs militaires ou commerciaux qu'en cas de faute personnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 263
+
+Le capitaine est déchargé de toute responsabilité : 
+
+a) Dans le cas d'infraction visé à l'article 287 (2°) ci-après, s'il administre la preuve qu'il a rempli tous ses devoirs de
+surveillance ou si le délinquant est découvert ; 
+
+b) Dans le cas d'infraction visé à l'article 287 (3°) ci-après, s'il justifie que des avaries sérieuses ont nécessité le
+déroutement du navire et à condition que ces événements aient été consignés au journal de bord avant la visite du service des
+douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 287 (V)
+
+
+##### Paragraphe 3 : Déclarants.<a id=179></a>
+
+###### Article 264
+
+1. Les signataires de déclarations sont responsables des omissions, inexactitudes et autres irrégularités relevées dans les
+déclarations, sauf leur recours contre leurs commettants.
+
+2. Lorsque la déclaration a été rédigée en conformité des instructions données par le commettant, ce dernier est passible des
+mêmes peines que le signataire de la déclaration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 4 : Commissionnaires en douane agréés.<a id=180></a>
+
+###### Article 265
+
+1. Les commissionnaires en douane agréés sont responsables des opérations en douane effectuées par leurs soins.
+
+2. les peines d'emprisonnement édictées par le présent code ne leur sont applicables qu'en cas de faute personnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 5 : Soumissionnaires.<a id=181></a>
+
+###### Article 266
+
+1. Les soumissionnaires sont responsables de l'inexécution des engagements souscrits, sauf leur recours contre les
+transporteurs et autres mandataires.
+
+2. A cet effet, le service auquel les marchandises sont représentées ne donne décharge que pour les quantités à l'égard
+desquelles les engagements ont été remplis dans le délai, et les pénalités réprimant l'infraction sont poursuivies au bureau
+d'émission contre les soumissionnaires et leurs cautions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 6 : Complices.<a id=182></a>
+
+###### Article 267
+
+Les dispositions des articles 121-6 et 121-7 du code pénal sont applicables aux complices de délits douaniers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 332 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code pénal - art. 121-6 (V)
+
+
+##### Paragraphe 7 : Intéressés à la fraude.<a id=183></a>
+
+###### Article 268
+
+1. Ceux qui ont participé comme intéressés d'une manière quelconque à un délit de contrebande ou à un délit d'importation ou
+d'exportation sans déclaration sont passibles des mêmes peines que les auteurs de l'infraction et, en outre, des peines
+privatives de droits édictées par l'article 294 ci-après. 
+
+2. Sont réputés intéressés : 
+
+a) Les entrepreneurs, membres d'entreprise, assureurs, assurés, bailleurs de fonds, propriétaires de marchandises et, en
+général, ceux qui ont un intérêt direct à la fraude ; 
+
+b) Ceux qui ont coopéré d'une manière quelconque à un ensemble d'actes accomplis par un certain nombre d'individus agissant
+de concert, d'après un plan de fraude arrêté pour assurer le résultat poursuivi en commun ; 
+
+c) Ceux qui ont, sciemment, soit couvert les agissements des fraudeurs ou tenté de leur procurer l'impunité, soit acheté ou
+détenu, même en dehors du rayon, des marchandises provenant d'un délit de contrebande ou d'importation sans déclaration. 
+
+3. L'intérêt à la fraude ne peut être imputé à celui qui a agi en état de nécessité ou par suite d'erreur invisible.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 294 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 46 (V)
+
+
+#### Section 2 : Responsabilité civile<a id=184></a>
+
+##### Paragraphe 1 : Responsabilité de l'administration.<a id=185></a>
+
+###### Article 269
+
+L'administration des douanes est responsable du fait de ses employés, dans l'exercice et pour raison de leurs fonctions
+seulement, sauf son recours contre eux ou leurs cautions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 270
+
+Lorsqu'une saisie opérée en vertu de l'article 193-2 ci-dessus n'est pas fondée, le propriétaire des marchandises a droit à
+un intérêt d'indemnité, à raison de 1 % par mois de la valeur des objets saisis, depuis l'époque de la retenue jusqu'à celle
+de la remise ou de l'offre qui lui en a été faite.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 193-2 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 312 (Ab)
+
+
+###### Article 271
+
+S'il n'est point constaté qu'il y ait motif de saisie, il doit être payé la somme de 76 euros à celui au domicile duquel les
+recherches ont été faites, en vertu de l'article 41 ci-dessus, sauf plus grands dommages et intérêts auxquels les
+circonstances de la visite peuvent éventuellement donner lieu.
 
 **Liens relatifs à cet article**
 
@@ -4385,28 +8269,19 @@ _Modifié par_:
   - Ordonnance 2000-916 2000-09-19 art. 15 I, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
-_Cité par_:
+_Cite_:
 
-  - Arrêté du 29 juillet 2003 - art. 1 (M)
-  - Code de procédure pénale - art. 900-1 (V)
-  - Code des douanes de Mayotte - art. 193-5 (V)
-  - Code des douanes de Mayotte - art. 254 (V)
-  - Code des douanes de Mayotte - art. 285 (V)
-  - Code des douanes de Mayotte - art. 295 (V)
-  - Code des douanes de Mayotte - art. 41 (VD)
+  - Code des douanes de Mayotte - art. 41 (V)
 
 
-##### B. - Deuxième classe.<a id=115></a>
+##### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=186></a>
 
-###### Article 283
+###### Article 272
 
-Seront punis d'un emprisonnement de deux à dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
-lorsque la saisie n'a pas pu être prononcée et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté
-l'infraction ou la tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé
-ou tenté de procéder à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient provenir,
-directement ou indirectement, d'une infraction à la législation sur les substances ou plantes vénéneuses classées comme
-stupéfiants.
+Les propriétaires des marchandises sont responsables civilement du fait de leurs employés en ce qui concerne les droits,
+confiscations, amendes et dépens.
 
 **Liens relatifs à cet article**
 
@@ -4421,6 +8296,365 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=187></a>
+
+###### Article 273
+
+Les cautions sont tenues, au même titre que les principaux obligés, de payer les droits et taxes, pénalités pécuniaires et
+autres sommes dues par les redevables qu'elles ont cautionnés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+#### Section 3 : Solidarité.<a id=188></a>
+
+###### Article 274
+
+1. Les condamnations contre plusieurs personnes pour un même fait de fraude sont solidaires, tant pour les pénalités
+pécuniaires tenant lieu de confiscation que pour l'amende et les dépens.
+
+2. Il n'en est autrement qu'à l'égard des infractions aux articles 28-1 et 37-1 ci-dessus qui sont sanctionnées par des
+amendes individuelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 28 (V)
+  - Code des douanes de Mayotte - art. 37 (V)
+
+
+###### Article 275
+
+Les propriétaires des marchandises de fraude, ceux qui se sont chargés de les importer ou de les exporter, les intéressés à
+la fraude, les complices et adhérents sont tous solidaires et contraignables par corps pour le paiement de l'amende, des
+sommes tenant lieu de confiscation et des dépens.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+### Chapitre VI : Dispositions répressives<a id=189></a>
+
+#### Section 1 : Classification des infractions douanières et peines principales<a id=190></a>
+
+##### Paragraphe 1 : Généralités.<a id=191></a>
+
+###### Article 276
+
+Il existe quatre classes de contraventions douanières et deux classes de délits douaniers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 277
+
+Toute tentative de délit douanier est considérée comme le délit même.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Contraventions douanières<a id=192></a>
+
+##### A. - Première classe.<a id=193></a>
+
+###### Article 278
+
+1. Est passible d'une amende de 2000 à 20000 F toute infraction aux dispositions des lois et règlements que l'administration
+des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le présent code.
+
+2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
+
+a) Toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
+l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
+
+b) Toute omission d'inscription aux répertoires visés à l'article 70 ci-dessus ;
+
+c) Toute infraction aux dispositions des articles 50 et 187 ci-dessus ou aux dispositions des arrêtés pris pour l'application
+de l'article 10-2 du présent code ;
+
+d) Toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
+n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### B. - Deuxième classe.<a id=194></a>
+
+###### Article 279
+
+1. Est passible d'une amende comprise entre une et deux fois le montant des droits et taxes éludés ou compromis toute
+infraction aux dispositions des lois et règlements que l'administration des douanes est chargée d'appliquer lorsque cette
+irrégularité a pour but ou pour résultat d'éluder ou de compromettre le recouvrement d'un droit ou d'une taxe quelconque et
+qu'elle n'est pas spécialement réprimée par le présent code. 
+
+2. Tombent, en particulier, sous le coup des dispositions du paragraphe précédent les infractions ci-après quand elles se
+rapportent à des marchandises de la catégorie de celles qui sont passibles de droits ou taxes : 
+
+a) Les déficits dans le nombre des colis déclarés, manifestés ou transportés sous acquit-à-caution ou document en tenant
+lieu ; 
+
+b) Les déficits sur la quantité des marchandises placées sous un régime suspensif, en magasins et aires de dédouanement ou en
+magasins et aires d'exportation ; 
+
+c) La non-représentation des marchandises placées en entrepôt privé, en entrepôt spécial ou en entrepôt industriel ; 
+
+d) La présentation à destination sous scellé rompu ou altéré de marchandises expédiées sous plombs ou cachets de douane ; 
+
+e) L'inexécution totale ou partielle des engagements souscrits dans les acquits-à-caution et soumissions ; 
+
+f) Les excédents sur le poids, le nombre ou la mesure déclarés ; 
+
+g) Toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération,
+d'un dégrèvement ou d'une taxe réduite prévus en ce qui concerne les produits pétroliers ; 
+
+h) L'inobservation totale ou partielle des obligations prévues à l'article 99 ci-dessus. 
+
+3. Sont également sanctionnées des peines contraventionnelles de la 2e classe toutes infractions compromettant le
+recouvrement de droits de port ou de redevances d'équipement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 99 (V)
+
+
+##### C. - Troisième classe.<a id=195></a>
+
+###### Article 280
+
+Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 1000 à 10000 F :
+
+1° Tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque l'infraction porte
+sur des marchandises de la catégorie de celles qui ne sont ni prohibées ou fortement taxées à l'entrée, ni soumises à des
+taxes de consommation intérieure, ni prohibées ou taxées à la sortie ;
+
+2° Toute fausse déclaration dans l'espèce, la valeur ou l'origine des marchandises importées, exportées ou placées sous un
+régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse
+déclaration  ;
+
+3° Toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ;
+
+4° Toute fausse déclaration tendant à obtenir indûment le bénéfice des dispositions applicables à Mayotte en matière de
+franchises ;
+
+5° Tout détournement de marchandises non prohibées de leur destination privilégiée ;
+
+6° La présentation comme unité dans les manifestes ou déclarations de plusieurs balles ou autres colis fermés, réunis de
+quelque manière que ce soit ;
+
+7° L'absence de manifeste ou la non-représentation de l'original du manifeste ; toute omission de marchandises dans les
+manifestes ou dans les déclarations sommaires ; toute différence dans la nature des marchandises manifestées ou déclarées
+sommairement ;
+
+8° Toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au détail ou d'y effectuer des manipulations
+non autorisées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### D. - Quatrième classe.<a id=196></a>
+
+###### Article 281
+
+1. Est passible d'un emprisonnement de dix jours à un mois et d'une amende de 600 à 3000 F toute infraction aux dispositions
+des articles 28-1, 37-1, 48 b, 50 et 95 ci-dessus, ainsi que tout refus de communication de pièces, toute dissimulation de
+pièces ou d'opérations dans les cas prévus aux articles 43 et 70 ci-dessus.
+
+2. Tombent également sous le coup des dispositions de l'alinéa précédent :
+
+a) Toute personne qui, ayant fait l'objet d'un retrait de l'agrément ou d'un retrait de l'autorisation de dédouaner prévus
+respectivement aux articles 67-3 et 68 ci-dessus, continue soit à accomplir pour autrui, directement ou indirectement, les
+formalités de douane concernant la déclaration en détail des marchandises, soit à bénéficier, directement ou indirectement,
+de tout ou partie de rémunérations de la nature de celles définies à l'article 71 ci-dessus ;
+
+b) Toute personne qui prête sciemment son concours en vue de soustraire aux effets du retrait d'agrément ou du retrait de
+l'autorisation de dédouaner ceux qui en auraient été atteints.
+
+En cas de récidive des contraventions mentionnées au présent article, la peine de prison pourra être portée à deux mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 3 : Délits douaniers<a id=197></a>
+
+##### A. - Première classe.<a id=198></a>
+
+###### Article 282
+
+Sont passibles d'un emprisonnement maximum de trois ans, de la confiscation de l'objet de fraude, de la confiscation des
+moyens de transport, de la confiscation des objets servant à masquer la fraude et d'une amende comprise entre une et deux
+fois la valeur de l'objet de fraude, tout fait de contrebande, ainsi que tout fait d'importation ou d'exportation sans
+déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
+fortement taxées au sens du présent code.
+
+La peine d'emprisonnement est portée à une durée maximale de dix ans et l'amende peut aller jusqu'à cinq fois la valeur de
+l'objet de la fraude soit lorsque les faits de contrebande, d'importation ou d'exportation portent sur des marchandises
+dangereuses pour la santé, la moralité ou la sécurité publiques, dont la liste est fixée par arrêté du ministre chargé des
+douanes, soit lorsqu'ils sont commis en bande organisée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Loi n°2003-239 du 18 mars 2003 - art. 133 () JORF 19 mars 2003
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Arrêté du 29 juillet 2003 - art. 1 (M)
+  - Code de procédure pénale - art. 900-1 (V)
+  - Code des douanes de Mayotte - art. 193-5 (V)
+  - Code des douanes de Mayotte - art. 254 (V)
+  - Code des douanes de Mayotte - art. 285 (V)
+  - Code des douanes de Mayotte - art. 295 (V)
+  - Code des douanes de Mayotte - art. 41 (VD)
+
+
+##### B. - Deuxième classe.<a id=199></a>
+
+###### Article 283
+
+Seront punis d'un emprisonnement de deux ans à dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant
+lieu lorsque la saisie n'a pas pu être prononcée et d'une amende comprise entre une et cinq fois la somme sur laquelle a
+porté l'infraction ou la tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation,
+procédé ou tenté de procéder à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient
+provenir, directement ou indirectement, d'un délit prévu au présent code ou d'une infraction à la législation sur les
+substances ou plantes vénéneuses classées comme stupéfiants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C, G JORF 29 octobre 2004
 
 _Cité par_:
 
@@ -4431,7 +8665,759 @@ _Cité par_:
   - Code monétaire et financier - art. L735-4 (VT)
 
 
-## Titre XII : La commission de conciliation et d'expertise douanière.<a id=116></a>
+##### Paragraphe 4 : Contrebande.<a id=200></a>
+
+###### Article 284
+
+1. La contrebande s'entend des importations ou exportations en dehors des bureaux, ainsi que de toute violation des
+dispositions légales ou réglementaires relatives à la détention et au transport des marchandises à l'intérieur du territoire
+douanier. 
+
+2. Constituent, en particulier, des faits de contrebande : 
+
+a) La violation des dispositions des articles 53-1,56-1 et 63 ci-dessus ; 
+
+b) Les versements frauduleux ou embarquements frauduleux effectués soit dans l'enceinte des ports, soit sur les côtes, à
+l'exception des débarquements frauduleux visés au 1° de l'article 290 ci-après ; 
+
+c) Les soustractions ou substitutions en cours de transport de marchandises expédiées sous un régime suspensif,
+l'inobservation sans motif légitime des itinéraires et horaires fixés, les manoeuvres ayant pour but ou pour résultat
+d'altérer ou de rendre inefficaces les moyens de scellement, de sûreté ou d'identification et, d'une manière générale, toute
+fraude douanière relative au transport de marchandises expédiées sous un régime suspensif ; 
+
+d) La violation des dispositions, soit législatives, soit réglementaires, portant prohibition d'exportation ou de
+réexpédition ou bien subordonnant l'exportation ou la réexportation au paiement des droits ou taxes ou à l'accomplissement de
+formalités particulières lorsque la fraude a été faite ou tentée en dehors des bureaux et qu'elle n'est pas spécialement
+réprimée par une autre disposition du présent code. 
+
+3. Sont assimilées à des actes de contrebande les importations ou exportations sans déclaration lorsque les marchandises
+passant par un bureau de douane sont soustraites à la visite du service des douanes par dissimulation dans des cachettes
+spécialement aménagées ou dans les cavités ou espaces vides qui ne sont pas normalement destinés au logement des
+marchandises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 290 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 292 (V)
+  - Code des douanes de Mayotte - art. 299 (V)
+  - Code des douanes de Mayotte - art. 300 (V)
+
+
+###### Article 285
+
+1. Les marchandises visées à l'article 163 ci-dessus sont réputées avoir été importées en contrebande à défaut de
+justification d'origine ou si les documents présentés sont faux, inexacts, incomplets ou non applicables. 
+
+2. Elles sont saisies en quelque lieu qu'elles se trouvent et les personnes visées aux 1 et 2 de l'article 163 sont
+poursuivies et punies conformément aux dispositions de l'article 282 ci-dessus. 
+
+3. Lorsqu'ils auront eu connaissance que celui qui leur a délivré les justifications d'origine ne pouvant le faire
+valablement ou que celui qui leur a vendu, cédé, échangé ou confié les marchandises n'était pas en mesure de justifier de
+leur détention régulière, les détenteurs et transporteurs seront condamnés aux mêmes peines et les marchandises seront
+saisies et confisquées dans les mêmes conditions que ci-dessus, quelles que soient les justifications qui auront pu être
+produites.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 163 (V)
+  - Code des douanes de Mayotte - art. 282 (V)
+
+
+##### Paragraphe 5 : Importations et exportations sans déclaration.<a id=201></a>
+
+###### Article 286
+
+Constituent des importations ou exportations sans déclaration : 
+
+1° Les importations ou exportations par les bureaux de douane, sans déclaration en détail ou couvert d'une déclaration en
+détail non applicable aux marchandises présentées ; 
+
+2° Les soustractions ou substitutions de marchandises sous douane ; 
+
+3° Le défaut de dépôt, dans le délai imparti, des déclarations complémentaires, prévues à l'article 80 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 292 (V)
+  - Code des douanes de Mayotte - art. 299 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 80 (V)
+
+
+###### Article 287
+
+Sont réputés faire l'objet d'une importation sans déclaration : 
+
+1° Les marchandises déclarées pour l'exportation temporaire, en cas de non-représentation ou de différence dans la nature ou
+l'espèce entre lesdites marchandises et celles présentées au départ ; 
+
+2° Les objets prohibés ou fortement taxés à l'entrée ou passibles de taxes intérieures découverts à bord des navires se
+trouvant dans les limites des ports et rades de commerce indépendamment des objets régulièrement manifestés ou composant la
+cargaison et des provisions du bord dûment représentées avant visite ; 
+
+3° Les marchandises spécialement désignées par arrêté du représentant de l'Etat à Mayotte découvertes à bord des navires de
+moins de 100 tonneaux de jauge nette ou 500 tonneaux de jauge brute navigant ou se trouvant à l'ancre dans la zone maritime
+du territoire douanier ; 
+
+4° Les marchandises trouvées dans les zones franches en infraction à l'article 192 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 A, C JORF 29 octobre 2004
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 192 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 263 (V)
+  - Code des douanes de Mayotte - art. 290 (V)
+  - Code des douanes de Mayotte - art. 292 (V)
+  - Code des douanes de Mayotte - art. 297 (V)
+
+
+###### Article 288
+
+Sont réputés importés ou exportés sans déclaration les colis excédant le nombre déclaré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 289
+
+Sont réputés importation ou exportation sans déclaration de marchandises prohibées :
+
+1° Toute infraction aux dispositions de l'article 19-3 ci-dessus, ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
+délivrance de l'un des titres visés à l'article 19-3 précité soit par contrefaçon de sceaux publics, soit par fausses
+déclarations ou par tous autres moyens frauduleux ;
+
+2° Toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
+marchandises prohibées à l'entrée ou à la sortie qui ont été déclarées sous une dénomination faisant ressortir la prohibition
+qui les frappe ne sont point saisies ; celles destinées à l'importation sont envoyées à l'étranger ; celles dont la sortie
+est demandée restent dans Mayotte ;
+
+3° Les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
+réel ou de l'expéditeur réel lorsque ces infractions ont été commises à l'aide de factures, certificats ou tous autres
+documents faux, inexacts, incomplets, ou non applicables ;
+
+4° Des fausses déclarations ou manoeuvres ayant pour but ou pour effet d'obtenir, en tout ou partie, un remboursement, une
+exonération, un droit réduit ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des
+infractions aux règles de qualité ou de conditionnement lorsque ces infractions n'ont pas pour but ou pour effet d'obtenir un
+remboursement, une exonération, un droit réduit ou un avantage financier ;
+
+5° Le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
+de faux permettant d'obtenir ou de faire obtenir indûment, en France ou dans un pays étranger, le bénéfice d'un régime
+préférentiel prévu soit par un traité ou un accord international, soit par une disposition de la loi interne, en faveur de
+marchandises sortant du territoire douanier français ou y entrant ;
+
+6° Les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
+compromettre le recouvrement des droits.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 19 (V)
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 299 (V)
+  - Code des douanes de Mayotte - art. 302 (V)
+
+
+###### Article 290
+
+Sont réputés importations sans déclaration de marchandises prohibées : 
+
+1° Le département en fraude des objets visés à l'article 287 (2°) ci-dessus ; 
+
+2° Le défaut de dépôt, dans les délais impartis, de la déclaration prévue par l'article 170-2 ci-dessus ; 
+
+3° La francisation frauduleuse des navires ainsi que le fait pour les navires de se trouver, sous couvert de documents de
+bord ou de titre de nationalité faux, falsifiés ou inapplicables, dans les eaux territoriales, rades et ports, s'il s'agit de
+navires de tout tonnage, et, dans la zone maritime du territoire douanier, s'il s'agit de navires de moins de 100 tonneaux de
+jauge nette ou de 500 tonneaux de jauge brute ; 
+
+4° L'immatriculation, frauduleuse ou non, sans accomplissement préalable des formalités douanières, d'automobiles, de
+motocyclettes ou d'aéronefs ; 
+
+5° Le détournement de marchandises prohibées de leur destination privilégiée ; 
+
+6° Le détournement de produits pétroliers d'une destination privilégiée au point de vue fiscal et notamment l'utilisation de
+carburants agricoles à des usages autres que ceux qui sont fixés par la loi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 284 (V)
+  - Code des douanes de Mayotte - art. 297 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 287 (V)
+
+
+###### Article 291
+
+1. Est réputée exportation sans déclaration de marchandises prohibées toute infraction aux dispositions, soit législatives,
+soit réglementaires, portant prohibition d'exportation, de réexportation ou bien subordonnant l'exportation ou la
+réexportation au paiement de droits, de taxes ou à l'accomplissement de formalités particulières lorsque la fraude a été
+faite ou tentée par les bureaux et qu'elle n'est pas spécialement réprimée par une autre disposition du présent code.
+
+2. Dans le cas où les marchandises ayant été exportées par dérogation à une prohibition de sortie, à destination d'un pays
+déterminé, sont, après arrivée dans ce pays, réexpédiées sur un pays tiers, l'exportation sans déclaration s'il est établi
+que cette réexpédition a été effectuée sur ses instructions, à son instigation ou avec sa complicité, ou encore s'il est
+démontré qu'il en a tiré profit ou qu'il avait connaissance de la réexpédition projetée au moment de l'expédition.
+
+3. Les dispositions du 1 ci-dessus ne sont pas applicables aux infractions aux règles de qualité ou de conditionnement
+imposées à l'exportation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+#### Section 2 : Peines complémentaires<a id=202></a>
+
+##### Paragraphe 1 : Confiscation.<a id=203></a>
+
+###### Article 292
+
+Indépendamment des autres sanctions prévues par le présent code, sont confisqués :
+
+1° Les marchandises qui ont été ou devaient être substituées dans les cas prévus aux articles 284-2 c et 286 (2°) ci-dessus ;
+
+2° Les marchandises présentées au départ dans le cas prévu par l'article 287 (1°) ci-dessus ;
+
+3° Les moyens de transport lorsque le conducteur refuse d'obéir aux injonctions visées à l'article 37-1 ci-dessus ;
+
+4° Les marchandises auxquelles se rapportent des infractions douanières déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 284 (V)
+  - Code des douanes de Mayotte - art. 286 (V)
+  - Code des douanes de Mayotte - art. 287 (V)
+  - Code des douanes de Mayotte - art. 37 (V)
+
+
+##### Paragraphe 2 : Astreinte.<a id=204></a>
+
+###### Article 293
+
+Indépendamment de l'amende encourue pour refus de communication dans les conditions prévues aux articles 43 et 70 ci-dessus,
+les contrevenants doivent être condamnés à représenter les livres, pièces ou documents non communiqués sous une astreinte de
+10 F au minimum par chaque jour de retard. Cette astreinte commence à courir du jour même de la signature par les parties ou
+de la notification du procès-verbal dressé pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne
+cesse que du jour où il est constaté, au moyen d'une mention inscrite par un agent de contrôle sur un des principaux livres
+de la société ou de l'établissement, que l'administration a été mise à même d'obtenir la communication ordonnée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 43 (V)
+  - Code des douanes de Mayotte - art. 70 (V)
+
+
+##### Paragraphe 3 : Peines privatives de droits.<a id=205></a>
+
+###### Article 294
+
+1. En sus des sanctions prévues par le présent code, ceux qui sont jugés coupables d'avoir participé comme intéressés d'une
+manière quelconque à un délit de contrebande ou à un délit d'importation ou d'exportation sans déclaration sont déclarés
+incapables de se présenter à la bourse, d'exercer les fonctions de dirigeant de droit ou de fait de sociétés de bourse ou de
+courtier, d'être électeurs ou élus aux chambres de commerce, tribunaux de commerce et conseils de prud'hommes tant et aussi
+longtemps qu'ils n'auront pas été relevés de cette incapacité.
+
+2. A cet effet, des extraits des jugements ou arrêts relatifs à ces individus sont envoyés par le procureur de la République,
+aux procureurs généraux ainsi qu'à tous les directeurs des douanes pour être affichés et rendus publics dans tous les
+auditoires, bourses et places de commerce, et pour être publiés au frais du condamné.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 268 (V)
+
+
+###### Article 295
+
+1. Le tribunal peut, à titre de peine complémentaire, prononcer à l'encontre des personnes condamnées pour infractions
+prévues aux articles 282 et 321 du présent code, l'interdiction temporaire d'exercer, directement ou par personne interposée,
+pour leur compte ou le compte d'autrui, toute profession industrielle, commerciale ou libérale ; la suspension du permis de
+conduire un véhicule automobile peut être prononcée dans les mêmes conditions. La durée de l'interdiction ou de la suspension
+ne peut excéder trois ans ; cette durée pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
+faire usage de son permis de conduire pour l'exercice d'une activité professionnelle selon les modalités prévues pour
+l'application du 1° de l'article 131-6,131-7 et 131-9 du code pénal. 
+
+2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni d'un emprisonnement de deux ans et d'une amende
+de 100000 F ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code pénal - art. 131-6 (V)
+  - Code pénal - art. 131-9 (V)
+  - Code des douanes de Mayotte - art. 282 (V)
+  - Code des douanes de Mayotte - art. 321 (V)
+
+
+###### Article 296
+
+1. Quiconque sera judiciairement convaincu d'avoir abusé d'un régime suspensif pourra, par décision du représentant de
+l'Etat, être exclu du bénéfice du régime de l'admission temporaire et être privé de la faculté du transit et de l'entrepôt
+ainsi que de tout crédit de droits.
+
+2. Celui qui prêtera son nom pour soustraire aux effets de ces dispositions ceux qui en auraient été atteints encourra les
+mêmes peines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 A, C JORF 29 octobre 2004
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+#### Section 3 : Cas particuliers d'application des peines<a id=206></a>
+
+##### Paragraphe 1 : Confiscation.<a id=207></a>
+
+###### Article 297
+
+1. Dans les cas d'infraction visés aux articles 287 (2°) et 290 (1°) ci-dessus, la confiscation ne peut être prononcée qu'à
+l'égard des objets de fraude. Toutefois, les marchandises masquant la fraude et les moyens de transport ayant servi au
+débarquement et à l'enlèvement des objets frauduleux sont confisqués lorsqu'il est établi que le possesseur de ces moyens de
+transport est complice des fraudeurs. 
+
+2. Dans le cas de nouvel établissement d'un bureau des douanes les marchandises non prohibées à l'importation ou à
+l'exportation ou non fortement taxées ne sont sujettes à confiscation, pour n'y avoir pas été conduites ou déclarées, que
+deux mois après la publication de l'arrêté du représentant de l'Etat créant ce bureau.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 A, C JORF 29 octobre 2004
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 287 (V)
+  - Code des douanes de Mayotte - art. 290 (V)
+
+
+###### Article 298
+
+Lorsque les objets susceptibles de confiscation n'ont pu être saisis ou lorsque, ayant été saisis, la douane en fait la
+demande, le tribunal prononce, pour tenir lieu de la confiscation, la condamnation au paiement d'une somme égale à la valeur
+représentée par lesdits objets et calculée d'après le cours du marché intérieur à l'époque où à la fraude a été commise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+##### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=208></a>
+
+###### Article 299
+
+Lorsqu'il n'est pas possible de déterminer le montant des droits et taxes réellement exigibles ou la valeur réelle des
+marchandises litigieuses, en particulier dans les cas d'infraction prévus par les articles 284-2 c, 286 (2°) et 289 (1°), les
+pénalités sont liquidées sur la base du tarif le plus élevé applicable à la catégorie la plus fortement taxées des
+marchandises de même nature et d'après la valeur moyenne indiquée par la dernière statistique douanière mensuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 284 (V)
+  - Code des douanes de Mayotte - art. 286 (V)
+  - Code des douanes de Mayotte - art. 289 (V)
+
+
+###### Article 300
+
+Le montant des amendes multiples de droits ou de la valeur ne peut être inférieur à 1000 ou 2000 F selon qu'elles sont
+définies en fonction des droits ou de la valeur.
+
+Dans les cas visés à l'article 284-2 c ci-dessus relatif aux soustractions ou substitutions en cours de transport de
+marchandises, le taux minimal des amendes prononcées est fixé à 200 F par colis, ou, s'il s'agit de marchandises en vrac, par
+tonne ou fraction de tonne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 236 (V)
+
+
+###### Article 301
+
+Lorsque le tribunal a acquis la conviction que des offres, propositions d'achat ou de vente, conventions de toute nature,
+portant sur les objets de fraude ont été faites ou contractées à un prix supérieur au cours du marché intérieur à l'époque où
+la fraude a été commise, il peut se fonder sur ce prix pour le calcul des peines fixées par le présent code en fonction de la
+valeur desdits objets.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 302
+
+Dans les cas d'infraction prévus à l'article 289 (4°) ci-dessus, les pénalités sont déterminées d'après la valeur attribuée
+pour le calcul du remboursement, de l'exonération du droit réduit ou de l'avantage recherché ou obtenu, si cette valeur est
+supérieure à la valeur réelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 237 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 289 (V)
+
+
+##### Paragraphe 3 : Concours d'infractions.<a id=209></a>
+
+###### Article 303
+
+1° Tout fait tombant sous le coup des dispositions répressives distinctes édictées par le présent code doit être envisagé
+sous la plus haute acception pénale dont il est susceptible ;
+
+2° En cas de pluralité de contraventions ou de délits douaniers, les condamnations pécuniaires sont prononcées pour chacune
+des infractions dûment établies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+###### Article 304
+
+Sans préjudice de l'application des pénalités édictées par le présent code, les délits d'injures, voies de fait, rébellion,
+corruption ou prévarication et ceux de contrebande avec attroupement et port d'armes sont poursuivis, jugés et punis
+conformément au droit commun.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+
+
+## Titre XII : La commission de conciliation et d'expertise douanière.<a id=210></a>
+
+###### Article 305
+
+1. Dans le cas prévu à l'article 84-1 ci-dessus, il est dressé un acte à fin d'expertise et il est procédé au prélèvement des
+échantillons nécessaires à une expertise. Un arrêté du représentant de l'Etat fixe les conditions dans lesquelles le
+prélèvement est opéré et les cas où les échantillons peuvent être remplacés par certains documents.
+
+2. Lorsque, selon les constatations du service, seul le recouvrement des droits ou taxes est compromis, il peut être offert
+mainlevée des marchandises litigieuses non prohibées sous caution solvable, ou sous consignation, d'une somme pouvant
+s'élever au double du montant des droits et taxes présumés compromis.
+
+Lorsque, selon les constatations du service, les marchandises sont prohibées, il peut, sauf si l'ordre public s'y oppose,
+être offert mainlevée desdites marchandises sous caution solvable, ou sous consignation, d'une somme pouvant s'élever au
+montant de leur valeur estimée par le service ; les marchandises déclarées pour l'importation doivent être renvoyées à
+l'étranger ou mises en entrepôt et les marchandises dont la sortie est demandée doivent rester dans le territoire douanier.
+
+3. Les prélèvements d'échantillons, l'offre de mainlevée ainsi que la réponse sont mentionnés dans l'acte à fin d'expertise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Codifié par_:
+
+  - Ordonnance n°92-1142 du 12 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Abrogé par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
+
+_Cite_:
+
+  - Code des douanes de Mayotte - art. 84
+
 
 ###### Article 306
 
@@ -4461,6 +9447,84 @@ _Modifié par_:
 _Abrogé par_:
 
   - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
+
+
+###### Article 307
+
+La commission de conciliation et d'expertise douanière comprend :
+
+1° Un magistrat de l'ordre judiciaire ou de l'ordre administratif, président ;
+
+2° Un fonctionnaire désigné par le représentant de l'Etat ;
+
+3° Deux assesseurs désignés en raison de leur compétence technique.
+
+En cas de partage des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Codifié par_:
+
+  - Ordonnance n°92-1142 du 12 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Abrogé par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
+
+
+###### Article 308
+
+1. Seules peuvent être désignées comme assesseurs les personnes figurant sur les listes établies, pour chaque chapitre du
+tarif des droits de douane d'importation, par arrêté du représentant de l'Etat.
+
+Ces personnes sont classées pour chaque chapitre du tarif selon leur qualification et réparties en deux catégories, l'une
+dite des producteurs, industriels et fabricants, l'autre dite des commerçants, importateurs et exportateurs.
+
+Un arrêté du représentant de l'Etat fixe les modalités d'établissement des listes en précisant notamment les conditions dans
+lesquelles la chambre professionnelle de Mayotte est appelée à formuler des propositions.
+
+2. Dans chaque affaire, le président désigne les deux assesseurs appelés à la commission et leurs suppléants.
+
+3. Les assesseurs et leurs suppléants doivent être choisis, l'un dans la catégorie dite des producteurs, industriels et
+fabricants, l'autre dans la catégorie dite des commerçants, importateurs et exportateurs. Ils doivent être choisis dans le
+chapitre relatif à la marchandise qui fait l'objet de la contestation, ce chapitre pouvant être indifféremment celui de
+l'espèce déclarée ou celui de l'espèce présumée ; lorsque la désignation ne peut être faite dans ces conditions, les
+assesseurs techniques peuvent être choisis dans les chapitres afférents aux marchandises qui présentent le plus d'analogie
+avec celles faisant l'objet de la contestation.
+
+4. Les dispositions des articles 341 à 355 du nouveau code de procédure civile sont applicables aux assesseurs et à leurs
+suppléants ; tout membre de la commission qui saura cause de récusation en sa personne sera tenu de la déclarer immédiatement
+au président ; il sera remplacé par le suppléant désigné.
+
+5° Les assesseurs sont tenus au secret professionnel.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Cite_:
+
+  - Nouveau code de procédure civile 341 à 355
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
 
 
 ###### Article 309
@@ -4592,9 +9656,40 @@ _Cite_:
   - Code des douanes de Mayotte - art. 270
 
 
-## Titre XIII : Contentieux des relations financières avec l'étranger<a id=117></a>
+###### Article 313
 
-### Chapitre Ier : Dispositions communes.<a id=118></a>
+1. Les frais occasionnés par le fonctionnement de la commission de conciliation et d'expertise douanière sont à la charge de
+Mayotte.
+
+2. Un arrêté du représentant de l'Etat détermine les indemnités à attribuer aux membres de la commission et aux personnes
+appelées à participer aux travaux de la commission.
+
+3. Les conditions d'application du présent titre, notamment en ce qui concerne le fonctionnement de la commission, sont
+fixées par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Codifié par_:
+
+  - Ordonnance n°92-1142 du 12 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Abrogé par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
+
+
+## Titre XIII : Contentieux des relations financières avec l'étranger<a id=211></a>
+
+### Chapitre Ier : Dispositions communes.<a id=212></a>
 
 ###### Article 314
 
@@ -4624,7 +9719,7 @@ _Cité par_:
   - Code monétaire et financier - art. L731-6 (VT)
 
 
-### Chapitre II : Constatation des infractions.<a id=119></a>
+### Chapitre II : Constatation des infractions.<a id=213></a>
 
 ###### Article 315
 
@@ -4720,11 +9815,11 @@ _Modifié par_:
 
 ###### Article 318
 
-Sont tenues au secret professionnel et passibles de peines prévues par l'article 378 du code pénal, toutes personnes appelées
-à l'occasion de leurs fonctions ou de leurs attributions à intervenir dans l'application de la législation et de la
+Sont tenues au secret professionnel et passibles de peines fixées par l'article 226-13 du code pénal, toutes personnes
+appelées à l'occasion de leurs fonctions ou de leurs attributions à intervenir dans l'application de la législation et de la
 réglementation des relations financières avec l'étranger.
 
-Toutefois, lorsqu'une poursuite régulière a été engagée sur la plainte du représentant du Gouvernement à Mayotte, ces mêmes
+Toutefois, lorsqu'une poursuite régulière a été engagée sur la plainte du représentant de l'Etat à Mayotte, ces mêmes
 personnes ne peuvent opposer le secret professionnel au juge d'instruction ou au tribunal qui les interroge sur les faits
 faisant l'objet de la plainte ou sur des faits connexes.
 
@@ -4734,13 +9829,15 @@ _Codifié par_:
 
   - Ordonnance 92-1142 1992-10-12
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
 
 
 ###### Article 319
@@ -4763,7 +9860,30 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre IV : Dispositions répressives.<a id=120></a>
+### Chapitre III : Poursuite des infractions.<a id=214></a>
+
+###### Article 320
+
+La poursuite des infractions à la législation et à la réglementation des relations financières avec l'étranger ne peut être
+exercée que sur la plainte du représentant de l'Etat à Mayotte ou de l'un de ses représentants habilités à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+
+### Chapitre IV : Dispositions répressives.<a id=215></a>
 
 ###### Article 321
 
