@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2004-10-30
+Version Consolidée au 2005-01-01
 ## Contenu: 
   - [Partie législative (art. 1 à 321)](#1)
     - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 22)](#2)
@@ -169,7 +169,7 @@ Version Consolidée au 2004-10-30
         - [Section 2 : Voie d'exécution (art. 248 à 258)](#166)
           - [Paragraphe 1 : Règles générales. (art. 248)](#167)
           - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 249 à 255)](#168)
-          - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 256)](#169)
+          - [Paragraphe 3 : Exercice anticipé de la contrainte judiciaire. (art. 256)](#169)
           - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes (art. 257 à 258)](#170)
             - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 257)](#171)
             - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 257 bis)](#172)
@@ -7810,14 +7810,14 @@ _Cite_:
   - Code des douanes de Mayotte - art. 245 (M)
 
 
-##### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=169></a>
+##### Paragraphe 3 : Exercice anticipé de la contrainte judiciaire.<a id=169></a>
 
 ###### Article 256
 
 Par décision expresse du tribunal, celui qui est condamné pour un délit douanier ou une infraction en matière de
 contributions indirectes peut, nonobstant appel ou pourvoi en cassation, être maintenu en détention jusqu'à ce qu'il ait
 acquitté le montant des sanctions fiscales prononcées contre lui ; sauf dans le cas de trafic de stupéfiants, la durée de la
-détention accomplie dans ces conditions à compter de la condamnation s'impute sur celle de la contrainte par corps prononcée
+détention accomplie dans ces conditions à compter de la condamnation s'impute sur celle de la contrainte judiciaire prononcée
 par le tribunal et ne peut excéder le minimum prévu par le code de procédure pénale pour une condamnation pécuniaire de même
 montant que celui des sanctions fiscales prononcées.
 
@@ -7829,7 +7829,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
 ##### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes<a id=170></a>
