@@ -1,221 +1,222 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2004-10-29
+Version Consolidée au 2004-10-30
 ## Contenu: 
   - [Partie législative (art. 1 à 321)](#1)
     - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 22)](#2)
       - [Chapitre Ier : Généralités. (art. 1 à 3)](#3)
       - [Chapitre II : Tarif des douanes. (art. 4 à 5)](#4)
-      - [Chapitre III : Pouvoirs généraux du Gouvernement, de son représentant et du conseil général (art. 7 à 12)](#5)
-        - [Section 2 : Contrôle du commerce extérieur et prohibitions (art. 7 à 9)](#6)
-          - [Paragraphe 1 : Dispositions communes à l'importation et à l'exportation. (art. 7)](#7)
-          - [Paragraphe 2 : Dispositions spéciales à l'exportation. (art. 8)](#8)
-          - [Paragraphe 3 : Dispositions spéciales à l'importation. (art. 9)](#9)
-        - [Section 3 : Restrictions d'entrée, de sortie, de tonnage et de conditionnement. (art. 10)](#10)
-        - [Section 4 : Octroi de la clause transitoire. (art. 11)](#11)
-        - [Section 5 : Règlements généraux des douanes. (art. 12)](#12)
-      - [Chapitre IV : Conditions d'application de la loi tarifaire (art. 13 à 18)](#13)
-        - [Section 1 : Généralités. (art. 13)](#14)
-        - [Section 2 : Espèce des marchandises (art. 14)](#15)
-          - [Paragraphe 1 : Définition, assimilation et classement. (art. 14)](#16)
-        - [Section 3 : Origine des marchandises. (art. 15)](#17)
-        - [Section 4 : Valeur des marchandises (art. 16 à 17)](#18)
-          - [Paragraphe 1 : A l'importation. (art. 16)](#19)
-          - [Paragraphe 2 : A l'exportation. (art. 17)](#20)
-        - [Section 5 : Poids des marchandises. (art. 18)](#21)
-      - [Chapitre V : Prohibitions (art. 19 à 21)](#22)
-        - [Section 1 : Généralités. (art. 19)](#23)
-        - [Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine. (art. 20 à 21)](#24)
-      - [Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger. (art. 22)](#25)
-    - [Titre II : Organisation et fonctionnement du service des douanes (art. 23 à 46)](#26)
-      - [Chapitre Ier : Champ d'action du service des douanes. (art. 23 à 24)](#27)
-      - [Chapitre II : Organisation des bureaux et des brigades de douane (art. 25 à 27)](#28)
-        - [Section 1 : Etablissement des bureaux de douane. (art. 25)](#29)
-        - [Section 2 : Etablissement des brigades de douane. (art. 26)](#30)
-        - [Section 3 : Dispositions communes aux bureaux et aux brigades de douane. (art. 27)](#31)
-      - [Chapitre III : Immunités, sauvegarde et obligations des agents de douanes. (art. 28 à 34)](#32)
-      - [Chapitre IV : Pouvoirs des agents des douanes (art. 35 à 46)](#33)
-        - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 35 à 40)](#34)
-        - [Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires. (art. 40 bis à 41)](#35)
-        - [Section 3 : Droit de communication (art. 42 à 43)](#36)
-          - [Paragraphe 1 : Droit de communication de l'administration des finances. (art. 42 à 42 bis)](#37)
-          - [Paragraphe 2 : Droit de communication particulier à l'administration des douanes. (art. 43)](#38)
-        - [Section 4 : Contrôle douanier des envois par la poste. (art. 44)](#39)
-        - [Section 5 : Présentation des passeports. (art. 45)](#40)
-        - [Section 6 : Livraisons surveillées. (art. 46)](#41)
-    - [Titre III : Conduite des marchandises en douane (art. 47 à 63)](#42)
-      - [Chapitre Ier : Importation (art. 47 à 57)](#43)
-        - [Section 1 : Transports par mer. (art. 47 à 52)](#44)
-        - [Section 2 : Transports par la voie aérienne. (art. 53 à 57)](#45)
-      - [Chapitre II : Magasins et aires de dédouanement. (art. 58 à 62)](#46)
-      - [Chapitre III : Exportation. (art. 63)](#47)
-    - [Titre IV : Opérations de dédouanement (art. 64 à 96)](#48)
-      - [Chapitre Ier : Déclaration en détail (art. 64 à 80)](#49)
-        - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 64 à 65)](#50)
-        - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 66 à 72)](#51)
-        - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 73 à 80)](#52)
-      - [Chapitre II : Vérification des marchandises (art. 81 à 85)](#53)
-        - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 81 à 83)](#54)
-        - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 84)](#55)
-        - [Section 3 : Application des résultats de la vérification. (art. 85)](#56)
-      - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 86 à 90)](#57)
-        - [Section 1 : Liquidation des droits et taxes. (art. 86 à 87)](#58)
-        - [Section 2 : Paiement au comptant. (art. 88 à 89)](#59)
-        - [Section 3 : Crédit des droits et taxes. (art. 90)](#60)
-      - [Chapitre IV : Enlèvement des marchandises (art. 91 à 96)](#61)
-        - [Section 1 : Règles générales. (art. 91)](#62)
-        - [Section 2 : Crédit d'enlèvement. (art. 92)](#63)
-        - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 93 à 96)](#64)
-    - [Titre V : Régimes douaniers suspensifs, exportation temporaire (art. 97 à 147)](#65)
-      - [Chapitre Ier : Régime général des acquits-à-caution. (art. 97 à 101)](#66)
-      - [Chapitre II : Transit. (art. 102 à 108)](#67)
-      - [Chapitre III : Entrepôt de douane (entrepôt de stockage) (art. 109 à 128)](#68)
-        - [Section 1 : Définition et effets de l'entrepôt. (art. 109)](#69)
-        - [Section 2 : Marchandises exclues, marchandises admissibles, restrictions de stockage (art. 110 à 113)](#70)
-          - [Paragraphe 1 : Marchandises exclues. (art. 110)](#71)
-          - [Paragraphe 2 : Marchandises admissibles. (art. 111)](#72)
-          - [Paragraphe 3 : Restrictions de stockage. (art. 112 à 113)](#73)
-        - [Section 3 : L'entrepôt public (art. 114 à 116)](#74)
-          - [Paragraphe 1 : Etablissement de l'entrepôt public. (art. 114)](#75)
-          - [Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises. (art. 115 à 116)](#76)
-        - [Section 4 : L'entrepôt privé (art. 117 à 118)](#77)
-          - [Paragraphe 1 : Etablissement de l'entrepôt privé. (art. 117)](#78)
-          - [Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises. (art. 118)](#79)
-        - [Section 5 : L'entrepôt spécial (art. 119 à 120)](#80)
-          - [Paragraphe 1 : Etablissement de l'entrepôt spécial. (art. 119)](#81)
-          - [Paragraphe 2 : Séjour des marchandises. (art. 120)](#82)
-        - [Section 6 : Dispositions applicables à tous les entrepôts de stockage. (art. 121 à 128)](#83)
-      - [Chapitre IV : Entrepôt de douane (entrepôt industriel). (art. 129 à 134)](#84)
-      - [Chapitre V : Usines exercées par la douane. (art. 135 à 136)](#85)
-      - [Chapitre VI : Admission temporaire. (art. 137 à 146)](#86)
-      - [Chapitre VII : Exportation temporaire. (art. 147)](#87)
-    - [Titre VI : Dépôt de douane (art. 148 à 154)](#88)
-      - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 148 à 151)](#89)
-      - [Chapitre II : Vente des marchandises en dépôt. (art. 152 à 154)](#90)
-    - [Titre VII : Opérations privilégiées (art. 155 à 162)](#91)
-      - [Chapitre Ier : Admissions en franchise. (art. 155)](#92)
-      - [Chapitre II : Avitaillement des navires et des aéronefs (art. 156 à 160)](#93)
-        - [Section 1 : Dispositions spéciales aux navires. (art. 156 à 159)](#94)
-        - [Section 2 : Dispositions spéciales aux aéronefs. (art. 160)](#95)
-      - [Chapitre III : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 161 à 162)](#96)
-    - [Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier (art. 163)](#97)
-      - [Chapitre unique : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 163)](#98)
-    - [Titre IX : Navigation (art. 164 à 190)](#99)
-      - [Chapitre Ier : Régime administratif des navires (art. 164 à 186)](#100)
-        - [Section 1 : Champ d'application. (art. 164)](#101)
-        - [Section 2 : Francisation des navires (art. 165 à 170)](#102)
-          - [Paragraphe 1 : Généralités. (art. 165)](#103)
-          - [Paragraphe 2 : Jaugeage des navires. (art. 166)](#104)
-          - [Paragraphe 3 : Droit de francisation et de navigation. (art. 167 à 169)](#105)
-          - [Paragraphe 4 : Réparations de navires français hors du territoire douanier. (art. 170)](#106)
-        - [Section 3 : Congés. (art. 171 à 172)](#107)
-        - [Section 4 : Passeports. (art. 173)](#108)
-        - [Section 5 : Hypothèques maritimes (art. 174 à 186)](#109)
-          - [Paragraphe 1 : Constitution de l'hypothèque. (art. 174 à 178)](#110)
-          - [Paragraphe 2 : Effets de l'hypothèque. (art. 179 à 182)](#111)
-          - [Paragraphe 3 : Radiations. (art. 183)](#112)
-          - [Paragraphe 4 : Etat des inscriptions, saisie. (art. 184)](#113)
-          - [Paragraphe 5 : Ventes. (art. 185 à 186)](#114)
-      - [Chapitre II : Relâches forcées. (art. 187 à 188)](#115)
-      - [Chapitre III : Marchandises sauvées des naufrages, épaves. (art. 189 à 190)](#116)
-    - [Titre X : Zones franches. (art. 191 à 192)](#117)
-    - [Titre XI : Contentieux et recouvrement (art. 193 à 304)](#118)
-      - [Chapitre Ier : Constatation des infractions douanières (art. 193 à 212)](#119)
-        - [Section 1 : Constatation par procès-verbal de saisie (art. 193 à 203)](#120)
-          - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 193)](#121)
-          - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 194 à 198)](#122)
-          - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 199 à 202)](#123)
-            - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 199)](#124)
-            - [B. - Saisies à domicile. (art. 200)](#125)
-            - [C. - Saisies sur les navires et bateaux pontés. (art. 201)](#126)
-            - [D. - Saisies en tous lieux. (art. 202)](#127)
-          - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 203)](#128)
-        - [Section 2 : Constatation par procès-verbal de constat. (art. 204)](#129)
-        - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 205 à 212)](#130)
-          - [Paragraphe 1 : Timbre et enregistrement. (art. 205)](#131)
-          - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 206 à 212)](#132)
-      - [Chapitre II : Poursuites et recouvrement (art. 213 à 227)](#133)
-        - [Section 1 : Dispositions générales. (art. 213 à 216)](#134)
-        - [Section 2 : Recouvrement (art. 217 à 220 ter)](#135)
-        - [Section 3 : Extinction des droits de poursuite et de répression (art. 221 à 227)](#136)
-          - [Paragraphe 1 : Droit de transaction. (art. 221)](#137)
-          - [Paragraphe 2 : Prescription de l'action. (art. 222)](#138)
-          - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 223 à 227)](#139)
-            - [A. - Prescription contre les redevables. (art. 223 à 225)](#140)
-            - [B. - Prescription contre l'administration. (art. 226)](#141)
-            - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 227)](#142)
-      - [Chapitre III : Procédure devant les tribunaux (art. 228 à 243)](#143)
-        - [Section 1 : Tribunaux compétents en matière de douane. (art. 228 à 230)](#144)
-        - [Section 2 : Procédure devant les juridictions civiles (art. 231 à 232)](#145)
-          - [Paragraphe 1 : Appel des jugements rendus par le juge de première instance. (art. 231)](#146)
-          - [Paragraphe 2 : Notification des jugements et autres actes de procédure. (art. 232)](#147)
-        - [Section 3 : Procédure devant les juridictions répressives. (art. 233)](#148)
-        - [Section 4 : Dispositions diverses (art. 234 à 243)](#149)
-          - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 234 à 235)](#150)
-            - [A. - Instruction et frais. (art. 234)](#151)
-            - [B. - Exploits. (art. 235)](#152)
-          - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 236 à 237)](#153)
-          - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 238 à 243)](#154)
-            - [A. - Preuves de non-contravention. (art. 238)](#155)
-            - [B. - Action en garantie. (art. 239)](#156)
-            - [C. - Confiscation des objets saisis sur inconnus et des minuties. (art. 240)](#157)
-            - [D. - Revendication des objets saisis. (art. 241)](#158)
-            - [E. - Fausses déclarations. (art. 242)](#159)
-            - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 243)](#160)
-      - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 244 à 260)](#161)
-        - [Section 1 : Sûretés garantissant l'exécution (art. 244 à 247)](#162)
-          - [Paragraphe 1 : Droit de rétention. (art. 244)](#163)
-          - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 245 à 247)](#164)
-        - [Section 2 : Voie d'exécution (art. 248 à 258)](#165)
-          - [Paragraphe 1 : Règles générales. (art. 248)](#166)
-          - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 249 à 255)](#167)
-          - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 256)](#168)
-          - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes (art. 257 à 258)](#169)
-            - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 257)](#170)
-            - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 257 bis)](#171)
-            - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 258)](#172)
-        - [Section 3 : Droit de remise. (art. 259)](#173)
-        - [Section 4 : Répartition du produit des amendes et confiscations. (art. 260)](#174)
-      - [Chapitre V : Responsabilité et solidarité (art. 261 à 275)](#175)
-        - [Section 1 : Responsabilité pénale (art. 261 à 268)](#176)
-          - [Paragraphe 1 : Détenteurs. (art. 261)](#177)
-          - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 262 à 263)](#178)
-          - [Paragraphe 3 : Déclarants. (art. 264)](#179)
-          - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 265)](#180)
-          - [Paragraphe 5 : Soumissionnaires. (art. 266)](#181)
-          - [Paragraphe 6 : Complices. (art. 267)](#182)
-          - [Paragraphe 7 : Intéressés à la fraude. (art. 268)](#183)
-        - [Section 2 : Responsabilité civile (art. 269 à 273)](#184)
-          - [Paragraphe 1 : Responsabilité de l'administration. (art. 269 à 271)](#185)
-          - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 272)](#186)
-          - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 273)](#187)
-        - [Section 3 : Solidarité. (art. 274 à 275)](#188)
-      - [Chapitre VI : Dispositions répressives (art. 276 à 304)](#189)
-        - [Section 1 : Classification des infractions douanières et peines principales (art. 276 à 291)](#190)
-          - [Paragraphe 1 : Généralités. (art. 276 à 277)](#191)
-          - [Paragraphe 2 : Contraventions douanières (art. 278 à 281)](#192)
-            - [A. - Première classe. (art. 278)](#193)
-            - [B. - Deuxième classe. (art. 279)](#194)
-            - [C. - Troisième classe. (art. 280)](#195)
-            - [D. - Quatrième classe. (art. 281)](#196)
-          - [Paragraphe 3 : Délits douaniers (art. 282 à 283)](#197)
-            - [A. - Première classe. (art. 282)](#198)
-            - [B. - Deuxième classe. (art. 283)](#199)
-          - [Paragraphe 4 : Contrebande. (art. 284 à 285)](#200)
-          - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 286 à 291)](#201)
-        - [Section 2 : Peines complémentaires (art. 292 à 296)](#202)
-          - [Paragraphe 1 : Confiscation. (art. 292)](#203)
-          - [Paragraphe 2 : Astreinte. (art. 293)](#204)
-          - [Paragraphe 3 : Peines privatives de droits. (art. 294 à 296)](#205)
-        - [Section 3 : Cas particuliers d'application des peines (art. 297 à 304)](#206)
-          - [Paragraphe 1 : Confiscation. (art. 297 à 298)](#207)
-          - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 299 à 302)](#208)
-          - [Paragraphe 3 : Concours d'infractions. (art. 303 à 304)](#209)
-    - [Titre XII : La commission de conciliation et d'expertise douanière. (art. 305 à 313)](#210)
-    - [Titre XIII : Contentieux des relations financières avec l'étranger (art. 314 à 321)](#211)
-      - [Chapitre Ier : Dispositions communes. (art. 314)](#212)
-      - [Chapitre II : Constatation des infractions. (art. 315 à 319)](#213)
-      - [Chapitre III : Poursuite des infractions. (art. 320)](#214)
-      - [Chapitre IV : Dispositions répressives. (art. 321)](#215)
+      - [Chapitre III : Pouvoirs généraux du Gouvernement, de son représentant et du conseil général (art. 6 à 12)](#5)
+        - [Section 1 : Droits de douane. (art. 6)](#6)
+        - [Section 2 : Contrôle du commerce extérieur et prohibitions (art. 7 à 9)](#7)
+          - [Paragraphe 1 : Dispositions communes à l'importation et à l'exportation. (art. 7)](#8)
+          - [Paragraphe 2 : Dispositions spéciales à l'exportation. (art. 8)](#9)
+          - [Paragraphe 3 : Dispositions spéciales à l'importation. (art. 9)](#10)
+        - [Section 3 : Restrictions d'entrée, de sortie, de tonnage et de conditionnement. (art. 10)](#11)
+        - [Section 4 : Octroi de la clause transitoire. (art. 11)](#12)
+        - [Section 5 : Règlements généraux des douanes. (art. 12)](#13)
+      - [Chapitre IV : Conditions d'application de la loi tarifaire (art. 13 à 18)](#14)
+        - [Section 1 : Généralités. (art. 13)](#15)
+        - [Section 2 : Espèce des marchandises (art. 14)](#16)
+          - [Paragraphe 1 : Définition, assimilation et classement. (art. 14)](#17)
+        - [Section 3 : Origine des marchandises. (art. 15)](#18)
+        - [Section 4 : Valeur des marchandises (art. 16 à 17)](#19)
+          - [Paragraphe 1 : A l'importation. (art. 16)](#20)
+          - [Paragraphe 2 : A l'exportation. (art. 17)](#21)
+        - [Section 5 : Poids des marchandises. (art. 18)](#22)
+      - [Chapitre V : Prohibitions (art. 19 à 21)](#23)
+        - [Section 1 : Généralités. (art. 19)](#24)
+        - [Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine. (art. 20 à 21)](#25)
+      - [Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger. (art. 22)](#26)
+    - [Titre II : Organisation et fonctionnement du service des douanes (art. 23 à 46)](#27)
+      - [Chapitre Ier : Champ d'action du service des douanes. (art. 23 à 24)](#28)
+      - [Chapitre II : Organisation des bureaux et des brigades de douane (art. 25 à 27)](#29)
+        - [Section 1 : Etablissement des bureaux de douane. (art. 25)](#30)
+        - [Section 2 : Etablissement des brigades de douane. (art. 26)](#31)
+        - [Section 3 : Dispositions communes aux bureaux et aux brigades de douane. (art. 27)](#32)
+      - [Chapitre III : Immunités, sauvegarde et obligations des agents de douanes. (art. 28 à 34)](#33)
+      - [Chapitre IV : Pouvoirs des agents des douanes (art. 35 à 46)](#34)
+        - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 35 à 40)](#35)
+        - [Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires. (art. 40 bis à 41)](#36)
+        - [Section 3 : Droit de communication (art. 42 à 43)](#37)
+          - [Paragraphe 1 : Droit de communication de l'administration des finances. (art. 42 à 42 bis)](#38)
+          - [Paragraphe 2 : Droit de communication particulier à l'administration des douanes. (art. 43)](#39)
+        - [Section 4 : Contrôle douanier des envois par la poste. (art. 44)](#40)
+        - [Section 5 : Présentation des passeports. (art. 45)](#41)
+        - [Section 6 : Livraisons surveillées. (art. 46)](#42)
+    - [Titre III : Conduite des marchandises en douane (art. 47 à 63)](#43)
+      - [Chapitre Ier : Importation (art. 47 à 57)](#44)
+        - [Section 1 : Transports par mer. (art. 47 à 52)](#45)
+        - [Section 2 : Transports par la voie aérienne. (art. 53 à 57)](#46)
+      - [Chapitre II : Magasins et aires de dédouanement. (art. 58 à 62)](#47)
+      - [Chapitre III : Exportation. (art. 63)](#48)
+    - [Titre IV : Opérations de dédouanement (art. 64 à 96)](#49)
+      - [Chapitre Ier : Déclaration en détail (art. 64 à 80)](#50)
+        - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 64 à 65)](#51)
+        - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 66 à 72)](#52)
+        - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 73 à 80)](#53)
+      - [Chapitre II : Vérification des marchandises (art. 81 à 85)](#54)
+        - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 81 à 83)](#55)
+        - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 84)](#56)
+        - [Section 3 : Application des résultats de la vérification. (art. 85)](#57)
+      - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 86 à 90)](#58)
+        - [Section 1 : Liquidation des droits et taxes. (art. 86 à 87)](#59)
+        - [Section 2 : Paiement au comptant. (art. 88 à 89)](#60)
+        - [Section 3 : Crédit des droits et taxes. (art. 90)](#61)
+      - [Chapitre IV : Enlèvement des marchandises (art. 91 à 96)](#62)
+        - [Section 1 : Règles générales. (art. 91)](#63)
+        - [Section 2 : Crédit d'enlèvement. (art. 92)](#64)
+        - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 93 à 96)](#65)
+    - [Titre V : Régimes douaniers suspensifs, exportation temporaire (art. 97 à 147)](#66)
+      - [Chapitre Ier : Régime général des acquits-à-caution. (art. 97 à 101)](#67)
+      - [Chapitre II : Transit. (art. 102 à 108)](#68)
+      - [Chapitre III : Entrepôt de douane (entrepôt de stockage) (art. 109 à 128)](#69)
+        - [Section 1 : Définition et effets de l'entrepôt. (art. 109)](#70)
+        - [Section 2 : Marchandises exclues, marchandises admissibles, restrictions de stockage (art. 110 à 113)](#71)
+          - [Paragraphe 1 : Marchandises exclues. (art. 110)](#72)
+          - [Paragraphe 2 : Marchandises admissibles. (art. 111)](#73)
+          - [Paragraphe 3 : Restrictions de stockage. (art. 112 à 113)](#74)
+        - [Section 3 : L'entrepôt public (art. 114 à 116)](#75)
+          - [Paragraphe 1 : Etablissement de l'entrepôt public. (art. 114)](#76)
+          - [Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises. (art. 115 à 116)](#77)
+        - [Section 4 : L'entrepôt privé (art. 117 à 118)](#78)
+          - [Paragraphe 1 : Etablissement de l'entrepôt privé. (art. 117)](#79)
+          - [Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises. (art. 118)](#80)
+        - [Section 5 : L'entrepôt spécial (art. 119 à 120)](#81)
+          - [Paragraphe 1 : Etablissement de l'entrepôt spécial. (art. 119)](#82)
+          - [Paragraphe 2 : Séjour des marchandises. (art. 120)](#83)
+        - [Section 6 : Dispositions applicables à tous les entrepôts de stockage. (art. 121 à 128)](#84)
+      - [Chapitre IV : Entrepôt de douane (entrepôt industriel). (art. 129 à 134)](#85)
+      - [Chapitre V : Usines exercées par la douane. (art. 135 à 136)](#86)
+      - [Chapitre VI : Admission temporaire. (art. 137 à 146)](#87)
+      - [Chapitre VII : Exportation temporaire. (art. 147)](#88)
+    - [Titre VI : Dépôt de douane (art. 148 à 154)](#89)
+      - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 148 à 151)](#90)
+      - [Chapitre II : Vente des marchandises en dépôt. (art. 152 à 154)](#91)
+    - [Titre VII : Opérations privilégiées (art. 155 à 162)](#92)
+      - [Chapitre Ier : Admissions en franchise. (art. 155)](#93)
+      - [Chapitre II : Avitaillement des navires et des aéronefs (art. 156 à 160)](#94)
+        - [Section 1 : Dispositions spéciales aux navires. (art. 156 à 159)](#95)
+        - [Section 2 : Dispositions spéciales aux aéronefs. (art. 160)](#96)
+      - [Chapitre III : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 161 à 162)](#97)
+    - [Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier (art. 163)](#98)
+      - [Chapitre unique : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 163)](#99)
+    - [Titre IX : Navigation (art. 164 à 190)](#100)
+      - [Chapitre Ier : Régime administratif des navires (art. 164 à 186)](#101)
+        - [Section 1 : Champ d'application. (art. 164)](#102)
+        - [Section 2 : Francisation des navires (art. 165 à 170)](#103)
+          - [Paragraphe 1 : Généralités. (art. 165)](#104)
+          - [Paragraphe 2 : Jaugeage des navires. (art. 166)](#105)
+          - [Paragraphe 3 : Droit de francisation et de navigation. (art. 167 à 169)](#106)
+          - [Paragraphe 4 : Réparations de navires français hors du territoire douanier. (art. 170)](#107)
+        - [Section 3 : Congés. (art. 171 à 172)](#108)
+        - [Section 4 : Passeports. (art. 173)](#109)
+        - [Section 5 : Hypothèques maritimes (art. 174 à 186)](#110)
+          - [Paragraphe 1 : Constitution de l'hypothèque. (art. 174 à 178)](#111)
+          - [Paragraphe 2 : Effets de l'hypothèque. (art. 179 à 182)](#112)
+          - [Paragraphe 3 : Radiations. (art. 183)](#113)
+          - [Paragraphe 4 : Etat des inscriptions, saisie. (art. 184)](#114)
+          - [Paragraphe 5 : Ventes. (art. 185 à 186)](#115)
+      - [Chapitre II : Relâches forcées. (art. 187 à 188)](#116)
+      - [Chapitre III : Marchandises sauvées des naufrages, épaves. (art. 189 à 190)](#117)
+    - [Titre X : Zones franches. (art. 191 à 192)](#118)
+    - [Titre XI : Contentieux et recouvrement (art. 193 à 304)](#119)
+      - [Chapitre Ier : Constatation des infractions douanières (art. 193 à 212)](#120)
+        - [Section 1 : Constatation par procès-verbal de saisie (art. 193 à 203)](#121)
+          - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 193)](#122)
+          - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 194 à 198)](#123)
+          - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 199 à 202)](#124)
+            - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 199)](#125)
+            - [B. - Saisies à domicile. (art. 200)](#126)
+            - [C. - Saisies sur les navires et bateaux pontés. (art. 201)](#127)
+            - [D. - Saisies en tous lieux. (art. 202)](#128)
+          - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 203)](#129)
+        - [Section 2 : Constatation par procès-verbal de constat. (art. 204)](#130)
+        - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 205 à 212)](#131)
+          - [Paragraphe 1 : Timbre et enregistrement. (art. 205)](#132)
+          - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 206 à 212)](#133)
+      - [Chapitre II : Poursuites et recouvrement (art. 213 à 227)](#134)
+        - [Section 1 : Dispositions générales. (art. 213 à 216)](#135)
+        - [Section 2 : Recouvrement (art. 217 à 220 ter)](#136)
+        - [Section 3 : Extinction des droits de poursuite et de répression (art. 221 à 227)](#137)
+          - [Paragraphe 1 : Droit de transaction. (art. 221)](#138)
+          - [Paragraphe 2 : Prescription de l'action. (art. 222)](#139)
+          - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 223 à 227)](#140)
+            - [A. - Prescription contre les redevables. (art. 223 à 225)](#141)
+            - [B. - Prescription contre l'administration. (art. 226)](#142)
+            - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 227)](#143)
+      - [Chapitre III : Procédure devant les tribunaux (art. 228 à 243)](#144)
+        - [Section 1 : Tribunaux compétents en matière de douane. (art. 228 à 230)](#145)
+        - [Section 2 : Procédure devant les juridictions civiles (art. 231 à 232)](#146)
+          - [Paragraphe 1 : Appel des jugements rendus par le juge de première instance. (art. 231)](#147)
+          - [Paragraphe 2 : Notification des jugements et autres actes de procédure. (art. 232)](#148)
+        - [Section 3 : Procédure devant les juridictions répressives. (art. 233)](#149)
+        - [Section 4 : Dispositions diverses (art. 234 à 243)](#150)
+          - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 234 à 235)](#151)
+            - [A. - Instruction et frais. (art. 234)](#152)
+            - [B. - Exploits. (art. 235)](#153)
+          - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 236 à 237)](#154)
+          - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 238 à 243)](#155)
+            - [A. - Preuves de non-contravention. (art. 238)](#156)
+            - [B. - Action en garantie. (art. 239)](#157)
+            - [C. - Confiscation des objets saisis sur inconnus et des minuties. (art. 240)](#158)
+            - [D. - Revendication des objets saisis. (art. 241)](#159)
+            - [E. - Fausses déclarations. (art. 242)](#160)
+            - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 243)](#161)
+      - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 244 à 260)](#162)
+        - [Section 1 : Sûretés garantissant l'exécution (art. 244 à 247)](#163)
+          - [Paragraphe 1 : Droit de rétention. (art. 244)](#164)
+          - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 245 à 247)](#165)
+        - [Section 2 : Voie d'exécution (art. 248 à 258)](#166)
+          - [Paragraphe 1 : Règles générales. (art. 248)](#167)
+          - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 249 à 255)](#168)
+          - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 256)](#169)
+          - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes (art. 257 à 258)](#170)
+            - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 257)](#171)
+            - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 257 bis)](#172)
+            - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 258)](#173)
+        - [Section 3 : Droit de remise. (art. 259)](#174)
+        - [Section 4 : Répartition du produit des amendes et confiscations. (art. 260)](#175)
+      - [Chapitre V : Responsabilité et solidarité (art. 261 à 275)](#176)
+        - [Section 1 : Responsabilité pénale (art. 261 à 268)](#177)
+          - [Paragraphe 1 : Détenteurs. (art. 261)](#178)
+          - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 262 à 263)](#179)
+          - [Paragraphe 3 : Déclarants. (art. 264)](#180)
+          - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 265)](#181)
+          - [Paragraphe 5 : Soumissionnaires. (art. 266)](#182)
+          - [Paragraphe 6 : Complices. (art. 267)](#183)
+          - [Paragraphe 7 : Intéressés à la fraude. (art. 268)](#184)
+        - [Section 2 : Responsabilité civile (art. 269 à 273)](#185)
+          - [Paragraphe 1 : Responsabilité de l'administration. (art. 269 à 271)](#186)
+          - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 272)](#187)
+          - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 273)](#188)
+        - [Section 3 : Solidarité. (art. 274 à 275)](#189)
+      - [Chapitre VI : Dispositions répressives (art. 276 à 304)](#190)
+        - [Section 1 : Classification des infractions douanières et peines principales (art. 276 à 291)](#191)
+          - [Paragraphe 1 : Généralités. (art. 276 à 277)](#192)
+          - [Paragraphe 2 : Contraventions douanières (art. 278 à 281)](#193)
+            - [A. - Première classe. (art. 278)](#194)
+            - [B. - Deuxième classe. (art. 279)](#195)
+            - [C. - Troisième classe. (art. 280)](#196)
+            - [D. - Quatrième classe. (art. 281)](#197)
+          - [Paragraphe 3 : Délits douaniers (art. 282 à 283)](#198)
+            - [A. - Première classe. (art. 282)](#199)
+            - [B. - Deuxième classe. (art. 283)](#200)
+          - [Paragraphe 4 : Contrebande. (art. 284 à 285)](#201)
+          - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 286 à 291)](#202)
+        - [Section 2 : Peines complémentaires (art. 292 à 296)](#203)
+          - [Paragraphe 1 : Confiscation. (art. 292)](#204)
+          - [Paragraphe 2 : Astreinte. (art. 293)](#205)
+          - [Paragraphe 3 : Peines privatives de droits. (art. 294 à 296)](#206)
+        - [Section 3 : Cas particuliers d'application des peines (art. 297 à 304)](#207)
+          - [Paragraphe 1 : Confiscation. (art. 297 à 298)](#208)
+          - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 299 à 302)](#209)
+          - [Paragraphe 3 : Concours d'infractions. (art. 303 à 304)](#210)
+    - [Titre XII : La commission de conciliation et d'expertise douanière. (art. 305 à 313)](#211)
+    - [Titre XIII : Contentieux des relations financières avec l'étranger (art. 314 à 321)](#212)
+      - [Chapitre Ier : Dispositions communes. (art. 314)](#213)
+      - [Chapitre II : Constatation des infractions. (art. 315 à 319)](#214)
+      - [Chapitre III : Poursuite des infractions. (art. 320)](#215)
+      - [Chapitre IV : Dispositions répressives. (art. 321)](#216)
 # Partie législative<a id=1></a>
 
 ## Titre Ier : Principes généraux du régime des douanes<a id=2></a>
@@ -335,9 +336,48 @@ _Modifié par_:
 
 ### Chapitre III : Pouvoirs généraux du Gouvernement, de son représentant et du conseil général<a id=5></a>
 
-#### Section 2 : Contrôle du commerce extérieur et prohibitions<a id=6></a>
+#### Section 1 : Droits de douane.<a id=6></a>
 
-##### Paragraphe 1 : Dispositions communes à l'importation et à l'exportation.<a id=7></a>
+###### Article 6
+
+Le conseil général de Mayotte est habilité, sur proposition du représentant de l'Etat, à établir le tarif des douanes et à
+modifier les taux des droits de douane et des autres impositions exigibles à l'importation et à l'exportation.
+
+Les délibérations du conseil général sont soumises à l'approbation du ministre chargé des départements et territoires
+d'outre-mer. Elles sont tenues pour approuvées à l'expiration d'un délai de trois mois suivant la date de leur réception au
+ministère chargé des départements et territoires d'outre-mer.
+
+Sauf en ce qui concerne les titres XI et XIII du présent code, le conseil général peut modifier, selon la même procédure, le
+régime des douanes en vigueur dans la collectivité départementale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 92-1142 1992-10-12
+
+_Créé par_:
+
+  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+
+_Modifié par_:
+
+  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+
+_Abrogé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code des douanes de Mayotte - art. 167 (V)
+  - Code des douanes de Mayotte - art. 7 (V)
+
+
+#### Section 2 : Contrôle du commerce extérieur et prohibitions<a id=7></a>
+
+##### Paragraphe 1 : Dispositions communes à l'importation et à l'exportation.<a id=8></a>
 
 ###### Article 7
 
@@ -366,7 +406,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 6 (MMN)
 
 
-##### Paragraphe 2 : Dispositions spéciales à l'exportation.<a id=8></a>
+##### Paragraphe 2 : Dispositions spéciales à l'exportation.<a id=9></a>
 
 ###### Article 8
 
@@ -389,7 +429,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-##### Paragraphe 3 : Dispositions spéciales à l'importation.<a id=9></a>
+##### Paragraphe 3 : Dispositions spéciales à l'importation.<a id=10></a>
 
 ###### Article 9
 
@@ -414,7 +454,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 3 : Restrictions d'entrée, de sortie, de tonnage et de conditionnement.<a id=10></a>
+#### Section 3 : Restrictions d'entrée, de sortie, de tonnage et de conditionnement.<a id=11></a>
 
 ###### Article 10
 
@@ -444,7 +484,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 4 : Octroi de la clause transitoire.<a id=11></a>
+#### Section 4 : Octroi de la clause transitoire.<a id=12></a>
 
 ###### Article 11
 
@@ -477,7 +517,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 86 (V)
 
 
-#### Section 5 : Règlements généraux des douanes.<a id=12></a>
+#### Section 5 : Règlements généraux des douanes.<a id=13></a>
 
 ###### Article 12
 
@@ -500,9 +540,9 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre IV : Conditions d'application de la loi tarifaire<a id=13></a>
+### Chapitre IV : Conditions d'application de la loi tarifaire<a id=14></a>
 
-#### Section 1 : Généralités.<a id=14></a>
+#### Section 1 : Généralités.<a id=15></a>
 
 ###### Article 13
 
@@ -547,9 +587,9 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 2 : Espèce des marchandises<a id=15></a>
+#### Section 2 : Espèce des marchandises<a id=16></a>
 
-##### Paragraphe 1 : Définition, assimilation et classement.<a id=16></a>
+##### Paragraphe 1 : Définition, assimilation et classement.<a id=17></a>
 
 ###### Article 14
 
@@ -580,7 +620,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 3 : Origine des marchandises.<a id=17></a>
+#### Section 3 : Origine des marchandises.<a id=18></a>
 
 ###### Article 15
 
@@ -615,9 +655,9 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 4 : Valeur des marchandises<a id=18></a>
+#### Section 4 : Valeur des marchandises<a id=19></a>
 
-##### Paragraphe 1 : A l'importation.<a id=19></a>
+##### Paragraphe 1 : A l'importation.<a id=20></a>
 
 ###### Article 16
 
@@ -711,7 +751,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 133 (V)
 
 
-##### Paragraphe 2 : A l'exportation.<a id=20></a>
+##### Paragraphe 2 : A l'exportation.<a id=21></a>
 
 ###### Article 17
 
@@ -737,7 +777,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 5 : Poids des marchandises.<a id=21></a>
+#### Section 5 : Poids des marchandises.<a id=22></a>
 
 ###### Article 18
 
@@ -761,9 +801,9 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre V : Prohibitions<a id=22></a>
+### Chapitre V : Prohibitions<a id=23></a>
 
-#### Section 1 : Généralités.<a id=23></a>
+#### Section 1 : Généralités.<a id=24></a>
 
 ###### Article 19
 
@@ -798,7 +838,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 289 (V)
 
 
-#### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=24></a>
+#### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=25></a>
 
 ###### Article 20
 
@@ -846,7 +886,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger.<a id=25></a>
+### Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger.<a id=26></a>
 
 ###### Article 22
 
@@ -874,9 +914,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre II : Organisation et fonctionnement du service des douanes<a id=26></a>
+## Titre II : Organisation et fonctionnement du service des douanes<a id=27></a>
 
-### Chapitre Ier : Champ d'action du service des douanes.<a id=27></a>
+### Chapitre Ier : Champ d'action du service des douanes.<a id=28></a>
 
 ###### Article 23
 
@@ -919,9 +959,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre II : Organisation des bureaux et des brigades de douane<a id=28></a>
+### Chapitre II : Organisation des bureaux et des brigades de douane<a id=29></a>
 
-#### Section 1 : Etablissement des bureaux de douane.<a id=29></a>
+#### Section 1 : Etablissement des bureaux de douane.<a id=30></a>
 
 ###### Article 25
 
@@ -945,7 +985,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 2 : Etablissement des brigades de douane.<a id=30></a>
+#### Section 2 : Etablissement des brigades de douane.<a id=31></a>
 
 ###### Article 26
 
@@ -968,7 +1008,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 3 : Dispositions communes aux bureaux et aux brigades de douane.<a id=31></a>
+#### Section 3 : Dispositions communes aux bureaux et aux brigades de douane.<a id=32></a>
 
 ###### Article 27
 
@@ -1000,7 +1040,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Immunités, sauvegarde et obligations des agents de douanes.<a id=32></a>
+### Chapitre III : Immunités, sauvegarde et obligations des agents de douanes.<a id=33></a>
 
 ###### Article 28
 
@@ -1188,9 +1228,9 @@ _Cite_:
   - Code pénal - art. 226-13 (M)
 
 
-### Chapitre IV : Pouvoirs des agents des douanes<a id=33></a>
+### Chapitre IV : Pouvoirs des agents des douanes<a id=34></a>
 
-#### Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes.<a id=34></a>
+#### Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes.<a id=35></a>
 
 ###### Article 35
 
@@ -1344,7 +1384,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires.<a id=35></a>
+#### Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires.<a id=36></a>
 
 ###### Article 40 bis
 
@@ -1482,9 +1522,9 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 316 (V)
 
 
-#### Section 3 : Droit de communication<a id=36></a>
+#### Section 3 : Droit de communication<a id=37></a>
 
-##### Paragraphe 1 : Droit de communication de l'administration des finances.<a id=37></a>
+##### Paragraphe 1 : Droit de communication de l'administration des finances.<a id=38></a>
 
 ###### Article 42
 
@@ -1538,7 +1578,7 @@ _Cite_:
   - Code de la route L330-2 à L330-4
 
 
-##### Paragraphe 2 : Droit de communication particulier à l'administration des douanes.<a id=38></a>
+##### Paragraphe 2 : Droit de communication particulier à l'administration des douanes.<a id=39></a>
 
 ###### Article 43
 
@@ -1604,7 +1644,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 293 (V)
 
 
-#### Section 4 : Contrôle douanier des envois par la poste.<a id=39></a>
+#### Section 4 : Contrôle douanier des envois par la poste.<a id=40></a>
 
 ###### Article 44
 
@@ -1642,7 +1682,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 204 (V)
 
 
-#### Section 5 : Présentation des passeports.<a id=40></a>
+#### Section 5 : Présentation des passeports.<a id=41></a>
 
 ###### Article 45
 
@@ -1664,7 +1704,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 6 : Livraisons surveillées.<a id=41></a>
+#### Section 6 : Livraisons surveillées.<a id=42></a>
 
 ###### Article 46
 
@@ -1720,11 +1760,11 @@ _Cite_:
   - Code des douanes de Mayotte - art. 283 (M)
 
 
-## Titre III : Conduite des marchandises en douane<a id=42></a>
+## Titre III : Conduite des marchandises en douane<a id=43></a>
 
-### Chapitre Ier : Importation<a id=43></a>
+### Chapitre Ier : Importation<a id=44></a>
 
-#### Section 1 : Transports par mer.<a id=44></a>
+#### Section 1 : Transports par mer.<a id=45></a>
 
 ###### Article 47
 
@@ -1894,7 +1934,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 94 (V)
 
 
-#### Section 2 : Transports par la voie aérienne.<a id=45></a>
+#### Section 2 : Transports par la voie aérienne.<a id=46></a>
 
 ###### Article 53
 
@@ -2032,7 +2072,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 58 (V)
 
 
-### Chapitre II : Magasins et aires de dédouanement.<a id=46></a>
+### Chapitre II : Magasins et aires de dédouanement.<a id=47></a>
 
 ###### Article 58
 
@@ -2171,7 +2211,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 93 (V)
 
 
-### Chapitre III : Exportation.<a id=47></a>
+### Chapitre III : Exportation.<a id=48></a>
 
 ###### Article 63
 
@@ -2193,11 +2233,11 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre IV : Opérations de dédouanement<a id=48></a>
+## Titre IV : Opérations de dédouanement<a id=49></a>
 
-### Chapitre Ier : Déclaration en détail<a id=49></a>
+### Chapitre Ier : Déclaration en détail<a id=50></a>
 
-#### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=50></a>
+#### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=51></a>
 
 ###### Article 64
 
@@ -2256,7 +2296,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 78 (V)
 
 
-#### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=51></a>
+#### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=52></a>
 
 ###### Article 66
 
@@ -2450,7 +2490,7 @@ _Cite_:
   - Code des douanes de Mayotte 64 à 69
 
 
-#### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=52></a>
+#### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=53></a>
 
 ###### Article 73
 
@@ -2676,9 +2716,9 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 286 (V)
 
 
-### Chapitre II : Vérification des marchandises<a id=53></a>
+### Chapitre II : Vérification des marchandises<a id=54></a>
 
-#### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=54></a>
+#### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=55></a>
 
 ###### Article 81
 
@@ -2766,7 +2806,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 151 (V)
 
 
-#### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=55></a>
+#### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=56></a>
 
 ###### Article 84
 
@@ -2796,7 +2836,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 305 (Ab)
 
 
-#### Section 3 : Application des résultats de la vérification.<a id=56></a>
+#### Section 3 : Application des résultats de la vérification.<a id=57></a>
 
 ###### Article 85
 
@@ -2822,9 +2862,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Liquidation et acquittement des droits et taxes<a id=57></a>
+### Chapitre III : Liquidation et acquittement des droits et taxes<a id=58></a>
 
-#### Section 1 : Liquidation des droits et taxes.<a id=58></a>
+#### Section 1 : Liquidation des droits et taxes.<a id=59></a>
 
 ###### Article 86
 
@@ -2878,7 +2918,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Paiement au comptant.<a id=59></a>
+#### Section 2 : Paiement au comptant.<a id=60></a>
 
 ###### Article 88
 
@@ -2926,7 +2966,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 3 : Crédit des droits et taxes.<a id=60></a>
+#### Section 3 : Crédit des droits et taxes.<a id=61></a>
 
 ###### Article 90
 
@@ -2960,9 +3000,9 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 145 (V)
 
 
-### Chapitre IV : Enlèvement des marchandises<a id=61></a>
+### Chapitre IV : Enlèvement des marchandises<a id=62></a>
 
-#### Section 1 : Règles générales.<a id=62></a>
+#### Section 1 : Règles générales.<a id=63></a>
 
 ###### Article 91
 
@@ -2992,7 +3032,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 86 (V)
 
 
-#### Section 2 : Crédit d'enlèvement.<a id=63></a>
+#### Section 2 : Crédit d'enlèvement.<a id=64></a>
 
 ###### Article 92
 
@@ -3018,7 +3058,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=64></a>
+#### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=65></a>
 
 ###### Article 93
 
@@ -3147,9 +3187,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 56 (V)
 
 
-## Titre V : Régimes douaniers suspensifs, exportation temporaire<a id=65></a>
+## Titre V : Régimes douaniers suspensifs, exportation temporaire<a id=66></a>
 
-### Chapitre Ier : Régime général des acquits-à-caution.<a id=66></a>
+### Chapitre Ier : Régime général des acquits-à-caution.<a id=67></a>
 
 ###### Article 97
 
@@ -3277,7 +3317,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre II : Transit.<a id=67></a>
+### Chapitre II : Transit.<a id=68></a>
 
 ###### Article 102
 
@@ -3463,9 +3503,9 @@ _Cite_:
   - Code des douanes de Mayotte 102 à 107
 
 
-### Chapitre III : Entrepôt de douane (entrepôt de stockage)<a id=68></a>
+### Chapitre III : Entrepôt de douane (entrepôt de stockage)<a id=69></a>
 
-#### Section 1 : Définition et effets de l'entrepôt.<a id=69></a>
+#### Section 1 : Définition et effets de l'entrepôt.<a id=70></a>
 
 ###### Article 109
 
@@ -3508,9 +3548,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 111 (V)
 
 
-#### Section 2 : Marchandises exclues, marchandises admissibles, restrictions de stockage<a id=70></a>
+#### Section 2 : Marchandises exclues, marchandises admissibles, restrictions de stockage<a id=71></a>
 
-##### Paragraphe 1 : Marchandises exclues.<a id=71></a>
+##### Paragraphe 1 : Marchandises exclues.<a id=72></a>
 
 ###### Article 110
 
@@ -3556,7 +3596,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 118 (V)
 
 
-##### Paragraphe 2 : Marchandises admissibles.<a id=72></a>
+##### Paragraphe 2 : Marchandises admissibles.<a id=73></a>
 
 ###### Article 111
 
@@ -3599,7 +3639,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 110 (V)
 
 
-##### Paragraphe 3 : Restrictions de stockage.<a id=73></a>
+##### Paragraphe 3 : Restrictions de stockage.<a id=74></a>
 
 ###### Article 112
 
@@ -3662,9 +3702,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 111 (V)
 
 
-#### Section 3 : L'entrepôt public<a id=74></a>
+#### Section 3 : L'entrepôt public<a id=75></a>
 
-##### Paragraphe 1 : Etablissement de l'entrepôt public.<a id=75></a>
+##### Paragraphe 1 : Etablissement de l'entrepôt public.<a id=76></a>
 
 ###### Article 114
 
@@ -3691,7 +3731,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises.<a id=76></a>
+##### Paragraphe 2 : Utilisation de l'entrepôt public Séjour des marchandises.<a id=77></a>
 
 ###### Article 115
 
@@ -3768,9 +3808,9 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 120 (V)
 
 
-#### Section 4 : L'entrepôt privé<a id=77></a>
+#### Section 4 : L'entrepôt privé<a id=78></a>
 
-##### Paragraphe 1 : Etablissement de l'entrepôt privé.<a id=78></a>
+##### Paragraphe 1 : Etablissement de l'entrepôt privé.<a id=79></a>
 
 ###### Article 117
 
@@ -3804,7 +3844,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises.<a id=79></a>
+##### Paragraphe 2 : Marchandises admissibles en entrepôt privé, séjour des marchandises.<a id=80></a>
 
 ###### Article 118
 
@@ -3838,9 +3878,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 116 (V)
 
 
-#### Section 5 : L'entrepôt spécial<a id=80></a>
+#### Section 5 : L'entrepôt spécial<a id=81></a>
 
-##### Paragraphe 1 : Etablissement de l'entrepôt spécial.<a id=81></a>
+##### Paragraphe 1 : Etablissement de l'entrepôt spécial.<a id=82></a>
 
 ###### Article 119
 
@@ -3871,7 +3911,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 115 (V)
 
 
-##### Paragraphe 2 : Séjour des marchandises.<a id=82></a>
+##### Paragraphe 2 : Séjour des marchandises.<a id=83></a>
 
 ###### Article 120
 
@@ -3908,7 +3948,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 125 (V)
 
 
-#### Section 6 : Dispositions applicables à tous les entrepôts de stockage.<a id=83></a>
+#### Section 6 : Dispositions applicables à tous les entrepôts de stockage.<a id=84></a>
 
 ###### Article 121
 
@@ -4132,7 +4172,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre IV : Entrepôt de douane (entrepôt industriel).<a id=84></a>
+### Chapitre IV : Entrepôt de douane (entrepôt industriel).<a id=85></a>
 
 ###### Article 129
 
@@ -4296,7 +4336,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre V : Usines exercées par la douane.<a id=85></a>
+### Chapitre V : Usines exercées par la douane.<a id=86></a>
 
 ###### Article 135
 
@@ -4340,7 +4380,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre VI : Admission temporaire.<a id=86></a>
+### Chapitre VI : Admission temporaire.<a id=87></a>
 
 ###### Article 137
 
@@ -4607,7 +4647,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre VII : Exportation temporaire.<a id=87></a>
+### Chapitre VII : Exportation temporaire.<a id=88></a>
 
 ###### Article 147
 
@@ -4635,9 +4675,9 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-## Titre VI : Dépôt de douane<a id=88></a>
+## Titre VI : Dépôt de douane<a id=89></a>
 
-### Chapitre Ier : Constitution des marchandises en dépôt.<a id=89></a>
+### Chapitre Ier : Constitution des marchandises en dépôt.<a id=90></a>
 
 ###### Article 148
 
@@ -4730,7 +4770,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 83 (V)
 
 
-### Chapitre II : Vente des marchandises en dépôt.<a id=90></a>
+### Chapitre II : Vente des marchandises en dépôt.<a id=91></a>
 
 ###### Article 152
 
@@ -4813,9 +4853,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre VII : Opérations privilégiées<a id=91></a>
+## Titre VII : Opérations privilégiées<a id=92></a>
 
-### Chapitre Ier : Admissions en franchise.<a id=92></a>
+### Chapitre Ier : Admissions en franchise.<a id=93></a>
 
 ###### Article 155
 
@@ -4954,9 +4994,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 3 (V)
 
 
-### Chapitre II : Avitaillement des navires et des aéronefs<a id=93></a>
+### Chapitre II : Avitaillement des navires et des aéronefs<a id=94></a>
 
-#### Section 1 : Dispositions spéciales aux navires.<a id=94></a>
+#### Section 1 : Dispositions spéciales aux navires.<a id=95></a>
 
 ###### Article 156
 
@@ -5048,7 +5088,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Dispositions spéciales aux aéronefs.<a id=95></a>
+#### Section 2 : Dispositions spéciales aux aéronefs.<a id=96></a>
 
 ###### Article 160
 
@@ -5070,7 +5110,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=96></a>
+### Chapitre III : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=97></a>
 
 ###### Article 161
 
@@ -5128,9 +5168,9 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-## Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier<a id=97></a>
+## Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier<a id=98></a>
 
-### Chapitre unique : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.<a id=98></a>
+### Chapitre unique : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.<a id=99></a>
 
 ###### Article 163
 
@@ -5169,11 +5209,11 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 285 (V)
 
 
-## Titre IX : Navigation<a id=99></a>
+## Titre IX : Navigation<a id=100></a>
 
-### Chapitre Ier : Régime administratif des navires<a id=100></a>
+### Chapitre Ier : Régime administratif des navires<a id=101></a>
 
-#### Section 1 : Champ d'application.<a id=101></a>
+#### Section 1 : Champ d'application.<a id=102></a>
 
 ###### Article 164
 
@@ -5194,9 +5234,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 2 : Francisation des navires<a id=102></a>
+#### Section 2 : Francisation des navires<a id=103></a>
 
-##### Paragraphe 1 : Généralités.<a id=103></a>
+##### Paragraphe 1 : Généralités.<a id=104></a>
 
 ###### Article 165
 
@@ -5220,7 +5260,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 2 : Jaugeage des navires.<a id=104></a>
+##### Paragraphe 2 : Jaugeage des navires.<a id=105></a>
 
 ###### Article 166
 
@@ -5242,7 +5282,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 3 : Droit de francisation et de navigation.<a id=105></a>
+##### Paragraphe 3 : Droit de francisation et de navigation.<a id=106></a>
 
 ###### Article 167
 
@@ -5325,7 +5365,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 4 : Réparations de navires français hors du territoire douanier.<a id=106></a>
+##### Paragraphe 4 : Réparations de navires français hors du territoire douanier.<a id=107></a>
 
 ###### Article 170
 
@@ -5363,7 +5403,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 3 : Congés.<a id=107></a>
+#### Section 3 : Congés.<a id=108></a>
 
 ###### Article 171
 
@@ -5412,7 +5452,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 4 : Passeports.<a id=108></a>
+#### Section 4 : Passeports.<a id=109></a>
 
 ###### Article 173
 
@@ -5433,9 +5473,9 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-#### Section 5 : Hypothèques maritimes<a id=109></a>
+#### Section 5 : Hypothèques maritimes<a id=110></a>
 
-##### Paragraphe 1 : Constitution de l'hypothèque.<a id=110></a>
+##### Paragraphe 1 : Constitution de l'hypothèque.<a id=111></a>
 
 ###### Article 174
 
@@ -5541,7 +5581,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 2 : Effets de l'hypothèque.<a id=111></a>
+##### Paragraphe 2 : Effets de l'hypothèque.<a id=112></a>
 
 ###### Article 179
 
@@ -5624,7 +5664,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 3 : Radiations.<a id=112></a>
+##### Paragraphe 3 : Radiations.<a id=113></a>
 
 ###### Article 183
 
@@ -5646,7 +5686,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 4 : Etat des inscriptions, saisie.<a id=113></a>
+##### Paragraphe 4 : Etat des inscriptions, saisie.<a id=114></a>
 
 ###### Article 184
 
@@ -5677,7 +5717,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-##### Paragraphe 5 : Ventes.<a id=114></a>
+##### Paragraphe 5 : Ventes.<a id=115></a>
 
 ###### Article 185
 
@@ -5741,7 +5781,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre II : Relâches forcées.<a id=115></a>
+### Chapitre II : Relâches forcées.<a id=116></a>
 
 ###### Article 187
 
@@ -5799,7 +5839,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Marchandises sauvées des naufrages, épaves.<a id=116></a>
+### Chapitre III : Marchandises sauvées des naufrages, épaves.<a id=117></a>
 
 ###### Article 189
 
@@ -5840,7 +5880,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-## Titre X : Zones franches.<a id=117></a>
+## Titre X : Zones franches.<a id=118></a>
 
 ###### Article 191
 
@@ -5890,13 +5930,13 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 287 (V)
 
 
-## Titre XI : Contentieux et recouvrement<a id=118></a>
+## Titre XI : Contentieux et recouvrement<a id=119></a>
 
-### Chapitre Ier : Constatation des infractions douanières<a id=119></a>
+### Chapitre Ier : Constatation des infractions douanières<a id=120></a>
 
-#### Section 1 : Constatation par procès-verbal de saisie<a id=120></a>
+#### Section 1 : Constatation par procès-verbal de saisie<a id=121></a>
 
-##### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.<a id=121></a>
+##### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.<a id=122></a>
 
 ###### Article 193
 
@@ -5946,7 +5986,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 208 (V)
 
 
-##### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=122></a>
+##### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=123></a>
 
 ###### Article 194
 
@@ -6079,9 +6119,9 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=123></a>
+##### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=124></a>
 
-##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=124></a>
+##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=125></a>
 
 ###### Article 199
 
@@ -6107,7 +6147,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### B. - Saisies à domicile.<a id=125></a>
+##### B. - Saisies à domicile.<a id=126></a>
 
 ###### Article 200
 
@@ -6140,7 +6180,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 41 (M)
 
 
-##### C. - Saisies sur les navires et bateaux pontés.<a id=126></a>
+##### C. - Saisies sur les navires et bateaux pontés.<a id=127></a>
 
 ###### Article 201
 
@@ -6166,7 +6206,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### D. - Saisies en tous lieux.<a id=127></a>
+##### D. - Saisies en tous lieux.<a id=128></a>
 
 ###### Article 202
 
@@ -6207,7 +6247,7 @@ _Cite_:
   - Code des douanes de Mayotte 163, 193 à 201
 
 
-##### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=128></a>
+##### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=129></a>
 
 ###### Article 203
 
@@ -6237,7 +6277,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 233 (V)
 
 
-#### Section 2 : Constatation par procès-verbal de constat.<a id=129></a>
+#### Section 2 : Constatation par procès-verbal de constat.<a id=130></a>
 
 ###### Article 204
 
@@ -6276,9 +6316,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 44 (V)
 
 
-#### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=130></a>
+#### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=131></a>
 
-##### Paragraphe 1 : Timbre et enregistrement.<a id=131></a>
+##### Paragraphe 1 : Timbre et enregistrement.<a id=132></a>
 
 ###### Article 205
 
@@ -6301,7 +6341,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=132></a>
+##### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=133></a>
 
 ###### Article 206
 
@@ -6498,9 +6538,9 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-### Chapitre II : Poursuites et recouvrement<a id=133></a>
+### Chapitre II : Poursuites et recouvrement<a id=134></a>
 
-#### Section 1 : Dispositions générales.<a id=134></a>
+#### Section 1 : Dispositions générales.<a id=135></a>
 
 ###### Article 213
 
@@ -6597,7 +6637,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-#### Section 2 : Recouvrement<a id=135></a>
+#### Section 2 : Recouvrement<a id=136></a>
 
 ###### Article 217
 
@@ -6768,9 +6808,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 220 (V)
 
 
-#### Section 3 : Extinction des droits de poursuite et de répression<a id=136></a>
+#### Section 3 : Extinction des droits de poursuite et de répression<a id=137></a>
 
-##### Paragraphe 1 : Droit de transaction.<a id=137></a>
+##### Paragraphe 1 : Droit de transaction.<a id=138></a>
 
 ###### Article 221
 
@@ -6806,7 +6846,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Prescription de l'action.<a id=138></a>
+##### Paragraphe 2 : Prescription de l'action.<a id=139></a>
 
 ###### Article 222
 
@@ -6833,9 +6873,9 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 224 (V)
 
 
-##### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=139></a>
+##### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=140></a>
 
-##### A. - Prescription contre les redevables.<a id=140></a>
+##### A. - Prescription contre les redevables.<a id=141></a>
 
 ###### Article 223
 
@@ -6919,7 +6959,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 227 (V)
 
 
-##### B. - Prescription contre l'administration.<a id=141></a>
+##### B. - Prescription contre l'administration.<a id=142></a>
 
 ###### Article 226
 
@@ -6942,7 +6982,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 227 (V)
 
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=142></a>
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=143></a>
 
 ###### Article 227
 
@@ -6974,9 +7014,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 226 (V)
 
 
-### Chapitre III : Procédure devant les tribunaux<a id=143></a>
+### Chapitre III : Procédure devant les tribunaux<a id=144></a>
 
-#### Section 1 : Tribunaux compétents en matière de douane.<a id=144></a>
+#### Section 1 : Tribunaux compétents en matière de douane.<a id=145></a>
 
 ###### Article 228
 
@@ -7044,9 +7084,9 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 257 bis (V)
 
 
-#### Section 2 : Procédure devant les juridictions civiles<a id=145></a>
+#### Section 2 : Procédure devant les juridictions civiles<a id=146></a>
 
-##### Paragraphe 1 : Appel des jugements rendus par le juge de première instance.<a id=146></a>
+##### Paragraphe 1 : Appel des jugements rendus par le juge de première instance.<a id=147></a>
 
 ###### Article 231
 
@@ -7069,7 +7109,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Notification des jugements et autres actes de procédure.<a id=147></a>
+##### Paragraphe 2 : Notification des jugements et autres actes de procédure.<a id=148></a>
 
 ###### Article 232
 
@@ -7099,7 +7139,7 @@ _Cité par_:
   - Code des douanes de Vayotte - art. 257 (M)
 
 
-#### Section 3 : Procédure devant les juridictions répressives.<a id=148></a>
+#### Section 3 : Procédure devant les juridictions répressives.<a id=149></a>
 
 ###### Article 233
 
@@ -7126,11 +7166,11 @@ _Cite_:
   - Code des douanes de Mayotte - art. 203 (V)
 
 
-#### Section 4 : Dispositions diverses<a id=149></a>
+#### Section 4 : Dispositions diverses<a id=150></a>
 
-##### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=150></a>
+##### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=151></a>
 
-##### A. - Instruction et frais.<a id=151></a>
+##### A. - Instruction et frais.<a id=152></a>
 
 ###### Article 234
 
@@ -7153,7 +7193,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### B. - Exploits.<a id=152></a>
+##### B. - Exploits.<a id=153></a>
 
 ###### Article 235
 
@@ -7177,7 +7217,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=153></a>
+##### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=154></a>
 
 ###### Article 236
 
@@ -7268,9 +7308,9 @@ _Cite_:
   - Code des douanes de Mayotte - art. 302 (V)
 
 
-##### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=154></a>
+##### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=155></a>
 
-##### A. - Preuves de non-contravention.<a id=155></a>
+##### A. - Preuves de non-contravention.<a id=156></a>
 
 ###### Article 238
 
@@ -7292,7 +7332,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### B. - Action en garantie.<a id=156></a>
+##### B. - Action en garantie.<a id=157></a>
 
 ###### Article 239
 
@@ -7318,7 +7358,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### C. - Confiscation des objets saisis sur inconnus et des minuties.<a id=157></a>
+##### C. - Confiscation des objets saisis sur inconnus et des minuties.<a id=158></a>
 
 ###### Article 240
 
@@ -7345,7 +7385,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### D. - Revendication des objets saisis.<a id=158></a>
+##### D. - Revendication des objets saisis.<a id=159></a>
 
 ###### Article 241
 
@@ -7370,7 +7410,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### E. - Fausses déclarations.<a id=159></a>
+##### E. - Fausses déclarations.<a id=160></a>
 
 ###### Article 242
 
@@ -7397,7 +7437,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 79 (V)
 
 
-##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=160></a>
+##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=161></a>
 
 ###### Article 243
 
@@ -7426,11 +7466,11 @@ _Cite_:
   - Code des douanes de Mayotte - art. 236 (V)
 
 
-### Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=161></a>
+### Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=162></a>
 
-#### Section 1 : Sûretés garantissant l'exécution<a id=162></a>
+#### Section 1 : Sûretés garantissant l'exécution<a id=163></a>
 
-##### Paragraphe 1 : Droit de rétention.<a id=163></a>
+##### Paragraphe 1 : Droit de rétention.<a id=164></a>
 
 ###### Article 244
 
@@ -7454,7 +7494,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=164></a>
+##### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=165></a>
 
 ###### Article 245
 
@@ -7531,9 +7571,9 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
 
 
-#### Section 2 : Voie d'exécution<a id=165></a>
+#### Section 2 : Voie d'exécution<a id=166></a>
 
-##### Paragraphe 1 : Règles générales.<a id=166></a>
+##### Paragraphe 1 : Règles générales.<a id=167></a>
 
 ###### Article 248
 
@@ -7566,7 +7606,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=167></a>
+##### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=168></a>
 
 ###### Article 249
 
@@ -7770,7 +7810,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 245 (M)
 
 
-##### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=168></a>
+##### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=169></a>
 
 ###### Article 256
 
@@ -7792,9 +7832,9 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
 
 
-##### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes<a id=169></a>
+##### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douanes<a id=170></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=170></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=171></a>
 
 ###### Article 257
 
@@ -7836,7 +7876,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 257 bis (V)
 
 
-##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=171></a>
+##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=172></a>
 
 ###### Article 257 bis
 
@@ -7878,7 +7918,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 257 (V)
 
 
-##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=172></a>
+##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=173></a>
 
 ###### Article 258
 
@@ -7908,7 +7948,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 3 : Droit de remise.<a id=173></a>
+#### Section 3 : Droit de remise.<a id=174></a>
 
 ###### Article 259
 
@@ -7937,7 +7977,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
 
 
-#### Section 4 : Répartition du produit des amendes et confiscations.<a id=174></a>
+#### Section 4 : Répartition du produit des amendes et confiscations.<a id=175></a>
 
 ###### Article 260
 
@@ -7965,11 +8005,11 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre V : Responsabilité et solidarité<a id=175></a>
+### Chapitre V : Responsabilité et solidarité<a id=176></a>
 
-#### Section 1 : Responsabilité pénale<a id=176></a>
+#### Section 1 : Responsabilité pénale<a id=177></a>
 
-##### Paragraphe 1 : Détenteurs.<a id=177></a>
+##### Paragraphe 1 : Détenteurs.<a id=178></a>
 
 ###### Article 261
 
@@ -7995,7 +8035,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=178></a>
+##### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=179></a>
 
 ###### Article 262
 
@@ -8052,7 +8092,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 287 (V)
 
 
-##### Paragraphe 3 : Déclarants.<a id=179></a>
+##### Paragraphe 3 : Déclarants.<a id=180></a>
 
 ###### Article 264
 
@@ -8078,7 +8118,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 4 : Commissionnaires en douane agréés.<a id=180></a>
+##### Paragraphe 4 : Commissionnaires en douane agréés.<a id=181></a>
 
 ###### Article 265
 
@@ -8102,7 +8142,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 5 : Soumissionnaires.<a id=181></a>
+##### Paragraphe 5 : Soumissionnaires.<a id=182></a>
 
 ###### Article 266
 
@@ -8129,7 +8169,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 6 : Complices.<a id=182></a>
+##### Paragraphe 6 : Complices.<a id=183></a>
 
 ###### Article 267
 
@@ -8152,7 +8192,7 @@ _Cite_:
   - Code pénal - art. 121-6 (V)
 
 
-##### Paragraphe 7 : Intéressés à la fraude.<a id=183></a>
+##### Paragraphe 7 : Intéressés à la fraude.<a id=184></a>
 
 ###### Article 268
 
@@ -8197,9 +8237,9 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 46 (V)
 
 
-#### Section 2 : Responsabilité civile<a id=184></a>
+#### Section 2 : Responsabilité civile<a id=185></a>
 
-##### Paragraphe 1 : Responsabilité de l'administration.<a id=185></a>
+##### Paragraphe 1 : Responsabilité de l'administration.<a id=186></a>
 
 ###### Article 269
 
@@ -8276,7 +8316,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 41 (V)
 
 
-##### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=186></a>
+##### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=187></a>
 
 ###### Article 272
 
@@ -8299,7 +8339,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=187></a>
+##### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=188></a>
 
 ###### Article 273
 
@@ -8322,7 +8362,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-#### Section 3 : Solidarité.<a id=188></a>
+#### Section 3 : Solidarité.<a id=189></a>
 
 ###### Article 274
 
@@ -8375,11 +8415,11 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-### Chapitre VI : Dispositions répressives<a id=189></a>
+### Chapitre VI : Dispositions répressives<a id=190></a>
 
-#### Section 1 : Classification des infractions douanières et peines principales<a id=190></a>
+#### Section 1 : Classification des infractions douanières et peines principales<a id=191></a>
 
-##### Paragraphe 1 : Généralités.<a id=191></a>
+##### Paragraphe 1 : Généralités.<a id=192></a>
 
 ###### Article 276
 
@@ -8421,9 +8461,9 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Contraventions douanières<a id=192></a>
+##### Paragraphe 2 : Contraventions douanières<a id=193></a>
 
-##### A. - Première classe.<a id=193></a>
+##### A. - Première classe.<a id=194></a>
 
 ###### Article 278
 
@@ -8459,7 +8499,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### B. - Deuxième classe.<a id=194></a>
+##### B. - Deuxième classe.<a id=195></a>
 
 ###### Article 279
 
@@ -8513,7 +8553,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 99 (V)
 
 
-##### C. - Troisième classe.<a id=195></a>
+##### C. - Troisième classe.<a id=196></a>
 
 ###### Article 280
 
@@ -8560,7 +8600,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### D. - Quatrième classe.<a id=196></a>
+##### D. - Quatrième classe.<a id=197></a>
 
 ###### Article 281
 
@@ -8596,9 +8636,9 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 3 : Délits douaniers<a id=197></a>
+##### Paragraphe 3 : Délits douaniers<a id=198></a>
 
-##### A. - Première classe.<a id=198></a>
+##### A. - Première classe.<a id=199></a>
 
 ###### Article 282
 
@@ -8635,7 +8675,7 @@ _Cité par_:
   - Code des douanes de Mayotte - art. 41 (VD)
 
 
-##### B. - Deuxième classe.<a id=199></a>
+##### B. - Deuxième classe.<a id=200></a>
 
 ###### Article 283
 
@@ -8665,7 +8705,7 @@ _Cité par_:
   - Code monétaire et financier - art. L735-4 (VT)
 
 
-##### Paragraphe 4 : Contrebande.<a id=200></a>
+##### Paragraphe 4 : Contrebande.<a id=201></a>
 
 ###### Article 284
 
@@ -8756,7 +8796,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 282 (V)
 
 
-##### Paragraphe 5 : Importations et exportations sans déclaration.<a id=201></a>
+##### Paragraphe 5 : Importations et exportations sans déclaration.<a id=202></a>
 
 ###### Article 286
 
@@ -8991,9 +9031,9 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-#### Section 2 : Peines complémentaires<a id=202></a>
+#### Section 2 : Peines complémentaires<a id=203></a>
 
-##### Paragraphe 1 : Confiscation.<a id=203></a>
+##### Paragraphe 1 : Confiscation.<a id=204></a>
 
 ###### Article 292
 
@@ -9030,7 +9070,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 37 (V)
 
 
-##### Paragraphe 2 : Astreinte.<a id=204></a>
+##### Paragraphe 2 : Astreinte.<a id=205></a>
 
 ###### Article 293
 
@@ -9062,7 +9102,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 70 (V)
 
 
-##### Paragraphe 3 : Peines privatives de droits.<a id=205></a>
+##### Paragraphe 3 : Peines privatives de droits.<a id=206></a>
 
 ###### Article 294
 
@@ -9156,9 +9196,9 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-#### Section 3 : Cas particuliers d'application des peines<a id=206></a>
+#### Section 3 : Cas particuliers d'application des peines<a id=207></a>
 
-##### Paragraphe 1 : Confiscation.<a id=207></a>
+##### Paragraphe 1 : Confiscation.<a id=208></a>
 
 ###### Article 297
 
@@ -9215,7 +9255,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-##### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=208></a>
+##### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=209></a>
 
 ###### Article 299
 
@@ -9328,7 +9368,7 @@ _Cite_:
   - Code des douanes de Mayotte - art. 289 (V)
 
 
-##### Paragraphe 3 : Concours d'infractions.<a id=209></a>
+##### Paragraphe 3 : Concours d'infractions.<a id=210></a>
 
 ###### Article 303
 
@@ -9376,7 +9416,7 @@ _Modifié par_:
   - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
 
 
-## Titre XII : La commission de conciliation et d'expertise douanière.<a id=210></a>
+## Titre XII : La commission de conciliation et d'expertise douanière.<a id=211></a>
 
 ###### Article 305
 
@@ -9687,9 +9727,9 @@ _Abrogé par_:
   - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
-## Titre XIII : Contentieux des relations financières avec l'étranger<a id=211></a>
+## Titre XIII : Contentieux des relations financières avec l'étranger<a id=212></a>
 
-### Chapitre Ier : Dispositions communes.<a id=212></a>
+### Chapitre Ier : Dispositions communes.<a id=213></a>
 
 ###### Article 314
 
@@ -9719,7 +9759,7 @@ _Cité par_:
   - Code monétaire et financier - art. L731-6 (VT)
 
 
-### Chapitre II : Constatation des infractions.<a id=213></a>
+### Chapitre II : Constatation des infractions.<a id=214></a>
 
 ###### Article 315
 
@@ -9860,7 +9900,7 @@ _Modifié par_:
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
 
 
-### Chapitre III : Poursuite des infractions.<a id=214></a>
+### Chapitre III : Poursuite des infractions.<a id=215></a>
 
 ###### Article 320
 
@@ -9883,7 +9923,7 @@ _Modifié par_:
   - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
 
 
-### Chapitre IV : Dispositions répressives.<a id=215></a>
+### Chapitre IV : Dispositions répressives.<a id=216></a>
 
 ###### Article 321
 
