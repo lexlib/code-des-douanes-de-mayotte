@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 1992-10-16
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Partie législative (art. 33 à 318)](#1)
     - [Titre II : Organisation et fonctionnement du service des douanes (art. 33 à 34)](#2)
