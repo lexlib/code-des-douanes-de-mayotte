@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. 1 à 321)](#1)
     - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 22)](#2)
@@ -7552,26 +7552,21 @@ _Modifié par_:
 
 ###### Article 239
 
-1. La confiscation des marchandises saisies peut être poursuivie contre les conducteurs ou déclarants sans que
-l'administration des douanes soit tenue de mettre en cause les propriétaires quand même ils lui seraient indiqués.
+1. La confiscation des marchandises saisies peut être poursuivie contre les conducteurs ou déclarants.
 
-2. Toutefois, si les propriétaires interviennent ou sont appelés en garantie par ceux sur lesquels les saisies ont été
-faites, les tribunaux statueront, ainsi que de droit, sur les interventions ou sur les appels en garantie.
+2. Lorsque leur propriétaire est connu, la  confiscation des marchandises saisies, à l'exception de celles qui sont
+prohibées au titre de la réglementation douanière, ne peut être  poursuivie qu'en cas de mise en cause de ce dernier devant
+la  juridiction répressive appelée à se prononcer sur l'instance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 92-1142 1992-10-12
-
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+  - Ordonnance n°92-1142 du 12 octobre 1992
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 
 ##### C. - Confiscation des objets saisis sur inconnus et des minuties.<a id=157></a>
@@ -7608,22 +7603,26 @@ _Modifié par_:
 1. Les objets saisis ou confisqués ne peuvent être revendiqués par les propriétaires, ni le prix, qu'il soit consigné ou non,
 réclamé par les créanciers même privilégiés, sauf leur recours contre les auteurs de la fraude.
 
+1  bis. Toutefois, lorsque la marchandise de fraude ou ayant servi à  masquer la fraude a été saisie et sous réserve qu'elle
+ne soit pas  prohibée au titre de la réglementation douanière, la mainlevée est  offerte, sans caution ni consignation, au
+propriétaire de bonne foi non  poursuivi en application du présent code, même lorsque la juridiction  répressive en a
+prononcé la confiscation. Cette mainlevée est  subordonnée au remboursement des frais éventuellement engagés par
+l'administration pour assurer la garde et la conservation de la  marchandise.
+
+1 ter. Par dérogation au 1 bis, aucune  mainlevée n'est proposée lorsque la marchandise de fraude ou ayant servi  à masquer
+la fraude a été détériorée en raison de son utilisation à  cette fin.
+
 2. Les délais d'appel, de tierce opposition et de vente expirés, toutes répétitions et actions sont non recevables.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 92-1142 1992-10-12
-
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+  - Ordonnance n°92-1142 du 12 octobre 1992
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 
 ##### E. - Fausses déclarations.<a id=159></a>
@@ -8045,38 +8044,34 @@ _Modifié par_:
 
 ###### Article 257
 
-1. En cas de saisie de moyens de transport dont la remise sous caution aura été offerte par procès-verbal et n'aura pas été
-acceptée par la partie, ainsi qu'en cas de saisie d'objets qui ne pourront être conservés sans courir le risque de
-détérioration, il sera, à la diligence de l'administration des douanes et en vertu de la permission du juge de première
-instance ou du juge d'instruction, procédé à la vente par enchère des objets saisis.
+1. En cas de saisie de moyens de transport dont la remise sous caution  ou consignation a été offerte par procès-verbal et
+n'a pas été acceptée  par la partie, ainsi qu'en cas de saisie d'objets qui ne peuvent être  conservés sans courir le risque
+de détérioration, le juge des libertés  et de la détention du tribunal de grande instance dans le ressort duquel  sont situés
+les biens ou le juge d'instruction saisi de l'affaire  peuvent, à la requête de l'administration des douanes, autoriser la
+vente par enchères des objets saisis.
 
-2. L'ordonnance portant permis de vendre sera notifiée dans le jour à la partie adverse conformément aux dispositions de
-l'article 232-2 ci-dessus avec déclaration qu'il sera immédiatement procédé à la vente, tant en son absence qu'en sa
-présence, attendu le péril en la demeure.
+2. Les décisions prises en application du présent article font l'objet d'une ordonnance motivée.
 
-3. L'ordonnance du juge de première instance ou du juge d'instruction sera exécutée nonobstant opposition ou appel.
+3. L'ordonnance portant autorisation de vente  est notifiée au propriétaire des biens s'il est connu, qui peut la  déférer à
+la chambre de l'instruction par déclaration au greffe du  tribunal dans les dix jours qui suivent la notification de la
+décision.  Cet appel est suspensif. Le propriétaire peut être entendu par la  chambre de l'instruction.
 
-4. Le produit de la vente sera déposé dans la caisse de la douane pour en être disposé ainsi qu'il sera statué en définitive
-par le tribunal chargé de se prononcer sur la saisie.
+4. Le produit de la vente est consigné par le  comptable des douanes. Lorsque la confiscation des biens n'est pas  prononcée,
+ce produit est restitué à leur propriétaire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 92-1142 1992-10-12
-
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+  - Ordonnance n°92-1142 du 12 octobre 1992
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-  - Ordonnance 2004-1151 2004-10-28 art. 4 C JORF 29 octobre 2004
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 _Cite_:
 
-  - Code des douanes de Mayotte - art. 232 (V)
+  - Code des douanes de Mayotte - art. 232
 
 _Cité par_:
 
@@ -8087,32 +8082,33 @@ _Cité par_:
 
 ###### Article 257 bis
 
-1° En cas de saisie de marchandises :
+1 En cas de saisie de marchandises :
 
 - qualifiées par la loi de dangereuses, ou de nuisibles, ou dont la fabrication, le commerce ou la détention est illicite ;
 
 - destinées à l'alimentation humaine ou animale mais qui ne peuvent être vendues en application de l'article 257 parce
-qu'elles sont impropres à la consommation, ou qui ne peuvent être conservées sans risque de détérioration.
+qu'elles sont impropres à la consommation, ou qui ne peuvent être conservées sans risque de détérioration. 
 
-Il est, à la diligence de l'administration des douanes, sous réserve d'un prélèvement préalable d'échantillons selon des
-modalités fixées par décret en Conseil d'Etat, et en vertu de l'autorisation du juge de première instance compétent en
-application de l'article 230 ou du juge d'instruction, procédé à la destruction des objets saisis ;
+Le juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les biens ou le
+juge d'instruction saisi de l'affaire peuvent, à la requête de l'administration des douanes, sous réserve d'un prélèvement
+préalable d'échantillons et selon des modalités fixées par décret en Conseil d'Etat, autoriser la destruction des objets
+saisis. 
 
-2° L'ordonnance portant autorisation de destruction est notifiée à l'autre partie conformément aux dispositions du 2 de
-l'article 232, avec déclaration qu'il sera immédiatement procédé à la destruction, tant en son absence qu'en sa présence ;
+2. Les décisions prises en application du présent article font l'objet d'une ordonnance motivée. 
 
-3° L'ordonnance du juge de première instance ou du juge d'instruction est exécutée nonobstant opposition ou appel. La
-destruction est constatée par procès-verbal de constat.
+3. L'ordonnance portant autorisation de destruction est notifiée au propriétaire des biens s'il est connu, qui peut la
+déférer à la chambre de l'instruction par déclaration au greffe du tribunal dans les dix jours qui suivent la notification de
+la décision. Cet appel est suspensif. Le propriétaire peut être entendu par la chambre de l'instruction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 92-1142 1992-10-12
+  - Ordonnance n°92-1142 du 12 octobre 1992
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 2004-1151 2004-10-28 art. 4 C, F JORF 29 octobre 2004
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 _Cité par_:
 
@@ -8120,9 +8116,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des douanes de Mayotte - art. 230 (M)
-  - Code des douanes de Mayotte - art. 232 (V)
-  - Code des douanes de Mayotte - art. 257 (V)
+  - Code général des impôts, CGI. - art. 257 (V)
 
 
 ##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=172></a>
