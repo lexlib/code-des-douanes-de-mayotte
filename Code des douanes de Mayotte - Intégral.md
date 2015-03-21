@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. 1 à 321)](#1)
     - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 22)](#2)
@@ -5306,18 +5306,9 @@ territoires d'outre-mer dans les conditions prévues à l'article 6 ci-dessus.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Ordonnance 92-1142 1992-10-12
-
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
-
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 4 (V) JORF 29 octobre 2004
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
