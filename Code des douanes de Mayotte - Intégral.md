@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2019-12-15
 ## Contenu: 
   - [Partie législative (art. 1 à 321)](#1)
     - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 22)](#2)
@@ -659,9 +659,9 @@ possède un intérêt dans le commerce de chacune d'elles, que ces intérêts so
 
 a) Sont fabriquées selon un procédé breveté ou font l'objet d'un dessin ou d'un modèle déposés ;
 
-b) Ou sont revêtues d'une marque de fabrique ou de commerce étrangère ou sont importées pour être vendues sous une telle
+b) Ou sont revêtues d'une marque de produits ou de services étrangère ou sont importées pour être vendues sous une telle
 marque, la détermination du prix normal se fait en considérant que ce prix normal comprend la valeur du droit d'utilisation
-du brevet, du dessin ou du modèle déposé ou de la marque de fabrique, ou de commerce, relatifs auxdites marchandises.
+du brevet, du dessin ou du modèle déposé ou de la marque de produits ou de services, relatifs auxdites marchandises.
 
 5. Toute déclaration doit être appuyée d'une facture.
 
@@ -689,6 +689,12 @@ documents qui doivent y être annexés.
 d'inexactitude ou d'omission en ce qui concerne les points de fait et en l'absence de faute de la part du déclarant ou de son
 commettant, ceux-ci sont seulement tenus au paiement des droits et taxes compromis ou éludés.
 
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -697,7 +703,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Cité par_:
 
@@ -797,26 +803,28 @@ _Cité par_:
 
 1. Sont prohibés à l'entrée, exclus de l'entrepôt, du transit et de la circulation tous produits étrangers, naturels ou
 fabriqués, portant soit sur eux-mêmes, soit sur des emballages, caisses, ballots, enveloppes, bandes ou étiquettes, etc., une
-marque de fabrique ou de commerce, un nom, un signe ou une indication quelconque de nature à faire croire qu'ils ont été
+marque de produits ou de services, un nom, un signe ou une indication quelconque de nature à faire croire qu'ils ont été
 fabriqués en France ou qu'ils sont d'origine française.
 
 2. Cette disposition s'applique également aux produits étrangers, fabriqués ou naturels, obtenus dans une localité de même
 nom qu'une localité française, qui ne portent pas, en même temps que le nom de cette localité, le nom du pays d'origine et la
 mention "Importé", en caractères manifestement apparents.
 
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Ordonnance 92-1142 1992-10-12
-
-_Créé par_:
-
-  - Ordonnance no 92-1142 du 12 octobre 1992 relative  - art. 1 (V) JORF 16 octobre 1992
+  - Ordonnance n°92-1142 du 12 octobre 1992
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 
 ###### Article 21
