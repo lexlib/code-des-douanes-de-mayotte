@@ -1,5 +1,5 @@
 # Code des douanes de Mayotte  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2020-10-01
 ## Contenu: 
   - [Partie législative (art. 1 à 321)](#1)
     - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 22)](#2)
@@ -6168,8 +6168,20 @@ _Cite_:
 
 ###### Article 193-10
 
-En cas de flagrant délit douanier commis par un mineur, la retenue douanière se déroule dans les conditions prévues à
-l'article 4 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+En cas de flagrant délit douanier commis par un mineur, la retenue douanière se déroule              dans les conditions
+prévues en matière de retenue et de garde à vue aux articles L. 311-1 à L. 311-5 et L. 411-1 à L. 413-5 du code de la justice
+pénale des mineurs.
+
+**Nota:**
+
+Conformément à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019, les dispositions du code de la justice pénale
+des mineurs, relatives à la procédure pénale, sont applicables aux poursuites engagées à compter de son entrée en vigueur.
+Les poursuites engagées avant cette date se poursuivent jusqu'à leur terme conformément aux dispositions du code de procédure
+pénale et de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante dans leur version applicable avant
+cette date.
+
+Toutefois, les dispositions du code de la justice pénale des mineurs relatives aux mesures de sûreté s'appliquent
+immédiatement lorsqu'elles sont plus favorables aux mineurs à l'encontre desquels ces poursuites sont engagées.
 
 **Liens relatifs à cet article**
 
@@ -6177,9 +6189,9 @@ _Cite_:
 
   - Ordonnance n°45-174 du 2 février 1945 - art. 4
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-392 du 14 avril 2011 - art. 25
+  - Ordonnance n°2019-950 du 11 septembre 2019 - art. 5
 
 
 ##### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=122></a>
